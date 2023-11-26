@@ -88,7 +88,7 @@ All rights reserved by Games Workshop & the Black Library.
 
 * 《皆为尘埃》All is Dust
 * 《阿里曼：放逐者》Ahriman: Exile
-* <a name="Ctesias"></a>《克泰夏斯故事集》Tales of Ctesias
+* <a name="Ctesias"></a>《克泰夏斯故事集》Tales of Ctesias *克泰夏斯眼中的阿里曼*
     * 《死亡神谕》The Dead Oracle
     * 《命运愚者》Fortune's Fool
     * 《忿怒猎犬》Hounds of Wrath
@@ -103,8 +103,10 @@ All rights reserved by Games Workshop & the Black Library.
 * 《阿里曼：永恒》Ahriman: Eternal
 
 ### <a name="Ahriman40k"></a> 40k时期
-和小马一样，是作为反派出场的... 塑造比较糟糕，机仆且只给个链接，不收录了...
+和小马一样，是作为反派出场的... 塑造比较（甚至有的应该说**相当**）糟糕，机仆且只给个链接，不收录了...
 * 《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
+    * 这里面倒是有那个颇有名的小豆腐块，~摄政夫人~ 伊芙蕾妮 Yvraine 当着阿教授复活红字...
+* 《炼狱之图》Atlas Infernal
 
 
 ## <a name="OtherThousandSons"></a> 其他千子们 Others
