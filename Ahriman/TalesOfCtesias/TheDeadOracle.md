@@ -6,6 +6,6 @@
 
 # <p align=center>死亡神谕</p>
 
-<p align=center><i> “欲即则离，欲离则即。”</i></p>
+<p align = center><i> “欲即则离，欲离则即。”</i></p>
 
-<div style="text-align: right"><i> —— 黑鸦学派神殿内题字</i> </div> 
+<p align = right><i> —— 黑鸦学派神殿内题字 </i></p> 
