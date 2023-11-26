@@ -43,6 +43,6 @@
   
 **尾声**
 
-上一篇：皆为尘埃
+上一篇：[皆为尘埃](/../VoicesOfFate/AllIsDust.md)
 
 下一篇：[克泰夏斯故事集](/../TalesOfCtesias/TalesOfCtesiasIndex.md)
