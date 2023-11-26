@@ -1,6 +1,7 @@
 # 死亡神谕 The Dead Oracle
 
 本文译自**The Dead Oracle**, John French 著，[赛里昂](https://space.bilibili.com/14242113) 译；
+收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中
 
 译文初见于b站[cv9634663](https://www.bilibili.com/read/cv9634663/)，已获得转载授权。
 
