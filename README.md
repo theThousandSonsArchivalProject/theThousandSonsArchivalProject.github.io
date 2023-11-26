@@ -89,7 +89,7 @@ All rights reserved by Games Workshop & the Black Library.
 * 《皆为尘埃》All is Dust
 * 《阿里曼：放逐者》Ahriman: Exile
 * <a name="Ctesias"></a>《克泰夏斯故事集》Tales of Ctesias *克泰夏斯眼中的阿里曼*
-    * 《死亡神谕》The Dead Oracle
+    * [《死亡神谕》The Dead Oracle](Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * 《命运愚者》Fortune's Fool
     * 《忿怒猎犬》Hounds of Wrath
     * 《第一亲王》The First Prince
