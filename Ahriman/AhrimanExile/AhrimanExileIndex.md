@@ -45,4 +45,4 @@
 
 上一篇：皆为尘埃
 
-下一篇：克泰夏斯故事集
+下一篇：[克泰夏斯故事集](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md)
