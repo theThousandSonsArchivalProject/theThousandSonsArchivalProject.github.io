@@ -88,7 +88,7 @@ All rights reserved by Games Workshop & the Black Library.
 
 * 《皆为尘埃》All is Dust
 * [《阿里曼：放逐者》Ahriman: Exile](Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>《克泰夏斯故事集》Tales of Ctesias *克泰夏斯眼中的阿里曼*
+* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) *克泰夏斯眼中的阿里曼*
     * [《死亡神谕》The Dead Oracle](Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * 《命运愚者》Fortune's Fool
     * 《忿怒猎犬》Hounds of Wrath
