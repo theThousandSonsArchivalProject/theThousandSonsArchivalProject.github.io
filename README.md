@@ -59,9 +59,9 @@ All rights reserved by Games Workshop & the Black Library.
 * 《灰之王》King of Ashes
   
 另外，以下故事中小马有作为反派boss打酱油。不怎么精彩，机仆就不收录于本站了，暂且只列个名字和链接。
-*《狼牙堡之战》Battle of the Fang *狼团视角*
-*《风云际会 3：原体崛起》Gathering Storm III: Rise of the Primarch
-*《芬里斯战区：马格努斯之怒》Warzone Fenris: Wrath of Mangus
+* 《狼牙堡之战》Battle of the Fang *狼团视角*
+* 《风云际会 3：原体崛起》Gathering Storm III: Rise of the Primarch
+* 《芬里斯战区：马格努斯之怒》Warzone Fenris: Wrath of Mangus
 
 
 ## 阿里曼 Ahzek Ahriman
@@ -102,8 +102,7 @@ All rights reserved by Games Workshop & the Black Library.
 * 《阿里曼：永恒》Ahriman: Eternal
 
 ### 40k时期战役书
-
-*《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
+* 《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
 
 
 ## 其他千子们 Others
@@ -118,14 +117,14 @@ All rights reserved by Games Workshop & the Black Library.
 * 《普罗斯佩罗的最后子嗣》The Last Son of Prospero
 
 阿萨瓦 Atharva，千子的大远征军团代表 the Crusader Host
-*《流浪弃儿》The Outcast Dead
+* 《流浪弃儿》The Outcast Dead
 
 莫蒂普/霍蒂普 Mhotep，残月号舰长
-*《深渊号之战》Battle for the Abyss
+* 《深渊号之战》Battle for the Abyss
 
 ### 40k:
 某个时光密教的巫师：
-*《圣贤之旅》Journey of the Magi
+* 《圣贤之旅》Journey of the Magi
 
 ## 千子考据集
 https://www.bilibili.com/read/readlist/rl700604
