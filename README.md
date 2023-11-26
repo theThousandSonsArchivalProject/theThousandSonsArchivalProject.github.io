@@ -7,6 +7,7 @@ Please note the translations are fan-based, non-profit, and are not for commerci
 All rights reserved by Games Workshop & the Black Library.
 
 ---
+
 欢迎来访。这里是千子码字机仆。
 
 本站是千子故事中文翻译的一处备份。倘若有一天b站倒闭了，那机仆希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
@@ -23,20 +24,26 @@ All rights reserved by Games Workshop & the Black Library.
 若需联系，请邮件theThousandSonsArchivalProject@gmail.com, 或b站私信 [AntsiLynn](https://space.bilibili.com/144045315/)
 
 ---
-##阅读顺序：
+
+## 阅读顺序：
+
 涵盖剧情简述的阅读列表，可参见[b站资源索引帖](https://www.bilibili.com/read/cv22790928)，机仆会稍后将其内容转移一份到本站上。
 
 以下是一份极为简略的、大致按照时间顺序排列的小说顺序。不过，为了背景理解，第一本推荐从《千子》读起。
 
+
 ## 马格努斯 Magnus
-**Pre-Heresy 大叛乱之前：**
+
+### Pre-Heresy 大叛乱之前：
+
 * 《黎明星之战/普罗斯佩罗之主》Master of Prospero
 * 《深渊边境》The Abyssal Edge
 * 《被抹杀的第六学派》The Sixth Cult Denied
 * 《千子》A Thousand Sons
 * 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来*
+  
+### During the Heresy 大叛乱之中：
 
-**During the Heresy 大叛乱之中：**
 * 《伤疤》Scars 17、19、20章 *小马灵魂碎片与可汗的对话*
 * 《尘埃》Dust
 * 《启示之贼》Thief of Revelations
@@ -46,16 +53,25 @@ All rights reserved by Games Workshop & the Black Library.
 * 《黎明星》Morning Star
 * 《马格努斯之怒》Fury of Magnus
 
-**Post-Heresy 大叛乱之后：**
+### Post-Heresy 大叛乱之后：
+并没有大叛乱后小马为主人公的长篇小说。
+短篇有一则。
+* 《灰之王》King of Ashes
+  
+另外，以下故事中小马有作为反派boss打酱油。不怎么精彩，机仆就不收录于本站了，暂且只列个名字和链接。
 *《狼牙堡之战》Battle of the Fang *狼团视角*
 *《风云际会 3：原体崛起》Gathering Storm III: Rise of the Primarch
 *《芬里斯战区：马格努斯之怒》Warzone Fenris: Wrath of Mangus
 
+
 ## 阿里曼 Ahzek Ahriman
-**Pre-Heresy 大叛乱之前：**
+
+### Pre-Heresy 大叛乱之前：
+
 同马格努斯部分。
 
-**During the Heresy 大叛乱之中：**
+### During the Heresy 大叛乱之中：
+
 大体同马格努斯部分。
 * 《尘埃》Dust
 * 《启示之贼》Thief of Revelations
@@ -67,7 +83,8 @@ All rights reserved by Games Workshop & the Black Library.
 * 《太阳战争》*第2、12、17-19章
 * 《马格努斯之怒》Fury of Magnus
 
-**Post-Heresy 大叛乱之后：**
+### Post-Heresy 大叛乱之后：
+
 * 《皆为尘埃》All is Dust
 * 《阿里曼：放逐者》Ahriman: Exile
 * 《克泰夏斯故事集》Tales of Ctesias
@@ -84,11 +101,15 @@ All rights reserved by Games Workshop & the Black Library.
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
 * 《阿里曼：永恒》Ahriman: Eternal
 
-**40k时期战役书**
+### 40k时期战役书
+
 *《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
 
+
 ## 其他千子们 Others
-**During the Heresy 大叛乱期间:**
+
+### During the Heresy 大叛乱期间：
+
 阿维达 Rivuel Arvida，后世的第一任灰骑士大导师：
 * 《重生》Rebirth
 * 《伤疤》Scars 第17-20章
@@ -102,7 +123,7 @@ All rights reserved by Games Workshop & the Black Library.
 莫蒂普/霍蒂普 Mhotep，残月号舰长
 *《深渊号之战》Battle for the Abyss
 
-**40k:**
+### 40k:
 某个时光密教的巫师：
 *《圣贤之旅》Journey of the Magi
 
