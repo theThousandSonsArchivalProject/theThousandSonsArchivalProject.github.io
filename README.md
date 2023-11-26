@@ -1,8 +1,10 @@
-# theThousandSonsArchivalProject.github.io
+# the Thousand Sons Archival Project
 
-A backup archive for the Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
+A backup archive on the Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
-Please note the translations are fan-based, non-profit, and are not for commercial use. All rights reserved by Games Workshop & the Black Library.
+Please note the translations are fan-based, non-profit, and are not for commercial use. 
+
+All rights reserved by Games Workshop & the Black Library.
 
 ---
 
