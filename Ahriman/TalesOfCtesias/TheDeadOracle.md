@@ -2,7 +2,7 @@
 
 译文初见于b站[cv9634663](https://www.bilibili.com/read/cv9634663/)，已获得转载授权。
 
-![赛里昂君的转载授权](Ahriman/TalesOfCtesias/theDeadOracle-authorization.png)
+![赛里昂君的转载授权](theDeadOracle-authorization.png)
 
 码字机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、并对其中误译的一处作了订正。
 
