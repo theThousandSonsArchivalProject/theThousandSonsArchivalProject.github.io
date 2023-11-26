@@ -2,11 +2,11 @@
 
 译文初见于b站[cv9634663](https://www.bilibili.com/read/cv9634663/)，已获得转载授权。
 
-![](Ahriman/TalesOfCtesias/theDeadOracle-authorization.png)
+![赛里昂君的转载授权](Ahriman/TalesOfCtesias/theDeadOracle-authorization.png)
 
 码字机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、并对其中误译的一处作了订正。
 
-<p align=center><h1> 死亡神谕 </h1></p>
+# <p align=center>死亡神谕</p>
 
 <p align = center><i> “欲即则离，欲离则即。”</i></p>
 
