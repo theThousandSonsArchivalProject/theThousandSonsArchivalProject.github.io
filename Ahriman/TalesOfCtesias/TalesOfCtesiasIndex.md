@@ -10,11 +10,13 @@
 <div align="center">
 <h1>目录</h1>
 </div>
+
 1. [死亡神谕 The Dead Oracle](Ahriman/TalesOfCtesias/TheDeadOracle.md)
 2. 命运愚者 Fortune's Fool
 3. 忿怒猎犬 Hounds of Wrath
 4. 第一亲王 The First Prince
 5. 毁灭之门 Gates of Ruin
+
 
 上一篇：[《阿里曼：放逐者》](Ahriman/AhrimanExile/AhrimanExileIndex.md)
 下一篇：《阿里曼：术士》
