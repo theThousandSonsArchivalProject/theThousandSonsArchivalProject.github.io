@@ -1,5 +1,5 @@
 # the Thousand Sons Archival Project
-
+---
 A backup archive on the Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
 Please note the translations are fan-based, non-profit, and are not for commercial use. 
@@ -7,8 +7,9 @@ Please note the translations are fan-based, non-profit, and are not for commerci
 All rights reserved by Games Workshop & the Black Library.
 
 ---
+欢迎来访。这里是千子码字机仆。
 
-千子故事中文翻译的一处备份。倘若有一天b站倒闭了，那我希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
+本站是千子故事中文翻译的一处备份。倘若有一天b站倒闭了，那机仆希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
 
 本站收录千子军团麾下人物们的故事，范围包括：
 - 马格努斯
@@ -17,6 +18,93 @@ All rights reserved by Games Workshop & the Black Library.
 - 阿维达
 - 以及一些零散的其他...
 
-所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及Black Library所有。
+所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。
 
 若需联系，请邮件theThousandSonsArchivalProject@gmail.com, 或b站私信 [AntsiLynn](https://space.bilibili.com/144045315/)
+
+---
+##阅读顺序：
+涵盖剧情简述的阅读列表，可参见[b站资源索引帖](https://www.bilibili.com/read/cv22790928)，机仆会稍后将其内容转移一份到本站上。
+
+以下是一份极为简略的、大致按照时间顺序排列的小说顺序。不过，为了背景理解，第一本推荐从《千子》读起。
+
+## 马格努斯 Magnus
+**Pre-Heresy 大叛乱之前：**
+* 《黎明星之战/普罗斯佩罗之主》Master of Prospero
+* 《深渊边境》The Abyssal Edge
+* 《被抹杀的第六学派》The Sixth Cult Denied
+* 《千子》A Thousand Sons
+* 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来*
+
+**During the Heresy 大叛乱之中：**
+* 《伤疤》Scars 17、19、20章 *小马灵魂碎片与可汗的对话*
+* 《尘埃》Dust
+* 《启示之贼》Thief of Revelations
+    * 广播剧版
+    * 小说版
+* 《猩红君王》The Crimson King
+* 《黎明星》Morning Star
+* 《马格努斯之怒》Fury of Magnus
+
+**Post-Heresy 大叛乱之后：**
+*《狼牙堡之战》Battle of the Fang *狼团视角*
+*《风云际会 3：原体崛起》Gathering Storm III: Rise of the Primarch
+*《芬里斯战区：马格努斯之怒》Warzone Fenris: Wrath of Mangus
+
+## 阿里曼 Ahzek Ahriman
+**Pre-Heresy 大叛乱之前：**
+同马格努斯部分。
+
+**During the Heresy 大叛乱之中：**
+大体同马格努斯部分。
+* 《尘埃》Dust
+* 《启示之贼》Thief of Revelations
+    * 广播剧版
+    * 小说版
+* 《卢修斯：永恒之刃》Lucius, the Eternal Blade
+* 《猩红君王》The Crimson King
+* 《黎明星》Morning Star
+* 《太阳战争》*第2、12、17-19章
+* 《马格努斯之怒》Fury of Magnus
+
+**Post-Heresy 大叛乱之后：**
+* 《皆为尘埃》All is Dust
+* 《阿里曼：放逐者》Ahriman: Exile
+* 《克泰夏斯故事集》Tales of Ctesias
+    * 《死亡神谕》The Dead Oracle
+    * 《命运愚者》Fortune's Fool
+    * 《忿怒猎犬》Hounds of Wrath
+    * 《第一亲王》The First Prince
+    * 《毁灭之门》Gates of Ruin
+* 《阿里曼：术士》Ahriman: Sorcerer
+* 《尘之手》Hands of Dust
+* 《灰之王》King of Ashes
+* 《阿里曼：不曾改变》Ahriman: Unchanged
+* 《掠尸者的钱币》A Coin for the Carrion Thieves
+* 《阿里曼：无限之钥》Ahriman: Key of Infinity
+* 《阿里曼：永恒》Ahriman: Eternal
+
+**40k时期战役书**
+*《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
+
+## 其他千子们 Others
+**During the Heresy 大叛乱期间:**
+阿维达 Rivuel Arvida，后世的第一任灰骑士大导师：
+* 《重生》Rebirth
+* 《伤疤》Scars 第17-20章
+* 《忠诚》Allegiance
+* 《天堂之路/通天之路》The Path of Heaven第26章
+* 《普罗斯佩罗的最后子嗣》The Last Son of Prospero
+
+阿萨瓦 Atharva，千子的大远征军团代表 the Crusader Host
+*《流浪弃儿》The Outcast Dead
+
+莫蒂普/霍蒂普 Mhotep，残月号舰长
+*《深渊号之战》Battle for the Abyss
+
+**40k:**
+某个时光密教的巫师：
+*《圣贤之旅》Journey of the Magi
+
+## 千子考据集
+https://www.bilibili.com/read/readlist/rl700604
