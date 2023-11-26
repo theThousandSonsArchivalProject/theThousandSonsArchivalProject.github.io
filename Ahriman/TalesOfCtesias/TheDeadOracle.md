@@ -1,3 +1,5 @@
+# 死亡神谕 The Dead Oracle
+
 本文译自**The Dead Oracle**, John French 著，[赛里昂](https://space.bilibili.com/14242113) 译；
 
 译文初见于b站[cv9634663](https://www.bilibili.com/read/cv9634663/)，已获得转载授权。
@@ -6,7 +8,8 @@
 
 码字机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、并对其中误译的一处作了订正。
 
-# <p align=center>死亡神谕</p>
+---
+<p style="text-align:center"><h1>I. 死亡神谕</h1></p>
 
 <p align = center><i> “欲即则离，欲离则即。”</i></p>
 
