@@ -9,7 +9,9 @@
 码字机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、并对其中误译的一处作了订正。
 
 ---
-<p style="text-align:center"><h1>I. 死亡神谕</h1></p>
+<div align="center">
+<h1>I. 死亡神谕</h1>
+</div>
 
 <p align = center><i> “欲即则离，欲离则即。”</i></p>
 
