@@ -18,6 +18,6 @@
 5. 毁灭之门 Gates of Ruin
 
 
-上一篇：[《阿里曼：放逐者》](../AhrimanExile/AhrimanExileIndex.md)
+上一篇：[《阿里曼：放逐者》](/../AhrimanExile/AhrimanExileIndex.md)
 
 下一篇：《阿里曼：术士》
