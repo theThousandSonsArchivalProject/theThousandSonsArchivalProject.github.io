@@ -57,7 +57,7 @@ All rights reserved by Games Workshop & the Black Library.
 ### <a name="MagnusPostHeresy"></a> Post-Heresy 大叛乱之后：
 并没有大叛乱后小马为主人公的长篇小说。
 短篇有一则。
-* 《灰之王》King of Ashes
+* [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
   
 另外，以下故事中小马有作为反派boss打酱油。不怎么精彩，机仆就不收录于本站了，暂且只列个名字和链接。
 * 《狼牙堡之战》Battle of the Fang *狼团视角*
@@ -81,7 +81,7 @@ All rights reserved by Games Workshop & the Black Library.
 * 《卢修斯：永恒之刃》Lucius, the Eternal Blade
 * 《猩红君王》The Crimson King
 * 《黎明星》Morning Star
-* 《太阳战争》*第2、12、17-19章
+* 《太阳战争》*第2、12、17-19章*
 * 《马格努斯之怒》Fury of Magnus
 
 ### <a name="AhrimanPostHeresy"></a> Post-Heresy 大叛乱之后：
@@ -96,7 +96,7 @@ All rights reserved by Games Workshop & the Black Library.
     * 《毁灭之门》Gates of Ruin
 * 《阿里曼：术士》Ahriman: Sorcerer
 * [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
-* 《灰之王》King of Ashes
+* [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
 * 《阿里曼：不曾改变》Ahriman: Unchanged
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
