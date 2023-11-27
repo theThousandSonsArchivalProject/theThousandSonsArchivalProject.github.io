@@ -86,16 +86,16 @@ All rights reserved by Games Workshop & the Black Library.
 
 ### <a name="AhrimanPostHeresy"></a> Post-Heresy 大叛乱之后：
 
-* [《皆为尘土》All is Dust](Ahriman/VoicesOfFate/AllIsDust.md)
-* [《阿里曼：放逐者》Ahriman: Exile](Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) *克泰夏斯眼中的阿里曼*
-    * [《死亡神谕》The Dead Oracle](Ahriman/TalesOfCtesias/TheDeadOracle.md)
+* [《皆为尘土》All is Dust](/Ahriman/VoicesOfFate/AllIsDust.md)
+* [《阿里曼：放逐者》Ahriman: Exile](/Ahriman/AhrimanExile/AhrimanExileIndex.md)
+* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) *克泰夏斯眼中的阿里曼*
+    * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * 《命运愚者》Fortune's Fool
     * 《忿怒猎犬》Hounds of Wrath
     * 《第一亲王》The First Prince
     * 《毁灭之门》Gates of Ruin
 * 《阿里曼：术士》Ahriman: Sorcerer
-* 《尘之手》Hands of Dust
+* [《尘之手》Hands of Dust](/Ahriman/VoicesOfFate/AllIsDust.md)
 * 《灰之王》King of Ashes
 * 《阿里曼：不曾改变》Ahriman: Unchanged
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
