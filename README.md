@@ -95,7 +95,7 @@ All rights reserved by Games Workshop & the Black Library.
     * 《第一亲王》The First Prince
     * 《毁灭之门》Gates of Ruin
 * 《阿里曼：术士》Ahriman: Sorcerer
-* [《尘之手》Hands of Dust](/Ahriman/VoicesOfFate/AllIsDust.md)
+* [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
 * 《灰之王》King of Ashes
 * 《阿里曼：不曾改变》Ahriman: Unchanged
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
