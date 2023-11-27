@@ -20,6 +20,8 @@ All rights reserved by Games Workshop & the Black Library.
 - [一些零散的其他...](#OtherThousandSons)
 - 以及[大量考据](#BehindTheScenes)...
 
+<sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub>
+
 所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。
 
 若需联系，请邮件theThousandSonsArchivalProject@gmail.com, 或b站私信 [AntsiLynn](https://space.bilibili.com/144045315/)
