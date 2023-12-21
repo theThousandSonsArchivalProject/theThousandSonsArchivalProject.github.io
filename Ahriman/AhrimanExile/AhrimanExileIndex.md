@@ -2,12 +2,12 @@
 
 长篇。阿里曼**第二红字**三部曲的第一部。讲述阿里曼自因第一次红字被马格努斯放逐后、到继承阿蒙战帮的故事。
 
-序、第一章、第二章 [ShroudofEventide](https://space.bilibili.com/411735043) 译，
-原译文见[b站专栏 rl338956](https://www.bilibili.com/read/readlist/rl338956)，
+序、第一章、第二章 ShroudofEventide 译，
+原译文见b站专栏 rl338956，
 [已获转载授权](AhrimanExileAuthorization.jpg)
 
-第三章至尾声 [千子码字机仆](https://space.bilibili.com/144045315) 自译，Ciel 校，
-原译文见[b站专栏 rl685950](https://www.bilibili.com/read/readlist/rl685950)
+第三章至尾声 千子码字机仆自译，Ciel 校，
+原译文见b站专栏 rl685950
 
 <div align="center">
 <h1>目录</h1>
