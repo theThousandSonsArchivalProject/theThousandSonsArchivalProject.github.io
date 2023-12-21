@@ -12,7 +12,7 @@
 </div>
 
 <p><i>        那些以为诸神漠然不仁的人，是一无所知的。诸神看顾我们所有人：每一星可悲的、诞于尖叫之中的生命火花，每一个在欲望与野心中活着的生灵，每一缕在沉默中消逝的灵魂。他们关心我们，好似我们关心食物、空气、与水。我们便是他们的生命：我们的梦想即是他们的力量，我们的软弱即是他们的存在。他们关照我们。他们需要我们。但是，需求与关照，并不以仁慈善意为要求。</i></p>
-<p align = right><i> -- 努米乌斯 (Numious) *，希利西亚 (Hilicia)的启明者 (Illuminator)</i>
+<p align = right><i> -- 努米乌斯 (Numious) *，希利西亚 (Hilicia)的启明者 (Illuminator)</i></p> 
 <p align = right><i> 因异端罪被处决</i></p> 
 
         <sub>* 机仆注：Numious, having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity. 据wiki， Numinous一词在17世紀时，起源于意味著「神明」或「在某種物質或空間之上的靈魂」的拉丁語單詞「numen」。后者以在古羅馬宗教中的使用尤甚。其以與「numen」相關聯之事物爲涵義，代表了神性的力量、存在或顯現。</sub>
