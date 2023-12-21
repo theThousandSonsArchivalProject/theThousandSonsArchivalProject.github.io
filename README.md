@@ -1,12 +1,18 @@
 # the Thousand Sons Archival Project
 
-A backup archive on the Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
+A backup archive on the fan-based Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
-Please note the translations are fan-based, non-profit, and are not for commercial use. 
+**Fan-based, non-official, non-profit, PROHIBITED FROM ANY COMMERCIAL USE.**
 
-All rights reserved by Games Workshop & the Black Library.
+All rights reserved by Games Workshop (GW) & the Black Library (BL).
 
+Please note that this site and all fan-based translations on it are intended **for fan discussions only**. 
+We will have contents removed upon official request from GW/BL. 
+**We WILL NOT make any charges to the contents, and we DO NOT accept any donations.**
 
+Please contact us through GitHub issues of this repository should you have further questions.
+
+<br></br>
 
 欢迎来访。这里是千子码字机仆。
 
@@ -22,9 +28,11 @@ All rights reserved by Games Workshop & the Black Library.
 
 <sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub>
 
-所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。
+**所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。** 若版权方要求，我们会应版权方要求移除部分内容。
 
-若需联系，请邮件theThousandSonsArchivalProject@gmail.com, 或b站私信 [AntsiLynn](https://space.bilibili.com/144045315/)
+请尽量避免将本站暴露于官方视野之下。互联网精神的火苗已经微弱，但还没有死去。请保护好它。
+
+若需联系，请在本repo的issues部分下留言。感谢。
 
 ---
 
@@ -92,7 +100,7 @@ All rights reserved by Games Workshop & the Black Library.
 * [《阿里曼：放逐者》Ahriman: Exile](/Ahriman/AhrimanExile/AhrimanExileIndex.md)
 * <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) *克泰夏斯眼中的阿里曼*
     * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
-    * 《命运愚者》Fortune's Fool
+    * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
     * 《忿怒猎犬》Hounds of Wrath
     * 《第一亲王》The First Prince
     * 《毁灭之门》Gates of Ruin
