@@ -1,6 +1,6 @@
 # 命运愚者 Fortune's Fool
 
-本文译自**Fortune's Fool**, John French 著，码字机仆 译，Ciel、无分混沌机油佬 校；
+本文译自**Fortune's Fool**, John French 著，码字机仆 自译，Ciel、无分混沌机油佬 校；
 
 收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中。
 
