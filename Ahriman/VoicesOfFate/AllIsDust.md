@@ -1,7 +1,7 @@
 # 皆为尘土 All is Dust
 
 本文译自**All is Dust**, John French 著，没名的大头兵 译，最期の牛 校。
-收录于[《阿里曼：出奔记》](https://www.bilibili.com/read/readlist/rl724148) 中。
+收录于[《阿里曼：出奔记》](/../AhrimanExodusIndex.md) 中。
 
 译文初见于百度贴吧 [HH系列《千子》应援翻译——皆为尘埃](http://tieba.baidu.com/p/1616922743?pid=20177805577&cid=0#20177805577)，后转载于b站 cv2309499。是一位红字的自述与回忆。大致发生在m32的狼牙堡之战\(Battle of the Fang\)时期。
 
