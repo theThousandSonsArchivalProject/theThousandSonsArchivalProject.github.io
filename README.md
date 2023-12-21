@@ -102,7 +102,7 @@ Please contact us through GitHub issues of this repository should you have furth
     * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
     * 《忿怒猎犬》Hounds of Wrath
-    * 《第一亲王》The First Prince
+    * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * 《毁灭之门》Gates of Ruin
 * 《阿里曼：术士》Ahriman: Sorcerer
 * [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
