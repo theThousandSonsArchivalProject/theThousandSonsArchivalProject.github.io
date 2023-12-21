@@ -1,7 +1,7 @@
 # 灰之王 King of Ashes
 
 本文译自**King of Ashes**, John French 著，呆茄子 译。
-收录于[《阿里曼：出奔记》](https://www.bilibili.com/read/readlist/rl724148) 中。
+收录于[《阿里曼：出奔记》](/../AhrimanExodusIndex.md) 中。
 是马格努斯在阿里曼即将出发开始第二次红字时，对过往的回忆。
 
 译文初见于百度贴吧 [阿里曼：灰之王——红白节操再难拾](https://tieba.baidu.com/p/5100174386)
