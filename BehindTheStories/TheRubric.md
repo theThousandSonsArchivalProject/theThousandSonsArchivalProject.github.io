@@ -14,19 +14,19 @@
 
         <sub>* Ref: </sub>
         
-        <sub>1. https://www.merriam-webster.com/dictionary/rubric</sub>
+            <sub>1. https://www.merriam-webster.com/dictionary/rubric</sub>
 
-        <sub>2. https://www.merriam-webster.com/dictionary/rubric#word-history</sub>
+            <sub>2. https://www.merriam-webster.com/dictionary/rubric#word-history</sub>
 
         *1. \(a\) an authoritative rule; especially: a rule for conduct of a liturgical service*
 
-            权威规则；特别地: （礼拜）仪式的行为准则。
+            *权威规则；特别地: （礼拜）仪式的行为准则。*
 
         当然，其后又衍生出另外两条释义:
 
         *3. : an established rule, tradition, or custom*
 
-            既定的规则、传统、或是习俗
+            *既定的规则、传统、或是习俗*
 
         *4. : a guide listing specific criteria for grading or scoring academic papers, projects, or tests*
 
