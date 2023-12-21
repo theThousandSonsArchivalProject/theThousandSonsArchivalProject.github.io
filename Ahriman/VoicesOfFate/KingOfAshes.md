@@ -1,6 +1,6 @@
 # 灰之王 King of Ashes
 
-本文译自**Hand of Dust**, John French 著，呆茄子 译。
+本文译自**King of Ashes**, John French 著，呆茄子 译。
 收录于[《阿里曼：出奔记》](https://www.bilibili.com/read/readlist/rl724148) 中。
 是马格努斯在阿里曼即将出发开始第二次红字时，对过往的回忆。
 
