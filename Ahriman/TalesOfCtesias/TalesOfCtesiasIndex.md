@@ -4,6 +4,8 @@
 发生在《阿里曼：放逐者》Ahriman: Exile 到《阿里曼：术士》Ahriman: Sorcerer之间。
 以千子**克泰夏斯**\(Ctesias\)的视角，讲述了阿里曼自接管阿蒙战帮、到率战帮第一次离开恐惧之眼的故事。
 
+和《命运之声》Voices of Fate一并收录于阿教授的短篇合集[《阿里曼：出奔记》Ahriman: Exodus](/../AhrimanExodusIndex.md)中。
+
 原译文汇总见b站专栏《阿里曼：出奔记》rl724148；
 译者不一，各自标注。
 
