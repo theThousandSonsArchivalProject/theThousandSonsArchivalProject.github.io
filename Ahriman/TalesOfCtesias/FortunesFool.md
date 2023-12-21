@@ -17,7 +17,7 @@
 
         <sub>* 机仆注：Numious, having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity. 据wiki， Numinous一词在17世紀时，起源于意味著「神明」或「在某種物質或空間之上的靈魂」的拉丁語單詞「numen」。后者以在古羅馬宗教中的使用尤甚。其以與「numen」相關聯之事物爲涵義，代表了神性的力量、存在或顯現。</sub>
         
-<br><br/>
+<br/><br/>
 
         我服侍阿里曼所做的第二件事情，是杀死我们中的一员。
         
@@ -29,7 +29,7 @@
         
         <sub>* 机仆注：Prince of Excess, 按理说是色孽的名字，但联系上下文，指的应该是某种色孽大魔</sub>
         
-<br><br/>
+<br/><br/>
 
         + 向你致以问候，克泰夏斯。你的出现令我们何其荣耀。你的主人遣你而来，这实在是对你我二人的垂青。+
 
