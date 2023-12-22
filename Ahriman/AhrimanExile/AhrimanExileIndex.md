@@ -4,7 +4,7 @@
 
 序、第一章、第二章 ShroudofEventide 译，
 原译文见b站专栏 rl338956，
-[已获转载授权](AhrimanExileAuthorization.jpg)
+[已获转载授权](/Pictures/AhrimanExileAuthorization.jpg)
 
 第三章至尾声 千子码字机仆自译，Ciel 校，
 原译文见b站专栏 rl685950
