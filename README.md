@@ -12,7 +12,7 @@ We will have contents removed upon official request from GW/BL.
 
 Please contact us through GitHub issues of this repository should you have further questions.
 
-<br></br>
+<br><br/>
 
 欢迎来访。这里是千子码字机仆。
 
@@ -103,11 +103,11 @@ Please contact us through GitHub issues of this repository should you have furth
     * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
     * 《忿怒猎犬》Hounds of Wrath
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
-    * 《毁灭之门》Gates of Ruin
+    * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
 * 《阿里曼：术士》Ahriman: Sorcerer
 * [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
 * [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
-* 《阿里曼：不曾改变》Ahriman: Unchanged
+* 《阿里曼：不变之人》Ahriman: Unchanged（本书亦有译作《阿里曼：不曾改变》的）
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
 * 《阿里曼：永恒》Ahriman: Eternal
@@ -142,4 +142,6 @@ Please contact us through GitHub issues of this repository should you have furth
 
 ## <a name="BehindTheScenes"></a> 千子考据集
 一些关于千子的考据，现实生活中的、以及故事中的：
-b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
+
+- b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
+- [本站转载](/BehindTheStories/BehindTheStoriesIndex.md)
