@@ -17,7 +17,7 @@
 2. [命运愚者 Fortune's Fool](Fortune'sFool.md)
 3. 忿怒猎犬 Hounds of Wrath
 4. [第一亲王 The First Prince](TheFirstPrince.md)
-5. 毁灭之门 Gates of Ruin
+5. [毁灭之门 Gates of Ruin](GatesOfRuin.md)
 
 
 上一篇：[《阿里曼：放逐者》](/../AhrimanExile/AhrimanExileIndex.md)
