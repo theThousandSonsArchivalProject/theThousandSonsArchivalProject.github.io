@@ -1,4 +1,4 @@
-# 毁灭之门 Gate of Ruins
+# 毁灭之门 Gates of Ruin
 
 本文译自**Gate of Ruins**, John French 著，码字机仆 自译，Ciel 校；
 
