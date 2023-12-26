@@ -12,7 +12,7 @@
 <h1>目录</h1>
 </div>
 
-### [克泰夏斯故事集 Tales of Ctesias]((/TalesOfCtesias/TalesOfCtesiasIndex.md))
+### [克泰夏斯故事集 Tales of Ctesias](/TalesOfCtesias/TalesOfCtesiasIndex.md)
 
 1. [死亡神谕 The Dead Oracle](/TalesOfCtesias/TheDeadOracle.md)
 2. [命运愚者 Fortune's Fool](/TalesOfCtesias/Fortune'sFool.md)
