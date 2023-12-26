@@ -1,11 +1,11 @@
 # 死亡神谕 The Dead Oracle
 
-本文译自**The Dead Oracle**, John French 著，赛里昂 译；码字机仆 校。
+本文译自**The Dead Oracle**, John French 著，赛里昂 译；千子码字机仆、ciel 校。
 收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中。
 
 译文初见于b站 cv9634663，[已获得转载授权](theDeadOracle-authorization.png)
 
-码字机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、对人物译名做了统一，并根据《阿里曼：放逐者》中的相关情节，对其中误译之处作了订正。
+机仆在转载时，对照生肉原文，增补了原文格式、标注了部分单词原拼法、对人物译名做了统一，并根据《阿里曼：放逐者》中的相关情节，对其中误译之处作了订正。
 
 ---
 <div align="center">
