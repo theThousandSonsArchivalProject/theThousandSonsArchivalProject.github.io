@@ -1,4 +1,4 @@
-# the Thousand Sons Archival Project
+# The Thousand Sons Archival Project
 
 A backup archive on the fan-based Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
@@ -7,22 +7,27 @@ A backup archive on the fan-based Chinese translations of the Thouand Sons' stor
 All rights reserved by Games Workshop (GW) & the Black Library (BL).
 
 Please note that this site and all fan-based translations on it are intended **for fan discussions only**, 
-as BL's Chinese transtation partner doesn't have any plans on an official translation so far. 
-There are so many people in the Chinese Warhammer community who are interested in the Thousand Sons and their stories, 
-yet unfortunately do not speak adequate English to read through the novels themselves. This is why we, and this site, exist.
-We will have contents removed upon official request from GW/BL. 
-**We WILL NOT make any charges to the contents, and we DO NOT accept any donations.**
+as BL's Chinese transtation partner doesn't have any plans on an official translation so far, particularly on Ahriman's stories. 
+There are so many people in the Chinese Warhammer community who are interested in the Thousand Sons and their (rather tragic) stories, 
+yet unfortunately were hindered from reading through the novels themselves due to poor English.
+This is why we, and this site, exist. 
 
-Please contact us through GitHub issues of this repository should you have further questions.
+**We WILL NOT make any charges to the contents, and we DO NOT accept any donations.** 
+We do not intend to infringe any rights of GW/BL, and will have contents removed upon official request from them. 
+
+Please contact us through GitHub issues of this repository should you have further questions. Thank you :)
 
 <br><br/>
 
 欢迎来访。这里是千子码字机仆。
 
-本站是千子故事中文民间翻译的一处备份。倘若有一天b站不再支持专栏，倒闭了，或是挨了版权官司，那机仆希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
-毕竟，在面对官方潜在版权炮时，一个独立建站、又不牵涉任何经济往来的网站，远比阿b一个存在潜在盈利可能的商业网站 -- 尽管机仆承诺不开任何盈利渠道 -- 更好自证清白、更为安全。
+本站是千子故事中文民间翻译的一处备份。
+倘若有一天b站不再支持专栏，倒闭了，或是挨了版权官司，那机仆希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
+毕竟，在面对官方潜在版权炮时，一个独立建站、又不牵涉任何经济往来的网站，
+远比阿b一个存在潜在盈利可能的商业网站 -- 尽管机仆承诺不开任何盈利渠道 -- 更好自证清白、更为安全。
 
-**所有翻译及网站维护皆为纯用爱发电。机仆不接受捐赠、更不会以此盈利一分钱。** 惟愿有人读完这些故事后，也能对千子多一点理解，甚至喜爱。这便足够了。
+**所有翻译及网站维护皆为纯用爱发电。机仆不接受捐赠、更不会以此盈利一分钱。** 
+惟愿有人读完这些故事后，也能对千子多一点理解，甚至喜爱。这便足够了。
 
 本站收录千子军团麾下人物们的故事，范围包括而不限于：
 - [马格努斯](#Magnus)
