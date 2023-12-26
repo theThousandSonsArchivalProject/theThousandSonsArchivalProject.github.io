@@ -1,6 +1,6 @@
 # 毁灭之门 Gates of Ruin
 
-本文译自**Gate of Ruins**, John French 著，码字机仆 自译，Ciel 校；
+本文译自**Gate of Ruins**, John French 著，千子码字机仆 自译，Ciel 校；
 
 收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中。
 
