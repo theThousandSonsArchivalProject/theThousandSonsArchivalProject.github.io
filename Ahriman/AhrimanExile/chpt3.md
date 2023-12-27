@@ -148,7 +148,7 @@
 
         + 为了什么？+*
 
-            * 机仆注：原文To what end, 约等于what end result are you trying to make happen
+        * 机仆注：原文To what end, 约等于what end result are you trying to make happen. 除了字面意思，还有一层隐含的“你要我随你一起走向何样的终局”的意思。 
 
         图贝克没有回答。阿里曼能够看到一丝真相的微光从图贝克思维的堡垒里透出来。愤怒，哀伤，和苦涩。那些情感闪耀如多彩的灯光，尝起来有如灰烬。
 
