@@ -96,9 +96,9 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
         <sub>* Ref: https://www.merriam-webster.com/dictionary/athenaeum </sub>
 
-        *- a building or room in which books, periodicals, and newspapers are kept for use 大图书馆*
-
-        *- a literary or scientific association（相对正式而严肃的）文学或科学组织*
+>        *- a building or room in which books, periodicals, and newspapers are kept for use 大图书馆*
+>
+>        *- a literary or scientific association（相对正式而严肃的）文学或科学组织*
 
         是为说书中，“大图书馆”一名的来源。
 
