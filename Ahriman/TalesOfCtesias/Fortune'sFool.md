@@ -283,7 +283,9 @@
 
         + 可即便如此，你还是想要追随他？+
 
-        + 他便是那杠杆的支点，为至伟之术士 \(the Great Sorcerer\) 所触碰，为变化之廷 \(the Court of Change\) 所注视。他去往何方，那变化的荣光便随他照耀何方。侍立他的身侧，协助他的功业，便是对那至大的阴谋家 \(the Grand Conspirator\) 的侍奉。在诸多的变化之冠军 \(the champions of change\) 中，再无地位比阿里曼更加崇高的了。唯有他会否认那一点，而他的否认所构造的悖论，只会使得那真相更加甘美。+
+        + 他便是那杠杆的支点，为至伟之术士 \(the Great Sorcerer\) 所触碰，为变化之廷 \(the Court of Change\)* 所注视。他去往何方，那变化的荣光便随他照耀何方。侍立他的身侧，协助他的功业，便是对那至大的阴谋家 \(the Grand Conspirator\) 的侍奉。在诸多的变化之冠军 \(the champions of change\) 中，再无地位比阿里曼更加崇高的了。唯有他会否认那一点，而他的否认所构造的悖论，只会使得那真相更加甘美。+
+
+        <sub>* 机仆注：the Court of Change，指的是老t手下的一群各种各样的恶魔。Ahriman: Unchanged中对此有一点描述。变化灵/诡变幼主 (the Changeling) 便位列其中。</sub>
 
         + 你疯了。+ 我摇了摇头。
 
