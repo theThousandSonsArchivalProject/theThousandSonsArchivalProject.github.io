@@ -86,7 +86,7 @@
 
         现实生活中，Sanakht，或作Hor-Sanakht，是古埃及第三王朝（又有称孟菲斯帝国）的建立者，定都孟菲斯 (Memphis). *
 
-        <sub>* Ref: https://en.wikipedia.org/wiki/Sanakht；</sub>
+        <sub>* Ref: https://en.wikipedia.org/wiki/Sanakht</sub>
 
 <br><br/>
 
