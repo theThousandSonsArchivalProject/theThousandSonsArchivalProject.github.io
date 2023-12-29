@@ -16,11 +16,11 @@
 
         大体上说，她是变节的机械教技术神甫。因为琢磨出直接将自己的意识与船的机魂合而为一的技术，被机械教视作异端追捕，逃进恐惧之眼。后来，她为劫难者* (the Harrowing) 所俘获，而阿教授帮她从劫难者手中夺回自己的船。她因此全心效力于阿教授。她一度涉猎过生化技术，救过阿教授数次，由于对阿教授带来的毁灭的担忧背叛过他，又被他原谅，自此忠于阿教授一人 -- "而卡尔门塔，她听从也只听从阿里曼的指令"。最终，在阿波罗尼亚 (Apollonia)，她的意识消散在西考拉克斯号 (the Sycorax) 上。
 
-          * 机仆注：the Harrowing, 一个k战帮，阿教授隐姓埋名流亡时一度效力于他们。
+        <sub>* 机仆注：the Harrowing, 一个k战帮，阿教授隐姓埋名流亡时一度效力于他们。</sub>
 
         她的名字和她的一生很搭。古罗马神话里，卡尔门塔是司生诞与预言的女神，常常与技术上的发明创新联系在一起。她是母亲、儿童与助产士的保护神。一说她发明了拉丁字母表。此外，Carmenta一词, 源于拉丁文carmen, 后者是魔咒、预言或歌曲的意思，亦是英文中charm一词的词源。 *
 
-          * Ref: https://en.wikipedia.org/wiki/Carmenta
+        <sub>* Ref: https://en.wikipedia.org/wiki/Carmenta</sub>
 
         技术创新的神甫，一个母亲一般信赖看顾着阿教授的人物。妙极。
 
@@ -38,7 +38,7 @@
 
         棍酱之前搬运过此兄的lex：CV9129742。大体上说，此兄善于在记忆中保存恶魔的真名，以此使驭恶魔。他曾与比拉克交易 (Be'lakor)，代价是死后灵魂归比拉克所有，以求灵魂不被他生前束缚的、觊觎着复仇的恶魔们报复（至于他以此交换了什么，the First Prince 一文里没有说）。
 
-        阿里曼继承阿蒙的战帮后释放了他，换取他遵从阿教授的指令，服侍于军团的未来 (* the Dead Oracle)。他曾死于恐虐的恶魔猎犬 (* Hounds of Wrath)，比拉克前来收取他的灵魂，被阿教授智斗击败，是以死而复生 (* the First Prince)。后来，他又辅助阿教授等人通过安提尔兰深渊 (the Antilline Abyss) 离开恐惧之眼 (* Gates of Ruin)、乃至之后攻入巫师之星 (Sortarius) 执行第二次红字 (* Ahriman: Unchanged)。第二次红字失败后，他又以一个小巫师的灵魂为诱饵，钓上一只恶魔，为浪子战帮 (the Prodigal Sons) 换来了一支舰队 (* A Coin for the Carrion Thieves)。
+        阿里曼继承阿蒙的战帮后释放了他，换取他遵从阿教授的指令，服侍于军团的未来。他曾死于恐虐的恶魔猎犬，比拉克前来收取他的灵魂，被阿教授智斗击败，是以死而复生。后来，他又辅助阿教授等人通过安提尔兰深渊 (the Antilline Abyss) 离开恐惧之眼、乃至之后攻入巫师之星 (Sortarius) 执行第二次红字。第二次红字失败后，他又以一个小巫师的灵魂为诱饵，钓上一只恶魔，为浪子战帮 (the Prodigal Sons) 换来了一支舰队。
 
         在未来某个未知的时间，他与阿教授分道扬镳。又在与阿教授重逢的千余年后，他垂垂老矣，即将死去。死前，他记录下他侍立阿教授身边时的故事，是为《克泰夏斯故事集》Tales of Ctesias。是一个宛若千子史官一样的人物。
 
@@ -70,11 +70,11 @@
 
         是否暗示着小说里，他会在高马塔死后寻找复活高马塔的办法（可能便是与Pyrodomon相关？），但最后兄弟两人都还是会死去？
 
-    Ref: 
+    <sub>Ref: </sub>
 
-        https://en.wikipedia.org/wiki/Gilgamesh
+        <sub>https://en.wikipedia.org/wiki/Gilgamesh</sub>
 
-        https://en.wikipedia.org/wiki/Enkidu
+        <sub>https://en.wikipedia.org/wiki/Enkidu</sub>
 
 <br><br/>
 
@@ -86,13 +86,13 @@
 
         现实生活中，Sanakht，或作Hor-Sanakht，是古埃及第三王朝（又有称孟菲斯帝国）的建立者，定都孟菲斯 (Memphis). *
 
-        * Ref: https://en.wikipedia.org/wiki/Sanakht；
+        <sub>* Ref: https://en.wikipedia.org/wiki/Sanakht；</sub>
 
 <br><br/>
 
 **- 阿教授的好基友（？），盲眼神谕 门卡乌拉 Menkaura**
 
-        也是个译本很多的名字。读音上最接近的应该是h大的官译《猩红君王》版本，门考拉。机仆出于译本一致原则，选择了与《马格努斯之怒》、棍酱译本《猩红君王》相同的门卡乌拉。
+        也是个译本很多的名字。机仆出于译本一致原则，选择了与《马格努斯之怒》、棍酱译本《猩红君王》相同的门卡乌拉。
 
         Lex 参见 CV23226696。黑鸦。曾经是阿教授的学徒。他并未参与到阿教授的第一次红字之中，但此后还是出于未知原因，离开了巫师之星，成为了孤悬恐惧之眼深处，黑月之中的神谕。
 
@@ -100,7 +100,7 @@
 
         现实生活中，Menkaura亦作Menkaure，中文翻译有作“孟考拉”的。古埃及第四王朝法老之一，一说是胡夫的儿子。吉萨的三大金字塔之一便是他修建的。*
 
-        * Ref: https://en.wikipedia.org/wiki/Menkaure 
+        <sub>* Ref: https://en.wikipedia.org/wiki/Menkaure </sub>
 
 <br><br/>
 
@@ -128,7 +128,7 @@
 
         阿斯特罗斯这个名字，大约是neta希腊神话中的Astraeus/Astraios (古希腊语的Ἀστραῖος，意即星辰/星辰升起)，曙暮之神，泰坦之一。古希腊神话中的阿斯特罗斯 (或作阿斯特莱欧斯)，一说是第二代泰坦，生于克利俄斯 (Crius) 与欧律比亚 (Eurybia)；另一说他直接生于塔尔塔洛斯 (Tartarus)与地母盖亚 (Gaia)。他与晨曦女神厄俄斯 (Eos) 结合，他们的孩子即为诸风与星辰。一说他参与过泰坦神族对抗宙斯的战争。*
 
-        * Ref: https://en.wikipedia.org/wiki/Astraeus
+        <sub>* Ref: https://en.wikipedia.org/wiki/Astraeus</sub>
 
         阿斯特罗斯这个名字，既是希腊神话诸神，也是泰坦。某种意义上，这是相当符合灰骑士们一贯以来的起名规律的 -- 他们也有很多希腊神话名字，尤以泰坦的名字为多。此外，倘若阿斯特罗斯在被审判庭拷问时，选择接受洗脑、抹去所有过去的记忆，加入灰骑士，那么他大概率要参与八年后对自己母星的灭绝令 -- 而毁灭命定之地，这种亲手斩断因果又创建因果的行为，实在是很灰骑士的事情。某种意义上，阿斯特罗斯大约确实可以说是非常天选灰骑士的。
 
@@ -144,7 +144,7 @@
 
         阿斯特罗斯从前的的战团毁于审判庭时，他是和阿斯特罗斯一起逃离的四个人之一，似乎也是职位最高的那个。卡达尔被俘获他们的玛罗斯做成了恶魔宿主，而其余三人 -- 他、智库阿斯特罗斯、战士卡丁（即倒霉蛋三人组），由于阿里曼释放了阿斯特罗斯，不得不向阿教授效忠。对效忠阿教授一事，卡丁十分不忿，阿斯特罗斯十分纠结，蒂迪亚斯似乎是接受的最平静的。最后，在阿教授召唤恶魔出了差错的时候，他选择为阿教授和阿斯特罗斯断后，以尚能记得何为光明与荣耀的战士之身壮烈牺牲。
 
-        Thidias, 莎剧《安东尼与克里奥佩特拉》(是埃及艳后的故事) 中，凯撒派往克里奥佩特拉处，想要劝说克里奥佩特拉转而支持他的信使。被安东尼发现了，抽了一顿。感兴趣可以看https://www.playshakespeare.com/antony-and-cleopatra/characters/thidias 。这一条大概算是个彩蛋性质的neta吧。
+        Thidias, 莎剧《安东尼与克里奥佩特拉》(是埃及艳后的故事) 中，凯撒派往克里奥佩特拉处，想要劝说克里奥佩特拉转而支持他的信使。被安东尼发现了，抽了一顿。感兴趣可以看[这里](https://www.playshakespeare.com/antony-and-cleopatra/characters/thidias)。这一条大概算是个彩蛋性质的neta吧。
 
 <br><br/>
 
@@ -156,7 +156,7 @@
 
         顺便提一句，《千子》里面，千子们的守护灵也是tutelary。
 
-* Ref: https://en.wikipedia.org/wiki/Silvanus_(mythology)
+        <sub>* Ref: https://en.wikipedia.org/wiki/Silvanus_(mythology)</sub>
 
 <br><br/>
 
