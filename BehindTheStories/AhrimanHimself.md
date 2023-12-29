@@ -30,11 +30,11 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
 **- 阿教授去过西剑仙的老家，Ionus Plateau**（CV23078209）
 
-        阿教授在拜访自己记忆的宫殿时，回忆起那座宫殿是怎样被构建而成的。他回忆道，那宫殿的石阶是攀登伊奥努斯高原 (Ionus Plateau) 上，白之神殿 (the White Temple) 的记忆。
+        阿教授在拜访自己记忆的宫殿时，回忆起那座宫殿是怎样被构建而成的。他回忆道，那宫殿的石阶是攀登爱奥努斯高原 (Ionus Plateau) 上，白之神殿 (the White Temple) 的记忆。
 
-        Ionus Plateau, 亦有译本作因诺努斯高原，不过读音上可能接近爱奥努斯高原。一说此地可能在彼时的地中海盆地里，今希腊的爱奥尼亚 (Ionia)附近。爱奥尼亚在地中海东北，是古希腊时代对今天土耳其 安纳托利亚(Anatolia)的西南海岸地区的称呼。 
+        Ionus Plateau, 亦有译本作因诺努斯高原，不过读音上可能接近爱奥努斯高原。一说此地可能在彼时的地中海盆地里，今希腊的爱奥尼亚 (Ionia) 附近。爱奥尼亚在地中海东北，是古希腊时代对今天土耳其 安纳托利亚 (Anatolia) 的西南海岸地区的称呼。 
 
-        按照[lex](https://wh40k.lexicanum.com/wiki/Sigismund)的说法，此地亦是西吉斯蒙德 (Sigismund) 的故乡，或者至少在西剑仙故乡附近。西剑仙少时遭逢战乱，一路流离下来发现自己身处伊奥努斯高原某处难民营里。
+        按照 [lex](https://wh40k.lexicanum.com/wiki/Sigismund) 的说法，此地亦是西吉斯蒙德 (Sigismund) 的故乡，或者至少在西剑仙故乡附近。西剑仙少时遭逢战乱，一路流离下来发现自己身处伊奥努斯高原某处难民营里。
 
         是这浩瀚银河中某种奇异的小crossover呢。不过考虑到阿教授和西剑仙的故事都有John French的落笔，似乎也不该太意外？
 
@@ -44,7 +44,7 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
         阿教授去拜访千子的盲眼神谕门卡乌拉时，有这么一段心理活动：
 
-        我是个朝圣者啊，他意识到。一如古人沿着帕纳索斯山 (Parnassus)* 的阶梯攀登而上，我也来到此地，祈求着一则启示。
+>        我是个朝圣者啊，他意识到。一如古人沿着帕纳索斯山 (Parnassus)* 的阶梯攀登而上，我也来到此地，祈求着一则启示。
 
         Parnassus，希腊中部山脉，亦为希腊最高峰。日神阿波罗的神谕之地、 古希腊人眼中的 “世界中心” 德尔斐 (Delphi) 在此山脉南坡。此山亦为酒神狄奥尼索斯的圣地。
 
@@ -58,11 +58,11 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
         Sycorax, 这名字是莎剧《暴风雨》(the Tempest) 里一个古老强大的邪恶女巫。在故事开场前很久，由她的故乡阿尔及埃尔 (Algiers) 被流放到普罗斯佩罗 (Prospero)。她在故事开场前数年便已死去，是剧中背景板式的人物。 
 
-        虽然在最初的版本里Sycorax一直是背景板，没有角色，但在后世的排练中，Sycorax逐渐开始由女演员表演，担任米兰大公Prospero的主要敌人。Sycorax为代表的一行人，沉默，强大，并且免于处决地被流放（后世猜测可能是因为她的身孕），永远与以Prospero为代表的一行人相对抗，挪到战锤的语境里，也和阿里曼等流放者一直与魔法小马相抗的情况比较相似。（感谢赛里昂君的补充）
+        虽然在最初的版本里Sycorax一直是背景板，没有角色，但在后世的排练中，Sycorax逐渐开始由女演员表演，担任米兰大公Prospero的主要敌人。Sycorax为代表的一行人，沉默，强大，并且免于处决地被流放（后世猜测可能是因为她的身孕），永远与以Prospero为代表的一行人相对抗，挪到战锤的语境里，也和阿里曼等流放者一直与魔法小马相抗的情况比较相似。<sub>（感谢@赛里昂君的补充）</sub>
 
         顺便一提 -- Prospero这一名字，可能不仅仅来源于莎剧《暴风雨》，也有neta爱伦坡《红死魔的假面》。故事中，普罗斯佩罗亲王携千名亲信，躲进封闭的城堡里，试图躲避外面肆虐的红死病。他们在城堡中召开了盛大的假面舞会，欢饮舞蹈，却在午夜钟声响起之前，发现假面舞会上多了一位扮成红死病人的宾客。诸人揭开自己伪装之时，才发现那宾客的伪装下空无一物。红死魔终于还是来到了城堡中。他所触之处，宾客们纷纷染病暴亡。于是，当午夜的钟声响起，城堡中已无活人。
 
-        普罗斯佩罗亲王，他的千名亲信，试图逃离却终归找上门来的可怕命运。某种意义上和千子们的故事还是挺相似的。（感谢Kiritsu君一开始提出这一neta的可能）
+        普罗斯佩罗亲王，他的千名亲信，试图逃离却终归找上门来的可怕命运。某种意义上和千子们的故事还是挺相似的。
 
 <br><br/>
 
@@ -70,7 +70,7 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
         在继承阿蒙的战帮之后，阿教授携舰队离开恐惧之眼，回到外面的世界，搜寻神识之殿(the Athenaeum) 以获得完善红字法术的知识；又通过普罗斯佩罗的废墟，绕过小马的流放，回归巫师之星，施展第二次红字。
 
-        这一过程的第一步，便是需要率领舰队离开恐惧之眼。彼时，卡迪亚(Cadia)或说卡迪亚之门(the Cadian Gate)，是恐惧之眼与其外的世界之间，唯一一处可以大规模通过舰队的地方，却被帝国严加守卫着。阿教授不愿将部队白白浪费在此，遂通过某个狂热信奉老T的前千子，伊克纽蒙 (Ichneumon) ，获知了一条不经卡迪亚离开恐惧之眼的路径，是为安提尔兰深渊 the Antilline Abyss (《命运愚者》)。
+        这一过程的第一步，便是需要率领舰队离开恐惧之眼。彼时，卡迪亚 (Cadia) 或说卡迪亚之门 (the Cadian Gate)，是恐惧之眼与其外的世界之间，唯一一处可以大规模通过舰队的地方，却被帝国严加守卫着。阿教授不愿将部队白白浪费在此，遂通过某个狂热信奉老T的前千子，伊克纽蒙 (Ichneumon) ，获知了一条不经卡迪亚离开恐惧之眼的路径，是为安提尔兰深渊 the Antilline Abyss.
 
         the Antilline Abyss, 疑似是在 neta 安的列斯群岛 (Antilles, 荷兰语作 Antillen) 。在加勒比海上。其中有一组群岛称荷属安的列斯 (Nederlandse Antillen) ，即原荷属西印度。百慕大三角也在那一带附近（虽然我们都知道那是都市传说233）。
 
@@ -88,13 +88,12 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
         卡里马库斯在普焚之前，与高蒙一行人离开了普罗斯佩罗（《千子》）。他们离开的路上，被野狼截获。高蒙一行人被野狼拷问，与卡里马库斯失散（《猩红君王》）。卡里马库斯被单独关押，他身上的那片小马的灵魂则被以特殊方法，在凡人的躯体间传递着保存，书写下小马的思绪，是为the Athenaeum。具体在小说中的描绘可参见 CV25050555. （《阿里曼：术士》）
 
-        好，说回the Athenaeum. 据[考据](https://www.dictionary.com/e/word-of-the-day/athenaeum-2018-12-06/)，这个词的词源是希腊语里的Athḗnaion一词，是古雅典中，雅典娜神殿的名字。彼时，诗人于其中朗诵他们的作品*(这也是为什么有的说书称其为“雅典娜神殿”)。约1720年代，该词进入英语。
+        好，说回the Athenaeum. 据[考据](https://www.dictionary.com/e/word-of-the-day/athenaeum-2018-12-06/)，这个词的词源是希腊语里的Athḗnaion一词，是古雅典中，雅典娜神殿的名字。彼时，诗人于其中朗诵他们的作品* (这也是为什么有的说书称其为“雅典娜神殿”)。约1720年代，该词进入英语。
 
-        \* *Athenaeum ultimately derives from Greek Athḗnaion, the name of the temple of Athena in ancient Athens where poets read their works. It entered English in the 1720s.* 
+        <sub>\* *Athenaeum ultimately derives from Greek Athḗnaion, the name of the temple of Athena in ancient Athens where poets read their works. It entered English in the 1720s.* </sub>
 
-        此后，这一词又渐渐演化出现代的两个象征意*：
-
-        <sub>* Ref: https://www.merriam-webster.com/dictionary/athenaeum </sub>
+        此后，[据Merriam-Webster词典讲](https://www.merriam-webster.com/dictionary/athenaeum)，
+        这一词又渐渐演化出现代的两个象征意：
 
 >        *- a building or room in which books, periodicals, and newspapers are kept for use 大图书馆*
 >
