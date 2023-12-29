@@ -22,5 +22,5 @@
 
 ### 命运之声 Voices of Fate
 1. [皆为尘土 All is Dust](/VoicesOfFate/AllIsDust.md)
-2. [尘之手 Hand of Dust](/VoicesOfFate/HandOfDustDust.md)
+2. [尘之手 Hand of Dust](/VoicesOfFate/HandOfDust.md)
 3. [灰之王 King of Ashes](/VoicesOfFate/KingOfAshes.md)
