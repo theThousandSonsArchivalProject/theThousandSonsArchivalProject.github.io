@@ -15,14 +15,14 @@
 
 <div align = right>
 
-*-- 努米乌斯 (Numious)<sup> [1](#Fortune'sFool-1)</sup><a name="Fortune'sFool-1a">，希利西亚 (Hilicia) 的启明者 (Illuminator)*
+*-- 努米乌斯<sup>[1](#Fortune'sFool-1)</sup><a name="Fortune'sFool-1a"></a> <sub>(Numious)</sub>，希利西亚 <sub>(Hilicia)</sub> 的启明者 <sub>(Illuminator)</sub>*
 
 </div> 
 
 <p align = right><i> 因异端罪被处决</i></p> 
 
         
-<br/><br/>
+<br><br/>
 
         我服侍阿里曼所做的第二件事情，是杀死我们中的一员。
         
