@@ -13,13 +13,14 @@
 
 <p><i>        那些以为诸神漠然不仁的人，是一无所知的。诸神看顾我们所有人：每一星可悲的、诞于尖叫之中的生命火花，每一个在欲望与野心中活着的生灵，每一缕在沉默中消逝的灵魂。他们关心我们，好似我们关心食物、空气、与水。我们便是他们的生命：我们的梦想即是他们的力量，我们的软弱即是他们的存在。他们关照我们。他们需要我们。但是，需求与关照，并不以仁慈善意为要求。</i></p>
 
-<div align = right>
+<div align = right><i>
 
-*-- 努米乌斯<sup>[1](#Fortune'sFool-1)</sup><a name="Fortune'sFool-1a"></a> <sub>(Numious)</sub>，希利西亚 <sub>(Hilicia)</sub> 的启明者 <sub>(Illuminator)</sub>*
+-- 努米乌斯<sup><a href="Fortune'sFool-1">\[1\]</a></sup><a name="Fortune'sFool-1a"></a><sub>(Numious)</sub>，希利西亚<sub>(Hilicia)</sub> 的启明者<sub>(Illuminator)</sub>,
 
-</div> 
+因异端罪被处决
 
-<p align = right><i> 因异端罪被处决</i></p> 
+
+</i></div> 
 
         
 <br><br/>
