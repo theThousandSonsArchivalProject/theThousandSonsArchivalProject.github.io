@@ -21,6 +21,6 @@
 5. [毁灭之门 Gates of Ruin](TalesOfCtesias/GatesOfRuin.md)
 
 ### 命运之声 Voices of Fate
-1. [皆为尘土 All is Dust](/VoicesOfFate/AllIsDust.md)
-2. [尘之手 Hand of Dust](/VoicesOfFate/HandOfDust.md)
-3. [灰之王 King of Ashes](/VoicesOfFate/KingOfAshes.md)
+1. [皆为尘土 All is Dust](VoicesOfFate/AllIsDust.md)
+2. [尘之手 Hand of Dust](VoicesOfFate/HandOfDust.md)
+3. [灰之王 King of Ashes](VoicesOfFate/KingOfAshes.md)
