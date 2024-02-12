@@ -238,7 +238,7 @@
 
         + 我想随你一起走。我想侍奉阿里曼。+ 伊克纽蒙发送道，他嘴里的牙齿抽搐着，+ 你看，我才是我们真实的面容，克泰夏斯。皮肤之下，你们仍旧同我一样。+
 
-        我不知道该说些什么。红字褪下了千子身上那重变异的诅咒，至少在我们这些还活着的人身上如此。可是，治愈并不等同免疫。亚空间如此微妙，即便我们并未以触须与奇美拉般的嵌合肉体爬行<sup>[14](#Fortune'sFool-13)</sup><a name="Fortune'sFool-14a"></a>，千子中也依旧有许多人，他们的肉体依旧变化着。考虑到我们是什么，又以何处为家，这是可以预料的。可是，伊克纽蒙的脸，是在宣称着他并未被这亚空间的影响困扰；他拥抱了它。
+        我不知道该说些什么。红字褪下了千子身上那重变异的诅咒，至少在我们这些还活着的人身上如此。可是，治愈并不等同免疫。亚空间如此微妙，即便我们并未以触须与奇美拉般的嵌合肉体爬行<sup>[14](#Fortune'sFool-14)</sup><a name="Fortune'sFool-14a"></a>，千子中也依旧有许多人，他们的肉体依旧变化着。考虑到我们是什么，又以何处为家，这是可以预料的。可是，伊克纽蒙的脸，是在宣称着他并未被这亚空间的影响困扰；他拥抱了它。
 
         他微微歪了歪头，那层血肉的鬃毛伸长复又蜷曲，好似一团蠕虫的绳结。
 
@@ -356,9 +356,7 @@
 
         + 我可不会 -- + 他开始道。
 
-        + 舰队正在准备启航。一等我们通过了那条路途，阿里曼便会欢迎你进入他的秘环 \(Circle\)。+
-
-        <sub>* 机仆注：Circle, 千子尚为军团时，便已经存在的某种架构。此处可理解为教授和他亲自选定、最为信赖的助手/顾问团体。HH7黑皮书中，将Circle一词译为“环会”，参见 hh7节译: 千子军团结构，cv9519734</sub>
+        + 舰队正在准备启航。一等我们通过了那条路途，阿里曼便会欢迎你进入他的秘环<sup>[18](#Fortune'sFool-18)</sup><a name="Fortune'sFool-18a"></a><sub>(Circle)</sub>。+
 
         伊克纽蒙一下子滞住了，站得一动不动。我能感觉到他将自己的感知探展出去，试图感受到其中任何谎言的边缘、或是被刻意模糊的真相。
 
@@ -366,9 +364,7 @@
 
         我从铠甲上摘下了左手的手甲。其下的那只手枯瘦萎缩，好似骷髅。我将它移向我的右肩甲，那里有一道锐利的银制锋缘从铠甲上升起。我轻捷一动，掌心便绽开一道鲜红的线条。鲜血从中涌出，流遍了我的手指，而我将那鲜血抖落在地上。
 
-        + 以我之血，我铭记我所说的，以及在此地说出的一切话语。以我的灵魂，以及浩瀚之洋 \(the Great Ocean\)* 的伟力，我庄严发誓，保证它们的价值。+
-
-        <sub>* 机仆注：浩瀚之洋，普罗斯佩罗人及千子们对亚空间的别称。此处机仆译名随《千子》h大官译，亦有译本作“伟大汪洋”。</sub>
+        + 以我之血，我铭记我所说的，以及在此地说出的一切话语。以我的灵魂，以及浩瀚之洋<sup>[19](#Fortune'sFool-19)</sup><a name="Fortune'sFool-19a"></a><sub>(the Great Ocean) </sub>的伟力，我庄严发誓，保证它们的价值。+
 
         伊克纽蒙望向我的手，随后目光向上移去，望着我的脸。
 
@@ -382,11 +378,7 @@
 
         他沉默片刻，随后抬起一只手。一条火焰的绳索自变化之眼中松解开来，伸向他张开着的手指。他轻轻一拉，将它拔了出来，而那烈焰在他的掌间落定成小小的一枚火球。他将它举到头边，仿佛在倾听着。
 
-        + 安提尔兰深渊 \(the Antilline Abyss\) * 便是我们离开恐惧之眼必须要走的航道。若是使用任何其他的路途，那么，我们的对手便会在我们看到其外的虚空之前，将我们彻底摧毁。+
-
-        <sub>* 机仆注：</sub>
-
-        <sub>the Antilline Abyss, 疑似是在 neta 安的列斯群岛 \(Antilles, 荷兰语作 Antillen\) 。在加勒比海上。其中有一组群岛称荷属安的列斯 \(Nederlandse Antillen\)，即原荷属西印度。百慕大三角也在那一带附近（虽然我们都知道那是都市传说233）。另外，据[wiki](https://en.wikipedia.org/wiki/Antilles)，中世纪晚期，欧洲人曾以为在西班牙以西的大西洋中，有群岛名为安提利亚 \(Antillia\)，在西非加那利群岛 \(the Canary Islands\) 及亚洲的中间。后来哥伦布1492年航行至美洲时便是据此为安地列斯群岛命名。</sub>
+        + 安提尔兰深渊<sup>[20](#Fortune'sFool-20)</sup><a name="Fortune'sFool-20a"></a><sub>(the Antilline Abyss) </sub>便是我们离开恐惧之眼必须要走的航道。若是使用任何其他的路途，那么，我们的对手们便会在我们看到其外的虚空之前，将我们彻底摧毁。+
 
         + 安提尔兰深渊… + 我小心翼翼地重复道。
 
@@ -466,25 +458,31 @@
 
 <a name="Fortune'sFool-7"></a> 7. the Plague Father, 即纳垢。<sup>[\[^\]](#Fortune'sFool-7a)</sup>
 
-<a name="Fortune'sFool-8"></a>8. 原文是saffron, 藏红花色。饱和度极高、但并不荧光的橙黄。Saffron这个颜色的词源来源于阿拉伯文za’faran，在阿拉伯语里面的直译是黄色。据DBOA太太讲，这是那个时代古代社会认为最理想的黄色之一，希腊人把这种颜色染过的亚麻布类比为太阳。顺带这里提到的几个颜色也是有来头的，很有可能是墨西哥亡灵节衍生出来的色彩（俗称狂欢色）。<sup>[\[^\]](#Fortune'sFool-8a)</sup>
+<a name="Fortune'sFool-8"></a> 8. 原文是saffron, 藏红花色。饱和度极高、但并不荧光的橙黄。Saffron这个颜色的词源来源于阿拉伯文za’faran，在阿拉伯语里面的直译是黄色。据DBOA太太讲，这是那个时代古代社会认为最理想的黄色之一，希腊人把这种颜色染过的亚麻布类比为太阳。顺带这里提到的几个颜色也是有来头的，很有可能是墨西哥亡灵节衍生出来的色彩（俗称狂欢色）。<sup>[\[^\]](#Fortune'sFool-8a)</sup>
 
-<a name="Fortune'sFool-9"></a>9. Cadian Gate, 卡迪亚之门。亦有常译本作“卡迪安之门” -- 但这里的-n是类似于Canada-Canadian这种表示所属关系的词尾，所以正经说来该是卡迪亚之门的。卡迪亚/卡迪亚之门，在m41.999卡迪亚陨落 (Cadia falls) 事件之前，是恐惧之眼通往现实世界的唯一稳定出路，被帝国重兵把守。<sup>[\[^\]](#Fortune'sFool-9a)</sup>
+<a name="Fortune'sFool-9"></a> 9. Cadian Gate, 卡迪亚之门。亦有常译本作“卡迪安之门” -- 但这里的-n是类似于Canada-Canadian这种表示所属关系的词尾，所以正经说来该是卡迪亚之门的。卡迪亚/卡迪亚之门，在m41.999卡迪亚陨落 (Cadia falls) 事件之前，是恐惧之眼通往现实世界的唯一稳定出路，被帝国重兵把守。<sup>[\[^\]](#Fortune'sFool-9a)</sup>
 
-<a name="Fortune'sFool-10"></a>10. 原文是exodus, 出埃及记。是讲摩西带着全埃及的以色列人，离开埃及，去往迦南。泛指出奔，特别是很大规模，且路途迢迢的那种。<sup>[\[^\]](#Fortune'sFool-10a)</sup>
+<a name="Fortune'sFool-10"></a> 10. 原文是exodus, 出埃及记。是讲摩西带着全埃及的以色列人，离开埃及，去往迦南。泛指出奔，特别是很大规模，且路途迢迢的那种。<sup>[\[^\]](#Fortune'sFool-10a)</sup>
 
-<a name="Fortune'sFool-11"></a>11. the Changer of Ways, 即奸奇。<sup>[\[^\]](#Fortune'sFool-11a)</sup>
+<a name="Fortune'sFool-11"></a> 11. the Changer of Ways, 即奸奇。<sup>[\[^\]](#Fortune'sFool-11a)</sup>
 
-<a name="Fortune'sFool-12"></a>12. Kiu (读音可能更接近秋) 和Gaumata都是阿教授接管阿蒙的战帮后，手下的巫师。两人均参与了阿教授第一次红字，随后一同被放逐。Kiu是猎鹰学派的，Ahriman: Exile第17章中和阿教授交手过；Gaumata是火凤学派的，他的lex及考据参见cv24107897；Astraeos则是阿教授流亡时收留为徒的变节智库。他们三人的考据可参见cv25205167相关段落。<sup>[\[^\]](#Fortune'sFool-12a)</sup>
+<a name="Fortune'sFool-12"></a> 12. Kiu (读音可能更接近秋) 和Gaumata都是阿教授接管阿蒙的战帮后，手下的巫师。两人均参与了阿教授第一次红字，随后一同被放逐。Kiu是猎鹰学派的，Ahriman: Exile第17章中和阿教授交手过；Gaumata是火凤学派的，他的lex及考据参见cv24107897；Astraeos则是阿教授流亡时收留为徒的变节智库。他们三人的考据可参见cv25205167相关段落。<sup>[\[^\]](#Fortune'sFool-12a)</sup>
 
-<a name="Fortune'sFool-13"></a>13. 那些嘴可能看起来好似七鳃鳗的嘴什么的… 至于脸，或许可以参考血源诅咒里的愚笨蜘蛛罗姆。为了照顾大家的食欲，机仆就不上图了...<sup>[\[^\]](#Fortune'sFool-13a)</sup>
+<a name="Fortune'sFool-13"></a> 13. 那些嘴可能看起来好似七鳃鳗的嘴什么的… 至于脸，或许可以参考血源诅咒里的愚笨蜘蛛罗姆。为了照顾大家的食欲，机仆就不上图了...<sup>[\[^\]](#Fortune'sFool-13a)</sup>
 
-<a name="Fortune'sFool-14"></a>14. 奇美拉 (Chimera)，希腊神话里的怪兽，山羊头、狮身、蛇尾，喷吐火焰。泛指拼接的怪兽。如今生物学上以该词形容不同源的细胞所组成的嵌合体。<sup>[\[^\]](#Fortune'sFool-14a)</sup>
+<a name="Fortune'sFool-14"></a> 14. 奇美拉 (Chimera)，希腊神话里的怪兽，山羊头、狮身、蛇尾，喷吐火焰。泛指拼接的怪兽。如今生物学上以该词形容不同源的细胞所组成的嵌合体。<sup>[\[^\]](#Fortune'sFool-14a)</sup>
 
-<a name="Fortune'sFool-15"></a>15. 原话是keep court with, 本意是be surrounded by and command the attention of admirers, subordinates, or hangers-on. 更接近于人群中光耀夺目的领导者，凭魅力引得一群敬慕者心甘情愿听他调遣、为他冲锋陷阵那种感觉。<sup>[\[^\]](#Fortune'sFool-15a)</sup>
+<a name="Fortune'sFool-15"></a> 15. 原话是keep court with, 本意是be surrounded by and command the attention of admirers, subordinates, or hangers-on. 更接近于人群中光耀夺目的领导者，凭魅力引得一群敬慕者心甘情愿听他调遣、为他冲锋陷阵那种感觉。<sup>[\[^\]](#Fortune'sFool-15a)</sup>
 
-<a name="Fortune'sFool-16"></a>16. the Court of Change，指的是老t手下的一群各种各样的恶魔。Ahriman: Unchanged中对此有一点描述。变化灵/诡变幼主 (the Changeling) 便位列其中。<sup>[\[^\]](#Fortune'sFool-16a)</sup>
+<a name="Fortune'sFool-16"></a> 16. the Court of Change，指的是老t手下的一群各种各样的恶魔。Ahriman: Unchanged中对此有一点描述。变化灵/诡变幼主 (the Changeling) 便位列其中。<sup>[\[^\]](#Fortune'sFool-16a)</sup>
 
-<a name="Fortune'sFool-17"></a>17. ectoplasm, 灵质。西方神秘学概念里，某种超自然的粘稠液体，灵能力量的具象表现。<sup>[\[^\]](#Fortune'sFool-17a)</sup>
+<a name="Fortune'sFool-17"></a> 17. ectoplasm, 灵质。西方神秘学概念里，某种超自然的粘稠液体，灵能力量的具象表现。<sup>[\[^\]](#Fortune'sFool-17a)</sup>
+
+<a name="Fortune'sFool-18"></a> 18. Circle, 千子尚为军团时，便已经存在的某种架构。此处可理解为教授和他亲自选定、最为信赖的助手/顾问团体。HH7黑皮书中，将Circle一词译为“环会”，参见 hh7节译: 千子军团结构，cv9519734。<sup>[\[^\]](#Fortune'sFool-18a)</sup>
+
+<a name="Fortune'sFool-19"></a> 19. the Great Ocean, 浩瀚之洋，普罗斯佩罗人及千子们对亚空间的别称。此处机仆译名随《千子》h大官译，亦有译本作“伟大汪洋”。<sup>[\[^\]](#Fortune'sFool-19a)</sup>
+
+<a name="Fortune'sFool-20"></a>20. the Antilline Abyss, 疑似是在 neta 安的列斯群岛 (Antilles, 荷兰语作 Antillen) 。在加勒比海上。其中有一组群岛称荷属安的列斯 (Nederlandse Antillen)，即原荷属西印度。百慕大三角也在那一带附近（虽然我们都知道那是都市传说233）。另外，据[wiki](https://en.wikipedia.org/wiki/Antilles)，中世纪晚期，欧洲人曾以为在西班牙以西的大西洋中，有群岛名为安提利亚 (Antillia)，在西非加那利群岛 (the Canary Islands) 及亚洲的中间。后来哥伦布1492年航行至美洲时便是据此为安地列斯群岛命名。<sup>[\[^\]](#Fortune'sFool-20a)</sup>
 
 <br><br/>
 
