@@ -110,4 +110,4 @@
 
 [《阿里曼：放逐者》目录](AhrimanExileIndex.md)
 
-下一章：[第一章 劫难者](Chpt1.md)
+下一章：[第一章 劫难者](chpt1.md)
