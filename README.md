@@ -113,7 +113,7 @@ Please contact us through GitHub issues of this repository should you have furth
 * <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼</sub>
     * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
-    * 《忿怒猎犬》Hounds of Wrath
+    * [《忿怒猎犬》Hounds of Wrath](/Ahriman/TalesOfCtesias/HoundsOfWrath.md)
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
 * 《阿里曼：术士》Ahriman: Sorcerer
