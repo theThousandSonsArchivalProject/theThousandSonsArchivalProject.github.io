@@ -89,4 +89,4 @@
 
 （皆为尘土 完）
 
-下一篇：[《阿里曼：放逐者》Ahriman: Exile](/../AhrimanExile/AhrimanExileIndex.md)
+下一篇：[《阿里曼：放逐者》Ahriman: Exile](../AhrimanExile/AhrimanExileIndex.md)
