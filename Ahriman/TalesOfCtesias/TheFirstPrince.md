@@ -414,7 +414,7 @@
 
 <a name="TheFirstPrince-7"></a> 7. litany, 连祷文，一种基督教祷文。一般由一个领导者开头，其他人跟着念剩下的部分，句复一句，段复一段，接续不断。一则40k时帝国流传的儿童连祷文可参见CV24984289. <sup>[\[^\]](#TheFirstPrince-7a)</sup>
 
-<a name="TheFirstPrince-8"></a> 8. 机仆注：这群千子们… 如果有人好奇他们每个人都是谁、做了什么、在哪里登场，以及他们的考据，请参见文末[**机仆附录**](#TheFirstPrince-Appendix)。顺便我觉得这段里的Magnus，还有后面的Jehoel, Midrash出现得真的很奇怪… <sup>[\[^\]](#TheFirstPrince-8a)</sup>
+<a name="TheFirstPrince-8"></a> 8. 这群千子们… 如果有人好奇他们每个人都是谁、做了什么、在哪里登场，以及他们的考据，请参见文末[**机仆附录**](#TheFirstPrince-Appendix)。顺便我觉得这段里的Magnus，还有后面的Jehoel, Midrash出现得真的很奇怪… <sup>[\[^\]](#TheFirstPrince-8a)</sup>
 
 <a name="TheFirstPrince-9"></a> 9. 原文是cleaver, 切肉刀一类大而沉的刀斧。<sup>[\[^\]](#TheFirstPrince-9a)</sup>
 
@@ -426,7 +426,7 @@
 
 <br><br/>
 
-<a name="TheFirstPrince-Appendix"></a> **机仆附录：**
+<a name="TheFirstPrince-Appendix"></a> **机仆附录：**<sup>[\[^\]](#TheFirstPrince-8)</sup>
 
 **潜在部分剧透预警**。关于比拉克示给教授看的那群千子们：他们是谁，又做了什么。
 
