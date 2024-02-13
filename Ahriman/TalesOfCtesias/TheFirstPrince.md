@@ -4,7 +4,7 @@
 
 收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中。
 
-译文初见于b站 cv26513086
+译文初发布于b站 cv26513086
 
 ---
 <div align="center">
@@ -393,9 +393,11 @@
         我没有回答他，而是背过身去，走离了他的存在。我们都有自己的秘密要保守，而我的秘密属于我自己。
 
 <br><br/>
-
 (第一亲王 完)
 
+上一篇：[《忿怒猎犬》Hounds of Wrath](HoundsOfWrath.md)
+
+下一篇：[《毁灭之门》Gates of Ruin](GatesOfRuin.md)
 <br><br/>
 
 **机仆注：**
