@@ -8,17 +8,15 @@
 
 ---
 <div align="center">
-<h1>IV. 第一亲王</h1>
+<h2>IV. 第一亲王</h2>
 </div>
 
 <p align = center><i> “若非骄傲的枷锁桎梏着我们的灵魂，人的力量足以颠覆一切造物。”</i></p>
-<p align = right><i> -- 法提蒂库斯 (Fatidicus)，救世帝皇神殿奠基圣人 </i></p> 
+<p align = right><i> -- 法提蒂库斯<sub> (Fatidicus)</sub>，救世帝皇神殿奠基圣人 </i></p> 
 
         
 
-        光芒渐暗。我那双见过了太多太多的眼，正挣扎着去看我正书写的文字，却已然无法看清。过不了多久，我便将面对第二次，也是最后一次死亡。那驭使着禁忌知识的一生为我挣得了一份回报，而我的灵魂，将往那回报处去*。
-
-        <sub>* 机仆注：原话是My soul will go to the reward that a life of wielding forbidden knowledge has earned me. Go to reward是一种很委婉的说人死了的方法。大白话地说，克泰夏斯要死了，他知道自己的灵魂要落去这一辈子操弄禁忌之术带来的结局里。</sub>
+        光芒渐暗。我那双见过了太多太多的眼，正挣扎着去看我正书写的文字，却已然无法看清。过不了多久，我便将面对第二次，也是最后一次死亡。那驭使着禁忌知识的一生为我挣得了一份回报，而我的灵魂，将往那回报处去<sup><a href="#TheFirstPrince-1">1</a></sup><a name="TheFirstPrince-1a"></a>。
 
         我说，这将会是我的第二次死亡。而在某种程度上，那是事实，因为在我人生的第三千零八十一个年头里，我已死过一次。不过，那并不是终局。毕竟啊，我仍在这里。
 
@@ -422,13 +420,19 @@
 
         我没有回答他，而是背过身去，走离了他的存在。我们都有自己的秘密要保守，而我的秘密属于我自己。
 
- 
+<br><br/>
 
 (第一亲王 完)
 
 <br><br/>
 
-\* 机仆注：
+**机仆注：**
+
+<a name="TheFirstPrince-1"></a> 1. 原话是My soul will go to the reward that a life of wielding forbidden knowledge has earned me. Go to reward是一种很委婉的说人死了的方法。大白话地说，克泰夏斯要死了，他知道自己的灵魂要落去这一辈子操弄禁忌之术带来的结局里。<sup>[\[^\]](#TheFirstPrince-1a)</sup>
+
+<br><br/>
+
+**机仆附录：**
 
 **潜在部分剧透预警**。关于比拉克示给教授看的那群千子们：他们是谁，又做了什么。
 
