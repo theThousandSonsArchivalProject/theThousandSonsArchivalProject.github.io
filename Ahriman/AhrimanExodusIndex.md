@@ -16,7 +16,7 @@
 
 1. [死亡神谕 The Dead Oracle](TalesOfCtesias/TheDeadOracle.md)
 2. [命运愚者 Fortune's Fool](TalesOfCtesias/Fortune'sFool.md)
-3. 忿怒猎犬 Hounds of Wrath
+3. [忿怒猎犬 Hounds of Wrath](TalesOfCtesias/HoundsOfWrath.md)
 4. [第一亲王 The First Prince](TalesOfCtesias/TheFirstPrince.md)
 5. [毁灭之门 Gates of Ruin](TalesOfCtesias/GatesOfRuin.md)
 
