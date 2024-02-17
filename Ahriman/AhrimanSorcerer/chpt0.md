@@ -29,7 +29,7 @@
 
  
 
-上一章：[《克泰夏斯故事集》Tales of Ctesias](../TalesOfCtesias/TalesOfCtesias.md)
+上一章：[《克泰夏斯故事集》Tales of Ctesias](../TalesOfCtesias/TalesOfCtesiasIndex.md)
 
 [目录](AhrimanSorcererIndex.md)
 
