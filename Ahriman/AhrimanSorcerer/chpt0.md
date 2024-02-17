@@ -4,7 +4,7 @@
 
 -- 原体赤红之马格努斯<sub> (Magnus the Red) </sub>的沉思，
 
-见述于卡里马库斯的神识之殿<sup><a href="#AhrimanSorcerer-0-1">1</a></sup><a name="AhrimanSorcerer-0-1a"></a><sub> (the Athenaeum of Kalimakus)</sub>
+见述于卡里马库斯的神识之殿<sup><a href="#AhrimanSorcerer-0-1"> 1</a></sup><a name="AhrimanSorcerer-0-1a"></a><sub> (the Athenaeum of Kalimakus)</sub>
 
 </i></div>
 
