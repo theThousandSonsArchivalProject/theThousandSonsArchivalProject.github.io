@@ -1,20 +1,15 @@
-第一部 
+**第一部 PART 1**
 
-预言之战 
+**预言之战 WAR OF PROPHECY**
 
 
-
-第一章 
-
-梦境 
+<div align = "center"><h3>        
+第一章 梦境
+</h3></div>
 
         很快，此事便要了结了。
 
-        格里穆尔·红铁 (Grimur RedIron)* 闭上双眼，感受着跳帮鱼雷划过虚空时的低吼，环笼在他身周。他舔了舔牙齿；那些齿已经生得很长。他微微动了动，感到那受损又生长错乱的肌肉之结在他弓驼的背上抽搐扭动。这场狩猎已经进行了很久，可它已经几近于完结功成。很快了，他再度想道，睁开了眼。他的猎群在他身旁候着，他们的铠甲与武器被警告灯的灯光玷染成了红色。
-
-        * 机仆注：Grimur, 一个相当北欧风格的男性名字。叫Grimur的历史人物太多了，并不十分确定这里neta的谁。一种推测是他可能neta自约公元927-930年建立冰岛议会 (Althing, 今称Assembly Plains/Þingvellir) 的Grímur Goatshoe/Goatbeard.
-
-        Ref: https://en.wikipedia.org/wiki/Gr%C3%ADmur_Geitsk%C3%B6r
+        格里穆尔·红铁<sup><a href="#AhrimanSorcerer-1-1">1</a></sup><a name="AhrimanSorcerer-1-1a"></a><sub> (Grimur RedIron) </sub>闭上双眼，感受着跳帮鱼雷划过虚空时的低吼，环笼在他身周。他舔了舔牙齿；那些齿已经生得很长。他微微动了动，感到那受损又生长错乱的肌肉之结在他弓驼的背上抽搐扭动。这场狩猎已经进行了很久，可它已经几近于完结功成。很快了，他再度想道，睁开了眼。他的猎群在他身旁候着，他们的铠甲与武器被警告灯的灯光玷染成了红色。
 
         三十道灰铁的身影填满了狭窄的空间。他们所有人的身上，都刻着时光与战斗的痕迹：他们战甲甲片的伤疤中；他们武器磨损的手柄上；可更远甚这一切地，他们的沉默里。
 
@@ -118,6 +113,10 @@ Ref: https://www.reddit.com/r/WorldEaters40k/s/6Ga4TjG0HP
 
 
 (第1章 未完待续)
+
+**机仆注：**
+
+<a name="AhrimanSorcerer-1-1"></a> 1. Grimur, 一个相当北欧风格的男性名字。叫Grimur的历史人物太多了，并不十分确定这里neta的谁。一种推测是他可能neta自约公元927-930年建立冰岛议会 (Althing, 今称Assembly Plains/Þingvellir) 的Grímur Goatshoe/Goatbeard, [wiki见此](https://en.wikipedia.org/wiki/Gr%C3%ADmur_Geitsk%C3%B6r). <sup>[\[^\]](#AhrimanSorcerer-1-1a)</sup>
 
 
 
