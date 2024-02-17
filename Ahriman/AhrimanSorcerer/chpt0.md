@@ -33,7 +33,7 @@
 
 [目录](AhrimanSorcererIndex.md)
 
-下一章：[第一章 梦境](chpt0.md)
+下一章：[第一章 梦境](chpt1.md)
 
 **机仆注:** 
 
