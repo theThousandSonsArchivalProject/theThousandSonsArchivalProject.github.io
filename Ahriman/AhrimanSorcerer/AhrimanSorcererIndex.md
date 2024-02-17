@@ -9,4 +9,13 @@
 <h1>目录</h1>
 </div>
 
-**序**
+[**序**](chpt0.md)
+
+**第一部 预言之战**
+
+- [第1章](chpt1.md)
+
+
+上一部：[《克泰夏斯故事集》Tales of Ctesias](../TalesOfCtesias/TalesOfCtesiasIndex.md)
+
+下一部：[尘之手](../VoicesOfFate/HandOfDust.md)
