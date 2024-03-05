@@ -38,6 +38,7 @@ Please contact us through GitHub issues of this repository should you have furth
 - 以及[大量考据](#BehindTheScenes)...
 
 <sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub>
+<sub>* 有中文官方出版的内容就不收录了，咱们还是支持一下下正版... </sub>
 
 **所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。** 
 若版权方要求，机仆会应版权方要求移除部分内容。
@@ -110,7 +111,7 @@ Please contact us through GitHub issues of this repository should you have furth
 
 * [《皆为尘土》All is Dust](/Ahriman/VoicesOfFate/AllIsDust.md)
 * [《阿里曼：放逐者》Ahriman: Exile](/Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼</sub>
+* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
     * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
     * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
     * [《忿怒猎犬》Hounds of Wrath](/Ahriman/TalesOfCtesias/HoundsOfWrath.md)
@@ -123,12 +124,14 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
 * 《阿里曼：永恒》Ahriman: Eternal
+* Ahriman: Undying
+* Players of Fate
 
 ### <a name="Ahriman40k"></a> 40k时期
 和小马一样，是作为反派出场的... 塑造比较（甚至有的应该说**相当**）糟糕，机仆且只给个链接，不收录了...
 * 《风云际会2：比耶-坦的碎裂》The Gathering Storm II: Fracture of Biel-Tan
     * 这里面倒是有那个颇有名的小豆腐块，~摄政夫人~ 伊芙蕾妮 Yvraine 当着阿教授复活红字...
-* 《炼狱之图》Atlas Infernal
+* [《炼狱之图》Atlas Infernal](https://www.bilibili.com/read/readlist/rl741347)
 
 
 ## <a name="OtherThousandSons"></a> 其他千子们 Others
