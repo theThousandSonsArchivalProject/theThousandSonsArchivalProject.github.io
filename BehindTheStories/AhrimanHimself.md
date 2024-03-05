@@ -30,7 +30,9 @@ Anyway, 第一篇小考据汇总，关于阿教授本人：
 
 **- 阿教授的名：Ahzek**
 
-        说到名字 -- 阿教授的姓Ahriman取自于波斯神话中，与光明之善神Ohrzmund相争斗的黑暗之神Ahriman，算是一个比较广为人知的neta了。相较之下，他的名Ahzek的源头似乎比较模糊。一种猜测认为，Ahzek这个名字同样来自于波斯神话，源头是波斯神话中，黑暗之神阿里曼的儿子，Zahhak，古波斯语中拼作Azhi Dahāka。
+        说到名字 -- 阿教授的姓Ahriman取自于波斯神话中，与光明之善神Ohrzmund相争斗的黑暗之神Ahriman，算是一个比较广为人知的neta了。相较之下，他的名Ahzek的源头似乎比较模糊。一种猜测*认为，Ahzek这个名字同样来自于波斯神话，源头是波斯神话中，黑暗之神阿里曼的儿子，Zahhak，古波斯语中拼作Azhi Dahāka。
+        
+        <sub>* Ref: [Reddit: Some assorted obscure Thousand Sons trivia](https://www.reddit.com/r/40kLore/comments/na0rvw/some_assorted_obscure_thousand_sons_trivia/)</sub>
 
  
 
