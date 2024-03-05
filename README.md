@@ -38,6 +38,7 @@ Please contact us through GitHub issues of this repository should you have furth
 - 以及[大量考据](#BehindTheScenes)...
 
 <sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub>
+
 <sub>* 有中文官方出版的内容就不收录了，咱们还是支持一下下正版... </sub>
 
 **所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。** 
