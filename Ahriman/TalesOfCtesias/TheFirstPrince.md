@@ -442,7 +442,7 @@
 
 - Ohrmuzd: 很有名，不多说了。教授的双胞胎兄弟，在军团与小马团聚前死于血肉异变。会呼召闪电，大概率如果活下来会是亮羽。
 
-- Ctesias: 本故事的叙述者，阿里曼手下的恶魔术士。大概率是neta历史上的阿契美尼德波斯史官Ctesias of Cnidus. Lex 参见CV9129742，考据参见CV25205167
+- Ctesias: 本故事的叙述者，阿里曼手下的恶魔术士。大概率是neta历史上的阿契美尼德波斯史官Ctesias of Cnidus. Lex 参见CV9129742，[考据](../../BehindTheStories/Ahriman'sFollowers.md)参见CV25205167
 
 - Iskandar Khayon: 卡杨。嗯，应该可以不多赘述了？
 
