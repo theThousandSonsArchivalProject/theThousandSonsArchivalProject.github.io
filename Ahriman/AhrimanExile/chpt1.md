@@ -233,4 +233,4 @@
 
 <a name="AhrimanExile-1-2"></a> 2. Astraeos, 大约是neta自希腊神话中的Astraeus/Astraios (古希腊语的Ἀστραῖος，意即星辰/星辰升起)，曙暮之神，泰坦之一。古希腊神话中的阿斯特罗斯 (或作阿斯特莱欧斯)，一说是第二代泰坦，生于克利俄斯 (Crius) 与欧律比亚 (Eurybia)；另一说他直接生于塔尔塔洛斯 (Tartarus) 与地母盖亚 (Gaia)。他与晨曦女神厄俄斯 (Eos) 结合，他们的孩子即为诸风与星辰。一说他参与过泰坦神族对抗宙斯的战争。更多剧情上的考据可参见cv25205167。<sup>[\[^\]](#AhrimanExile-1-2a)</sup>
 
-<a name="AhrimanExile-1-2"></a> 2. Horkos, 希腊神话中司掌誓言与背誓的神明。阿里曼流亡时以之为假名。<sup>[\[^\]](#AhrimanExile-1-2a)</sup>
+<a name="AhrimanExile-1-3"></a> 3. Horkos, 希腊神话中司掌誓言与背誓的神明。阿里曼流亡时以之为假名。<sup>[\[^\]](#AhrimanExile-1-3a)</sup>
