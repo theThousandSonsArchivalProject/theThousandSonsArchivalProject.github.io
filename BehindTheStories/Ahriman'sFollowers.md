@@ -8,7 +8,7 @@
 
         一部分人之前已经有了详细的考据文章啦。那些就不多赘述，只简述一下考据发现，并给出lex/详细考据的链接~
 
-        千子们剧情方面的简述，可参见[《第一亲王》The First Prince](../Ahriman/TalesOfCtesias/TheFirstPrince.md)的[文末附录](../Ahriman/TalesOfCtesias/TheFirstPrince.md#TheFirstPrince-Appendix)。
+        千子们剧情方面的简述，可参见[《第一亲王》The First Prince](../Ahriman/TalesOfCtesias/TheFirstPrince.md)的[文末附录](../Ahriman/TalesOfCtesias/TheFirstPrince.md#TheFirstPrince-Appendix)。
 
 --- 
 
