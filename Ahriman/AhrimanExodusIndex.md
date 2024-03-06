@@ -8,6 +8,8 @@
 
 译者不一，各自标注。
 
+**epub版本[点此下载](Ahriman%20Exodus-Unofficial%20CN%20Translation.epub)**
+
 <div align="center">
 <h1>目录</h1>
 </div>
