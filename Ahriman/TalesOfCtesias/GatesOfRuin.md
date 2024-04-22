@@ -222,7 +222,7 @@
 
         + 为什么？+
 
-        + 他是破灭团社<sub> (the Order of Ruin)</sub><sup>[[11]](#GatesOfRuin-11)</sup><a name="GatesOfRuin-11a"></a>的人，而这便是个不错的开端。跟其他任何方面一样好。并且… 唔，好吧，你会看见的。+
+        + 他是破灭团社<sup>[[11]](#GatesOfRuin-11)</sup><a name="GatesOfRuin-11a"></a><sub>(the Order of Ruin) </sub>的人，而这便是个不错的开端。跟其他任何方面一样好。并且… 唔，好吧，你会看见的。+
 
         阿斯特罗斯忽然猛地抬起头来，而我能分辨得出，他正在倾听着什么只有他能听到的话语。
 
