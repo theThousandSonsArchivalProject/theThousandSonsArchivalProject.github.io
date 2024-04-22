@@ -282,7 +282,7 @@
 
         + 克雷登斯<sup>[[4]](#GatesOfRuin-4)</sup><a name="GatesOfRuin-4a"></a><sub>(Credence) </sub>守护着我的生命。+ 他发送道。
 
-        我等待着，可他没再说什么。我的牙齿紧咬在一起。我都已经忘记与毁灭教团的人交谈是怎样一番感觉了。自我上次见到伊格尼斯到现在，已经足足隔了数个世纪。从这点来说，那数个世纪堪称一种祝福。
+        我等待着，可他没再说什么。我的牙齿紧咬在一起。我都已经忘记与破灭团社的人交谈是怎样一番感觉了。自我上次见到伊格尼斯到现在，已经足足隔了数个世纪。从这点来说，那数个世纪堪称一种祝福。
 
         + 谢谢你澄清那一点。+
 
@@ -626,7 +626,7 @@
 
 <a name="GatesOfRuin-5"></a> 5. 原文是becalmed. 意即 leave (a sailing vessel) unable to move through lack of wind. 是风帆舰时代的用语，指一艘船由于无风而无法航行的情况。这种情况常见于赤道无风带上、以及马尾藻海等海域。<sup>[\[^\]](#GatesOfRuin-5a)</sup>
 
-<a name="GatesOfRuin-6"></a> 6. 其实这个protocol更接近于做实验的experiment protocol里protocol的意思。一系列规定好的处理流程动作云云。不过考虑到机械教那边也有这个说法，且大部分都把这个翻译成杀戮协议，还是保持一致比较好。毕竟伊格尼斯作为毁灭教团的领袖，常和机械教那边打交道，沿用他们的说法也蛮科学的。<sup>[\[^\]](#GatesOfRuin-6a)</sup>
+<a name="GatesOfRuin-6"></a> 6. 其实这个protocol更接近于做实验的experiment protocol里protocol的意思。一系列规定好的处理流程动作云云。不过考虑到机械教那边也有这个说法，且大部分都把这个翻译成杀戮协议，还是保持一致比较好。毕竟伊格尼斯作为破灭团社的领袖，常和机械教那边打交道，沿用他们的说法也蛮科学的。<sup>[\[^\]](#GatesOfRuin-6a)</sup>
 
 <a name="GatesOfRuin-7"></a> 7. 公牛头、麝香与珠宝，这是一只守密者 (Keeper of Secrets)，某种色孽大魔。棋子里长这个样子：<sup>[\[^\]](#GatesOfRuin-7a)</sup>
 
