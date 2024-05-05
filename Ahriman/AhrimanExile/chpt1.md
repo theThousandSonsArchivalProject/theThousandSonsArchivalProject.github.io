@@ -82,7 +82,7 @@
 
  
 
-        “我们一定要找到她。我们欠她的。我们的誓言尚存。”阿斯特罗斯依次望向他的兄弟们。他们站在五个通道的交汇口，在泰坦之子的引擎甲板附近围成了一个松散的圆环。光线如此稀薄，以至阿斯特罗斯眼中，那三位战士是单色的雕像，他们铜色的铠甲褪成了阴暗的灰，他们面容上的线条与伤疤成了笼覆暗影的山谷。他们回望着，他们的双眼是闪着月白的光轮。卡丁<sub> (Kadin) </sub>摇了摇头，看向别处。蒂迪亚斯<sup><a href="#AhrimanExile-1-7">[7]</a></sup><a name="AhrimanExile-1-7a"></a><sub> (Thidias) </sub>保持着漠然的表情。卡达尔<sub> (Cadar) </sub>看起来仿佛正在克制住自己说出话来。阿斯特罗斯注意到蒂迪亚斯的手轻轻抚上遍是伤痕的陶钢，那曾是天鹰在他胸前张展双翼的地方。
+        “我们一定要找到她。我们欠她的。我们的誓言尚存。”阿斯特罗斯依次望向他的兄弟们。他们站在五个通道的交汇口，在泰坦之子的引擎甲板附近围成了一个松散的圆环。光线如此稀薄，以至阿斯特罗斯眼中，那三位战士是单色的雕像，他们铜色的铠甲褪成了阴暗的灰，他们面容上的线条与伤疤成了笼覆暗影的山谷。他们回望着，他们的双眼是闪着月白的光轮。卡丁<sub> (Kadin) </sub>摇了摇头，看向别处。蒂迪亚斯<sup><a href="#AhrimanExile-1-5">[5]</a></sup><a name="AhrimanExile-1-5a"></a><sub> (Thidias) </sub>保持着漠然的表情。卡达尔<sub> (Cadar) </sub>看起来仿佛正在克制住自己说出话来。阿斯特罗斯注意到蒂迪亚斯的手轻轻抚上遍是伤痕的陶钢，那曾是天鹰在他胸前张展双翼的地方。
 
         *打破一个誓言，而其余的便将崩坍瓦解，* 阿斯特罗斯想。他想起了哈达尔<sub> (Hadar)</sub>，那老牧师，说着那些话语，“战士们的心，当是团结如一的。” 他曾那样说过，“否则，他们将一碎碎、一人接一人地被分而击破。” 一年后，那牧师在燃起的变节之火中丧生了。
 
@@ -118,7 +118,7 @@
 
         有什么东西以着卡洛兹的声音在他脑内咯咯轻笑。阿里曼感到他的心率正抑制不住地愈发地快。
 
-        + 命运，阿里曼。+ 那遥遥彼方的声音说道。卡洛兹眼里射出的光芒有如新生恒星那般蔚蓝。+ 我是终临的命运。<sup><a href="#AhrimanExile-1-5">[5]</a></sup><a name="AhrimanExile-1-5a"></a>+
+        + 命运，阿里曼。+ 那遥遥彼方的声音说道。卡洛兹眼里射出的光芒有如新生恒星那般蔚蓝。+ 我是终临的命运。<sup><a href="#AhrimanExile-1-7">[7]</a></sup><a name="AhrimanExile-1-7a"></a>+
 
         随后，唯有彻然的完全黑暗、与在虚空中滑行的失重感。
 
@@ -238,10 +238,10 @@
 
 <a name="AhrimanExile-1-4"></a> 4. 原文是"Yet, I keep you." Keep这个词颇为微妙，几乎算得上是含着主人对所豢养的宠物一般、几近于亵玩般的语气的。个中滋味请自己品味... <sup>[\[^\]](#AhrimanExile-1-4a)</sup>
 
-<a name="AhrimanExile-1-5"></a> 5. 原文是"I am fate come rounded last." 有种命运终临回环的感觉。这句话其实在这本书里是经常出现的一句。第18章、第21章阿蒙与教授的情节里还会出现。 <sup>[\[^\]](#AhrimanExile-1-5a)</sup>
+<a name="AhrimanExile-1-5"></a> 5. Thidias，莎剧《安东尼与克里奥佩特拉》(埃及艳后的故事) 中，凯撒派往克里奥佩特拉处，想要劝说克里奥佩特拉转而支持他的信使。被安东尼发现了，抽了一顿。感兴趣可以看<sub>https://www.playshakespeare.com/antony-and-cleopatra/characters/thidias</sub>。  <sup>[\[^\]](#AhrimanExile-1-5a)</sup>
 
-<a name="AhrimanExile-1-6"></a> 6. melta-charge，热熔炸弹。这里charge是类似于炸药包 demilition charge的含义。 <sup>[\[^\]](#AhrimanExile-1-6a)</sup>
+<a name="AhrimanExile-1-6"></a> 6. 原文是"I am fate come rounded last." 有种命运终临回环的感觉。这句话其实在这本书里是经常出现的一句。第18章、第21章阿蒙与教授的情节里还会出现。 <sup>[\[^\]](#AhrimanExile-1-6a)</sup>
 
-<a name="AhrimanExile-1-7"></a> 7. Thidias，莎剧《安东尼与克里奥佩特拉》(埃及艳后的故事) 中，凯撒派往克里奥佩特拉处，想要劝说克里奥佩特拉转而支持他的信使。被安东尼发现了，抽了一顿。感兴趣可以看<sub>https://www.playshakespeare.com/antony-and-cleopatra/characters/thidias</sub>。 <sup>[\[^\]](#AhrimanExile-1-7a)</sup>
+<a name="AhrimanExile-1-7"></a> 7. melta-charge，热熔炸弹。这里charge是类似于炸药包 demilition charge的含义。<sup>[\[^\]](#AhrimanExile-1-7a)</sup>
 
 <a name="AhrimanExile-1-8"></a> 8. 原文是It will be done. Shroud君原翻译作“会办妥的”，在这个语境下是准确的。但是，It will be done是教授 -- 乃至千子们几乎口头禅一样经常说的一句，本体及变形(如it has been done)在后续剧情里还会常常出现。为了兼容后续剧情，取了稍稍模糊一点的“会成的”。 <sup>[\[^\]](#AhrimanExile-1-8a)</sup>
