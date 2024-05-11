@@ -1,6 +1,6 @@
 # The Thousand Sons Archival Project
 
-Thanks for visiting! This is AntsiLynn, a typewriting servitor, proudly serving the Thousand Sons since m30.821.
+Thanks for visiting! This is the typewriting servitor, proudly serving the Thousand Sons since m30.821.
 
 This site is a backup archive on the fan-based Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
