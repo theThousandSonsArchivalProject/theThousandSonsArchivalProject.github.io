@@ -1,7 +1,11 @@
-        *“宿命与际遇是愚蠢的论题。时间，因果，观察与被观察者；我等须心怀猜忌探讨对所有变故的假设。我等认为过去造就未来，但是，这真的无法避免？试图见证命运以创造命运？如果我等未曾预见又将如何？变故可否逆向展开？”*
+        *“宿命与际遇是愚蠢的论题。时间，因果，观察与被观察者；我等须心怀猜疑探讨对这一切的假设。我等认为过去造就未来，可是，当真必然如此么？命运是否是由试图见证命运而创造的？倘若我等不曾去窥看，又将如何？变故是否会以另一种方式展开？”*
+
+        *‘To talk of destiny and fate is foolish. Time, causality, the observer and the observed; we must treat our assumptions on all these matters with suspicion. We think of the past causing the future, but must that be so? Is fate created by trying to see it? What if we had not looked? Would matters have unfolded otherwise?’* 
 
 <div align = right><i>
 ---- 阿泽克·阿里曼，摘自黑鸦学派的箴言
+  
+---- Ahzek Ahriman, from the precepts of the Corvidae
 </i></div> 
 
 <br></br>
