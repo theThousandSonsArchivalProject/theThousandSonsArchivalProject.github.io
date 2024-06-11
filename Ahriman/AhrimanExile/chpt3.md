@@ -286,7 +286,7 @@
 <a name="AhrimanExile-3-3"></a> 3. 图贝克：lex参见 CV9010113，读音上可能更接近托尔贝克，此处为尽量与已知保持一致，取图贝克。
 <sup>[\[^\]](#AhrimanExile-3-3a)</sup>
 
-<a name="AhrimanExile-3-4"></a> 4. adept, a person who is skilled or proficient at something. 但在《千子》里(如 第二章 cv1871484) ，这个词被翻译为小成者，此处暂取一致。
+<a name="AhrimanExile-3-4"></a> 4. adept, a person who is skilled or proficient at something. 但在《千子》官中里 (如 第二章 cv1871484) ，这个词被翻译为小成者，此处暂同官译取一致。
 <sup>[\[^\]](#AhrimanExile-3-4a)</sup>
 
 <a name="AhrimanExile-3-5"></a> 5. cabal, a secret political clique or faction. 目前见过的译本里亦有作阿里曼阴谋团，但这个词本意只是有(政治)秘密的小团体。期待正式官方译名。
