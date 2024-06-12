@@ -247,7 +247,7 @@ Ref: https://www.reddit.com/r/WorldEaters40k/s/6Ga4TjG0HP
 <sup>[\[^\]](#AhrimanSorcerer-1-4a)</sup>
 
 
-**机仆附注：关于wyrd**
+**机仆附录：关于wyrd**
 
         wyrd, 按照GW小说《狼时》the Wolf Time 的芬里斯语附录，意为of fate; of magic or the warp. 命运，或泛指一切与魔法/亚空间相关的东西。此处似乎含义上偏后者多一些。一般取前者之意的时候，同命线 (thread) 一词多有混用 – thread相对侧重“生命”多一点，wyrd侧重“命运”；前人对此词（尤其是取后者含义时）翻译不一 – h大版《千子》部分选择音译、部分译作“命运”，泰拉庭《马格努斯之怒》译作“命线”，塔西佗老师译作“天命”，而隔壁WoD世界观则译作“命符”。
 
@@ -257,25 +257,11 @@ Ref: https://www.reddit.com/r/WorldEaters40k/s/6Ga4TjG0HP
 
         如以下两处:
 
-Beowulf, VII.454
+        Beowulf, VII.454：
+![Beowulf, VII.454](https://i0.hdslb.com/bfs/article/c41f2fdd01dd9949357f201d039f9c81144045315.png@1256w_398h_!web-article-pic.avif)
 
-450	lices feorme
-leng sorgian.	To lament for long or lay out my body:
-Onsend Higelace,
-gif mec hild nime,	If the battle takes me, send back
-beaduscruda betst
-þæt mine breost wereð,	This breast-webbing that Weland fashioned
-hrægla selest.
-Þæt is Hrædlan laf	And Hrethel gave me, to Hygelac.
-Welandes geweorc.
-Gæð a wyrd swa hio scel.	Fate goes ever as fate must.”
-
-Beowulf, VIII.476­
-
-	færniða gefremed.
-Is min fletwerod,	Our humiliations.  My household-guard
-wigheap gewanod.
-Hie wyrd forsweop	Are on the wane, fate sweeps them away
+        Beowulf, VIII.476:
+![Beowulf, VIII.476­](https://i0.hdslb.com/bfs/article/372357f31c0224546f3e131ca7e9ce5c144045315.png@1256w_356h_!web-article-pic.avif)
 
         此外，据wiki, wyrd一词，也是北欧神话传说中，命运三女神之一的名字 (此名字又作Urd)。
 
