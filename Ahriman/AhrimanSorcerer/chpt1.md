@@ -3,9 +3,9 @@
 **预言之战 WAR OF PROPHECY**
 
 
-<div align = "center"><h3>        
+<div align = "center"><h4>        
 第一章 梦境
-</h3></div>
+</h4></div>
 
         很快，此事便要了结了。
 
