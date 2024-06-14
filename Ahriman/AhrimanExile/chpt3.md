@@ -280,8 +280,10 @@
 
 <a name="AhrimanExile-3-2"></a> 2. 这里可能看起来大概类似阿里曼在荷鲁斯叛乱前的盔甲，但颜色略有不同，附图如下
 <sup>[\[^\]](#AhrimanExile-3-2a)</sup>
-![大叛乱前的小罐头阿教授~](Pictures/AhrimanPreHeresy.png)
 
+<div align = center>
+![Pre-heresy Ahriman](pics/AhrimanPreHeresy.png)
+</div>
 
 <a name="AhrimanExile-3-3"></a> 3. 图贝克：lex参见 CV9010113，读音上可能更接近托尔贝克，此处为尽量与已知保持一致，取图贝克。
 <sup>[\[^\]](#AhrimanExile-3-3a)</sup>
