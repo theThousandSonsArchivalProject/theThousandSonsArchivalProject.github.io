@@ -63,9 +63,9 @@ Please contact us through GitHub issues of this repository should you have furth
 
 ### <a name="MagnusPreHeresy"></a> Pre-Heresy 大叛乱之前：
 
-* 《黎明星之战/普罗斯佩罗之主》Master of Prospero
+* [《黎明星之战/普罗斯佩罗之主》Master of Prospero](pre-heresy/MasterOfProspero/MasterOfProsperoIndex.md)
 * 《深渊边境》The Abyssal Edge
-* 《被抹杀的第六学派》The Sixth Cult Denied
+* 《被抹杀的第六学派》The Sixth Cult of the Denied
 * 《千子》A Thousand Sons
 * 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来*
   
