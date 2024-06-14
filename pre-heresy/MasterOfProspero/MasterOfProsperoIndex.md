@@ -9,5 +9,5 @@ Graham McNeill 著，千子码字机仆 自译，Ciel 校。
 ---
 
 - [封面](Covers.md)
-- [序幕](Chpt0.md)
+- [序幕](chpt0.md)
 - 第1章
