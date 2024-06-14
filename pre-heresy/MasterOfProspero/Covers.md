@@ -1,3 +1,13 @@
+<div align = center>
+
+![](pics/cover1.jpg)
+
+![](pics/cover2.jpg)
+
+![](pics/cover3.jpg)
+
+![](pics/cover4.jpg)
+
 我乃马格努斯，
 
 普罗斯佩罗之主；
@@ -13,3 +23,5 @@
 相抗于此，
 
 尔等所有，乃为无物！
+
+</div>
