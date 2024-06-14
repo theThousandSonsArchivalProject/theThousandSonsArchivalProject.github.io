@@ -123,7 +123,7 @@ Please contact us through GitHub issues of this repository should you have furth
     * [《忿怒猎犬》Hounds of Wrath](/Ahriman/TalesOfCtesias/HoundsOfWrath.md)
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
-* 《阿里曼：术士》Ahriman: Sorcerer
+* [《阿里曼：术士》Ahriman: Sorcerer](/Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md)
 * [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
 * [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
 * 《阿里曼：不变之人》Ahriman: Unchanged（本书亦有译作《阿里曼：不曾改变》的）
