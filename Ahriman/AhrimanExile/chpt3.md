@@ -282,7 +282,9 @@
 <sup>[\[^\]](#AhrimanExile-3-2a)</sup>
 
 <div align = center>
+  
 ![Pre-heresy Ahriman](pics/AhrimanPreHeresy.png)
+
 </div>
 
 <a name="AhrimanExile-3-3"></a> 3. 图贝克：lex参见 CV9010113，读音上可能更接近托尔贝克，此处为尽量与已知保持一致，取图贝克。
