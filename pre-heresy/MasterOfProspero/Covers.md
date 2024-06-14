@@ -4,6 +4,8 @@
 
 ![](pics/cover2.jpg)
 
+<br><br/>
+
 ![](pics/cover3.jpg)
 
 ![](pics/cover4.jpg)
@@ -25,3 +27,7 @@
 尔等所有，乃为无物！
 
 </div>
+
+[目录](MasterOfProsperoIndex.md)
+
+下一章：[序幕](chpt0.md)
