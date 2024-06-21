@@ -632,7 +632,7 @@
 
 <div align = center>
 
-![Keeper of Secrets](pics/KeeperOfSecrets.png)
+<img src="pics/KeeperOfSecrets.png">
 
 Ref: https://www.warhammer.com/en-CA/shop/Keeper-of-Secrets-2019
 
