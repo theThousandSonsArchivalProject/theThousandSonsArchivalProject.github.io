@@ -15,7 +15,13 @@
 <h2>尘之手</h2>
 </div>
 
-        尘埃从我手上飞向远方的地平线。我看着它随风飘荡。我的心灵能感受到它的每一颗粒子，能品尝出它的滋味，那些曾经的骨头，金属和血肉。我能从尘埃的轻触中聆听逝者。一瞬间，我觉得一个声音似曾相识，但转瞬就化作了尘埃撞在盔甲上的柔和敲击声。太阳正在落下。天空犹如火烧。颤动的风扫过我的皮肤。它裹挟着饥渴的耳语。我俯视着一处尘埃堆积的焦黑废墟。这是一切开始的地方，也是一切结束的地方。我曾以为自己永远都不会回到这里，但现在我站在这里，等待着，观察风中飞舞的尘埃。我记得。我是阿泽克·阿里曼<sup>[[1]](#HandOfDust-1)</sup><a name="HandOfDust-1a"></a><sub>(Ahzek Ahriman)</sub>，红之马格努斯<sup>[[2]](#HandOfDust-2)</sup><a name="HandOfDust-2a"></a><sub>(Magnus the Red) </sub>被放逐的儿子，吾之军团的毁灭者。我记得。
+        尘埃从我手上飞向远方的地平线。我看着它随风飘荡。我的心灵能感受到它的每一颗粒子，能品尝出它的滋味，那些曾经的骨头，金属和血肉。我能从尘埃的轻触中聆听逝者。一瞬间，我觉得一个声音似曾相识，但转瞬就化作了尘埃撞在盔甲上的柔和敲击声。太阳正在落下。天空犹如火烧。颤动的风扫过我的皮肤。它裹挟着饥渴的耳语。我俯视着一处尘埃堆积的焦黑废墟。这是一切开始的地方，也是一切结束的地方。我曾以为自己永远都不会回到这里，但现在我站在这里，等待着，观察风中飞舞的尘埃。我记得。我是阿泽克·阿里曼
+<sup>[[1]](#HandOfDust-1)</sup><a name="HandOfDust-1a"></a>
+<sub>(Ahzek Ahriman)</sub>
+，红之马格努斯
+<sup>[[2]](#HandOfDust-2)</sup><a name="HandOfDust-2a"></a>
+<sub>(Magnus the Red)</sub>
+被放逐的儿子，吾之军团的毁灭者。我记得。
 
  
 
@@ -35,7 +41,9 @@
 
         *+ 我在这儿。+*
 
-        *+ 请……+ 那道思绪在呻吟。它有着绝望的味道，好似生命的最后一息。+ 你以前……从未见过……不是吗？你没有到过拜占特<sup> [[3]](#HandOfDust-3)</sup><a name="HandOfDust-3a"></a><sub>(Bezant)</sub> ……或克洛佛 <sub>(Clorphor)</sub>。+*
+        *+ 请……+ 那道思绪在呻吟。它有着绝望的味道，好似生命的最后一息。+ 你以前……从未见过……不是吗？你没有到过拜占特
+<sup>[[3]](#HandOfDust-3)</sup><a name="HandOfDust-3a"></a>
+<sub>(Bezant)</sub> ……或克洛佛 <sub>(Clorphor)</sub>。+*
 
         *他停顿了一下，我感觉到他的意志逐渐模糊，恐慌带来了沉闷的回音。+你听说过……但没有见到过。这是我们的诅咒，孩子。这是我们的命运。当它开始时，你本应杀死我的。现在就做，别等到……+*
 
@@ -59,7 +67,11 @@
 
         *“那么，恐惧之眼仍旧束缚着我。”我自言自语，低头将视线从夜空的伤口移开。天地间跃动着火焰，残垣断壁遍布四野。远处的枪声不绝于耳，一波波爆炸熏黑了地平。我的盔甲挂在身上，似乎被火烤得发黑。断裂的法杖掉在我身边，冒着缕缕青烟。我闭上眼睛，又一次看见了马格努斯的面庞，感受到了当我从那张脸跌开时亚空间的咆哮。*
 
-        *放逐：我父亲说出的最后一个词，这个词随我一同堕入了亚空间。年复一年，千年一瞬。我穿过耀眼夺目的冰，火，和光。其间，我父亲对我说出的最后一个词始终伴随着我，阐述着一个事实，红字<sup> [[4]](#HandOfDust-4)</sup><a name="HandOfDust-4a"></a><sub>(the Rubric) </sub>失败了 -- 我失败了。*
+        *放逐：我父亲说出的最后一个词，这个词随我一同堕入了亚空间。年复一年，千年一瞬
+<sup> [[4]](#HandOfDust-4)</sup><a name="HandOfDust-4a"></a>
+。我穿过耀眼夺目的冰，火，和光。其间，我父亲对我说出的最后一个词始终伴随着我，阐述着一个事实，红字
+<sup> [[5]](#HandOfDust-5)</sup><a name="HandOfDust-5a"></a>
+<sub>(the Rubric) </sub>失败了 -- 我失败了。*
 
  
 
@@ -83,7 +95,9 @@
 
         *我抬起头。*
 
-        *“我是霍尔科斯<sup> [[5]](#HandOfDust-5)</sup><a name="HandOfDust-5a"></a><sub>(Horkos)</sub>”，我说道。*
+        *“我是霍尔科斯
+<sup>[[6]](#HandOfDust-6)</sup><a name="HandOfDust-6a"></a>
+<sub>(Horkos)</sub>”，我说道。*
 
  
 
@@ -108,14 +122,22 @@
 
 **机仆注：**
 
-<a name="HandOfDust-1"></a>1. Ahzek Ahriman, 千子军团 (the Thousand Sons Legion) 的首席智库 (Chief Librarian, 旧时亦作“首席司书官”).<sup>[\[^\]](#HandOfDust-1a)</sup>
+<a name="HandOfDust-1"></a>1. Ahzek Ahriman, 千子军团 (the Thousand Sons Legion) 的首席智库 (Chief Librarian, 旧时亦作“首席司书官”).
+<sup>[\[^\]](#HandOfDust-1a)</sup>
         
-<a name="HandOfDust-2"></a>2. Magnus the Red, 千子军团的原体 (Primarch). 阿里曼是马格努斯最爱的孩子，但由于第一次红字，马格努斯将阿里曼流放。具体可见《阿里曼：放逐者》第八章cv23558552。<sup>[\[^\]](#HandOfDust-2a)</sup>
+<a name="HandOfDust-2"></a>2. Magnus the Red, 千子军团的原体 (Primarch). 阿里曼是马格努斯最爱的孩子，但由于第一次红字，马格努斯将阿里曼流放。具体可见《阿里曼：放逐者》第八章cv23558552。
+<sup>[\[^\]](#HandOfDust-2a)</sup>
 
-<a name="HandOfDust-3"></a>3. Bezant，千子军团的战士首次因血肉变异而死的星球。<sup>[\[^\]](#HandOfDust-3a)</sup>
+<a name="HandOfDust-3"></a>3. Bezant，千子军团的战士首次因血肉变异而死的星球。
+<sup>[\[^\]](#HandOfDust-3a)</sup>
 
-<a name="HandOfDust-4"></a>4. the Rubric，红字法术。阿里曼试图以其消除血肉变异，但不幸失败，并将大多数军团战士化为灰烬。考据参见cv27802930，时间线推断参见cv26663133。<sup>[\[^\]](#HandOfDust-4a)</sup>
+<a name="HandOfDust-4"></a>4. 原文其实是Seconds had become years and years seconds, 另一种意义上的美，非常JF风格。这句呆茄子君是意译的，但还算是准确地转述出了它想要传达的意义，且依然很美。
+<sup>[\[^\]](#HandOfDust-4a)</sup>
 
-<a name="HandOfDust-5"></a>5. Horkos，阿里曼流亡时所用的假名。古希腊神话中，司誓言与背誓的神明。<sup>[\[^\]](#HandOfDust-5a)</sup>
+<a name="HandOfDust-5"></a>5. the Rubric，红字法术。阿里曼试图以其消除血肉变异，但不幸失败，并将大多数军团战士化为灰烬。考据参见cv27802930，时间线推断参见cv26663133。
+<sup>[\[^\]](#HandOfDust-5a)</sup>
+
+<a name="HandOfDust-6"></a>6. Horkos，阿里曼流亡时所用的假名。古希腊神话中，司誓言与背誓的神明。
+<sup>[\[^\]](#HandOfDust-6a)</sup>
 
 
