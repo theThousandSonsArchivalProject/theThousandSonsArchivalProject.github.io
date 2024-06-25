@@ -283,7 +283,9 @@
 
 <div align = center>
   
-![Pre-heresy Ahriman](pics/AhrimanPreHeresy.png)
+![Pre-heresy Ahriman](pics/PreHeresyAhriman.png)
+
+Source: https://www.warhammer.com/en-CA/shop/hh-thousand-sons-azhek-ahriman-2022
 
 </div>
 
