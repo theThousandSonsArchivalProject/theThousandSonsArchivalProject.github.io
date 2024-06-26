@@ -1,4 +1,4 @@
-# 被抹杀的第六学派 The Sixth Cult Denied
+# 被抹杀的第六学派 The Sixth Cult of the Denied
 Graham McNeill 著，薄义云天 译；
 [已获转载授权](/theSixthCultDeniedAuthorization.jpg)
 
