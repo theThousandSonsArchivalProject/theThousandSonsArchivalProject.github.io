@@ -251,13 +251,15 @@
 
 ![](pics/PreHeresyAhriman-OldModel.jpg)
 
-老版本涂装
+某早期涂装指南上的老版本涂装。信源 @DBOA
 
  
 
 
-![Pre-heresy Ahriman](https://www.warhammer.com/app/resources/catalog/product/threeSixty/99123002003_AzhekAhrimanOTT1360/01-01.jpg?fm=webp&w=920)
+![Pre-heresy Ahriman](pics/PreHeresyAhriman-OldModel.jpg)
 
 现行官网涂装
+
+Ref: https://www.warhammer.com/en-CA/shop/hh-thousand-sons-azhek-ahriman-2022
 
 </div>
