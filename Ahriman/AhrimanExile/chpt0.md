@@ -127,6 +127,5 @@
 <a name="AhrimanExile-0-1"></a> 1. the Eye, 即恐惧之眼的别称。
 <sup>[\[^\]](#AhrimanExile-0-1a)</sup>
 
-<a name="AhrimanExile-0-2"></a> 
-2. 尘埃和不断跌坠的感觉，在JF笔下似乎是千子法术中常见的意象。参见[《皆为尘土》](../VoicesOfFate/AllIsDust.md) -- 故事里，红字在未被巫师唤醒时，所见的也是不断跌坠的梦境。
+<a name="AhrimanExile-0-2"></a> 2. 尘埃和不断跌坠的感觉，在JF笔下似乎是千子法术中常见的意象。参见[《皆为尘土》](../VoicesOfFate/AllIsDust.md) -- 故事里，红字在未被巫师唤醒时，所见的也是不断跌坠的梦境。
 <sup>[\[^\]](#AhrimanExile-0-2a)</sup>
