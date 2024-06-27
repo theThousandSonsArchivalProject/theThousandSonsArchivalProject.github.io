@@ -632,13 +632,13 @@
 
 
 
-<div align="center"><sub>
+<div align="center">
 
 <img src="pics/KeeperOfSecrets.png">
 
-Ref: https://www.warhammer.com/en-CA/shop/Keeper-of-Secrets-2019
+</div>
 
-</sub></div>
+Ref: https://www.warhammer.com/en-CA/shop/Keeper-of-Secrets-2019
 
 <a name="GatesOfRuin-8"></a> 8. 即[《死亡神谕》](TheDeadOracle.md)一文的情节。阿里曼在神谕门卡乌拉的玻璃黑月中，以束缚门卡乌拉为表象，令克泰夏斯束缚了夺取门卡乌拉存在的纳垢大魔，蛆虫之主。<sup>[\[^\]](#GatesOfRuin-8a)</sup>
 
