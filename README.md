@@ -129,8 +129,8 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《阿里曼：不变之人》Ahriman: Unchanged（本书亦有译作《阿里曼：不曾改变》的）
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
-* 《恶魔学：一则求与黑暗的问题》Daemonology: A Question Asked of Darkness
-* 《阿里曼：永恒》Ahriman: Eternal
+* [《恶魔学：一则求与黑暗的问题》Daemonologie: A Question Asked of Darkness](Ahriman/AhrimanEternal/Daemonologie/DaemonologieIndex.md)
+* [《阿里曼：永恒》Ahriman: Eternal](Ahriman/AhrimanEternal/AhrimanEternalIndex.md)
 * Ahriman: Undying
 * Players of Fate
 
