@@ -1,18 +1,15 @@
 发售时的套装如下：
 
-<div align = center>
-
 ![](https://i0.hdslb.com/bfs/article/4538c8f7a250dc677ec91aabba4a9420144045315.jpg@1256w_434h_!web-article-pic.avif)
 
 Ref: https://www.trackofwords.com/2017/01/26/thoughts-on-the-ahriman-boxed-set-by-john-french/ 
 
-</div>
 
 
 
 外层书盒：
 
-<div align = center>
+
 
 ![](pics/cover3.jpg)
 
@@ -34,20 +31,19 @@ Ref: https://www.trackofwords.com/2017/01/26/thoughts-on-the-ahriman-boxed-set-b
 
 尔等所有，乃为无物！
 
-</div>
+
 
 
 
 封面：
 
-<div align = center>
+
 
 ![](pics/cover1.jpg)
 
 ![](pics/cover2.jpg)
 
 
-</div>
 
 
 [目录](MasterOfProsperoIndex.md)
