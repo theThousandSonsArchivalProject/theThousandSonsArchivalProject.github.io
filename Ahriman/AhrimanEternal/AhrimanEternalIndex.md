@@ -4,5 +4,5 @@
 
 千子码字机仆 自译，Ciel 校。
 
-- 作者后记
+- [作者后记](JFAfterWords.md)
 - 限定版附赠故事：[《恶魔学：一则求与黑暗的问题》Daemonologie: A Question Asked of Darkness](Daemonologie/DaemonologieIndex.md)
