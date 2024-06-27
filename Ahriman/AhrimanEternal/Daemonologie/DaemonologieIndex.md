@@ -8,4 +8,5 @@
 
 ![](https://i0.hdslb.com/bfs/article/4cab05645b8988ccc5b70d366df900ad144045315.png@1256w_2236h_!web-article-pic.avif)
 
-[part 0](chpt0.md)
+
+- [part 0](chpt0.md)
