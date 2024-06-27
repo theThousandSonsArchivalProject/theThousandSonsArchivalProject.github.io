@@ -295,7 +295,7 @@
 <a name="AhrimanExile-3-2"></a> 2. 这里可能看起来大概类似阿里曼在荷鲁斯叛乱前的盔甲，但颜色略有不同，附图如下
 <sup>[\[^\]](#AhrimanExile-3-2a)</sup>
 
-<div align = center>
+<div align = "center">
   
 ![Pre-heresy Ahriman](pics/PreHeresyAhriman.png)
 
