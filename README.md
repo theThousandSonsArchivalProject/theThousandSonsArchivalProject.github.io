@@ -167,3 +167,4 @@ Please contact us through GitHub issues of this repository should you have furth
 
 - b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
 - [本站转载](/BehindTheStories/BehindTheStoriesIndex.md)
+- 提兹卡地图：[双语熟肉](DuringTheHeresy/hh7/MapOfTizca-CN.jpg)/[英文生肉](DuringTheHeresy/hh7/MapOfTizca-EN.jpg)
