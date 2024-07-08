@@ -250,15 +250,16 @@
 
 ![](pics/PreHeresyAhriman-OldModel.jpg)
 
-某早期涂装指南上的老版本涂装。信源 @DBOA
+某早期涂装指南上的老版本涂装。
+Ref: *How to Paint Citadel Miniatures: The Horus Heresy - Burning of Prospero*, p.26
+信源 @DBOA
 
- <a name="AhrimanExile-2-3"></a> 3. the Rubric, 红字。具体的考据参见https://www.bilibili.com/read/cv27802930/?from=readlist
-<sup>[\[^\]](#AhrimanExile-2-3a)</sup>
 
-
-![Pre-heresy Ahriman](pics/PreHeresyAhriman-OldModel.jpg)
+![Pre-heresy Ahriman](pics/PreHeresyAhriman.png)
 
 现行官网涂装
 
 Ref: https://www.warhammer.com/en-CA/shop/hh-thousand-sons-azhek-ahriman-2022
 
+<a name="AhrimanExile-2-3"></a> 3. the Rubric, 红字。具体的考据参见https://www.bilibili.com/read/cv27802930/
+<sup>[\[^\]](#AhrimanExile-2-3a)</sup>
