@@ -83,7 +83,7 @@ Please contact us through GitHub issues of this repository should you have furth
 ### <a name="MagnusPostHeresy"></a> Post-Heresy 大叛乱之后：
 并没有大叛乱后小马为主人公的长篇小说。
 短篇有一则。
-* [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
+* [《灰之王》King of Ashes](Ahriman/VoicesOfFate/KingOfAshes.md)
   
 另外，以下故事中小马有作为反派boss打酱油。不怎么精彩，机仆就不收录于本站了，暂且只列个名字和链接。
 * 《狼牙堡之战》Battle of the Fang *狼团视角*
@@ -105,27 +105,27 @@ Please contact us through GitHub issues of this repository should you have furth
     * 广播剧版
     * 小说版
 * 《卢修斯：永恒之刃》Lucius, the Eternal Blade
-* 《猩红君王》The Crimson King
+* [《猩红君王》The Crimson King](DuringTheHeresy/TheCrimsonKing/TheCrimsonKingIndex.md)
 * 《黎明星》Morning Star
 * 《太阳战争》*第2、12、17-19章*
 * 《马格努斯之怒》Fury of Magnus
 
 ### <a name="AhrimanPostHeresy"></a> Post-Heresy 大叛乱之后：
 
-* [《皆为尘土》All is Dust](/Ahriman/VoicesOfFate/AllIsDust.md)
-* [《阿里曼：放逐者》Ahriman: Exile](/Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](/Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
+* [《皆为尘土》All is Dust](Ahriman/VoicesOfFate/AllIsDust.md)
+* [《阿里曼：放逐者》Ahriman: Exile](Ahriman/AhrimanExile/AhrimanExileIndex.md)
+* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
 
     <sub>《阿里曼：出奔记》epub版本[点此下载](Ahriman/Ahriman%20Exodus-Unofficial%20CN%20Translation.epub)</sub>
     
-    * [《死亡神谕》The Dead Oracle](/Ahriman/TalesOfCtesias/TheDeadOracle.md)
-    * [《命运愚者》Fortune's Fool](/Ahriman/TalesOfCtesias/Fortune'sFool.md)
-    * [《忿怒猎犬》Hounds of Wrath](/Ahriman/TalesOfCtesias/HoundsOfWrath.md)
+    * [《死亡神谕》The Dead Oracle](Ahriman/TalesOfCtesias/TheDeadOracle.md)
+    * [《命运愚者》Fortune's Fool](Ahriman/TalesOfCtesias/Fortune'sFool.md)
+    * [《忿怒猎犬》Hounds of Wrath](Ahriman/TalesOfCtesias/HoundsOfWrath.md)
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
-* [《阿里曼：术士》Ahriman: Sorcerer](/Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md)
-* [《尘之手》Hand of Dust](/Ahriman/VoicesOfFate/HandOfDust.md)
-* [《灰之王》King of Ashes](/Ahriman/VoicesOfFate/KingOfAshes.md)
+* [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md)
+* [《尘之手》Hand of Dust](Ahriman/VoicesOfFate/HandOfDust.md)
+* [《灰之王》King of Ashes](Ahriman/VoicesOfFate/KingOfAshes.md)
 * 《阿里曼：不变之人》Ahriman: Unchanged（本书亦有译作《阿里曼：不曾改变》的）
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
@@ -166,5 +166,5 @@ Please contact us through GitHub issues of this repository should you have furth
 一些关于千子的考据，现实生活中的、以及故事中的：
 
 - b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
-- [本站转载](/BehindTheStories/BehindTheStoriesIndex.md)
+- [本站转载](BehindTheStories/BehindTheStoriesIndex.md)
 - 提兹卡地图：[双语熟肉](DuringTheHeresy/hh7/MapOfTizca-CN.jpg)/[英文生肉](DuringTheHeresy/hh7/MapOfTizca-EN.jpg)
