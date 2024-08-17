@@ -1,14 +1,14 @@
-~主要人物~
+### 主要人物
 
-原体
+#### 原体
 
 赤红之马格努斯（Magnus the Red），“千子”原体
 
 罗嘉（Logar），“怀言者”原体
 
- 
+ 
 
-第十五军团，“千子”
+#### 第十五军团，“千子”
 
 阿泽克·阿里曼（Ahzek Ahriman），首席智库馆长
 
@@ -26,9 +26,9 @@
 
 伊格尼斯（Ignis）, 毁灭结社（the Order of Ruin）连长
 
- 
+ 
 
-第六军团，“太空野狼”
+#### 第六军团，“太空野狼”
 
 伯德沃·比亚尔基（Bödvar Bjarki），第三连（Tra）的符文牧师
 
@@ -40,21 +40,21 @@
 
 哈尔·贝尔吉尔（Harr Balegyr），狂战士
 
- 
+ 
 
-帝国人员
+#### 帝国人员
 
 “魔纹”马卡多（Malcador），泰拉宰相
 
 “受选者”长濑康夫（Yasu Nagasena），马卡多的猎犬
 
- 
+ 
 
 迪奥·普罗莫斯（Dio Promus），游侠骑士（Knight Errant），“极限战士”前首席智库馆长
 
 安塔卡·赛万（Antaka Cyvaan），“暗鸦守卫”前智库
 
- 
+ 
 
 乌姆韦尔特·乌克威尔（Umwelt Uexküll），赛博术士（Cybertheurgist），欧姆弥赛亚近卫军（Taghmata Omnissiah）
 
@@ -64,7 +64,7 @@
 
 文迪卡特里克斯（Vindicatrix），饕餮级自动机兵（Vorax-class battle-automata）
 
- 
+ 
 
 凯撒利亚·拉文特（Caesaria Laventure），卡密提·索那的守护者
 
@@ -72,10 +72,17 @@
 
 贾毕克·索斯茹克（Jambik Sosruko），米高人（Migou），维勒妲夫人之子
 
- 
+ 
 
 勒缪尔·高蒙，前记述者
 
 卡蜜尔·希梵尼，前记述者
 
 凯雅·帕瓦蒂，普罗斯佩罗的幸存者 
+
+ 
+
+
+[《猩红君王》目录](TheCrimsonKingIndex.md)
+
+下一章：[序](chpt0.md)
