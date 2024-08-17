@@ -10,7 +10,7 @@
 
                 -- 来自阿迈德·伊本拉斯塔《山地人的故事》<sub> (The Upplander's Tale)) </sub>(未出版)
 
-</i>
+<i/>
 
 ---
 
@@ -78,7 +78,7 @@
 
         那就是“故友铸大敌”（Old friends make the worst enemies）。
 
-</i>
+<i/>
 
  
 
