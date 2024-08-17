@@ -82,7 +82,7 @@
 
  
 
-上一章：[出场人物](chpt0.md)
+上一章：[出场人物](DramatisPersonae.md)
 
 [《猩红君王》目录](TheCrimsonKingIndex.md)
 
