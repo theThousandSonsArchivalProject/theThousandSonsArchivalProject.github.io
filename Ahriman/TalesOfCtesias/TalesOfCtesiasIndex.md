@@ -1,4 +1,4 @@
-# 《克泰夏斯故事集》Tales of Ctesias
+# 《克泰夏斯故事集》The Tale of Ctesias
 
 阿里曼的短篇故事集。
 发生在《阿里曼：放逐者》Ahriman: Exile 到《阿里曼：术士》Ahriman: Sorcerer之间。
