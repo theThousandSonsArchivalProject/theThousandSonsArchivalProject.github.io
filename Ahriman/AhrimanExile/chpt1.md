@@ -1,6 +1,6 @@
 **第一部 PART ONE**
 
-**命运使者 EMISSARY OF FATE**
+**命运使者 FATE'S EMISSARY**
 
  
 
