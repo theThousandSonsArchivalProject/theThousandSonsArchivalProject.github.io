@@ -76,7 +76,7 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《启示之贼》Thief of Revelations
     * 广播剧版
     * 小说版
-* 《猩红君王》The Crimson King
+* [《猩红君王》The Crimson King](DuringTheHeresy/TheCrimsonKing/TheCrimsonKingIndex.md)
 * 《黎明星》Morning Star
 * 《马格努斯之怒》Fury of Magnus
 
@@ -114,7 +114,7 @@ Please contact us through GitHub issues of this repository should you have furth
 
 * [《皆为尘土》All is Dust](Ahriman/VoicesOfFate/AllIsDust.md)
 * [《阿里曼：放逐者》Ahriman: Exile](Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>[《克泰夏斯故事集》Tales of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
+* <a name="Ctesias"></a>[《克泰夏斯故事集》The Tale of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
 
     <sub>《阿里曼：出奔记》epub版本[点此下载](Ahriman/Ahriman%20Exodus-Unofficial%20CN%20Translation.epub)</sub>
     
