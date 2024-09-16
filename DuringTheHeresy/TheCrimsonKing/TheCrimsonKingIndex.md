@@ -10,10 +10,10 @@ Graham McNeill, 2017.
 
 - [出场人物](DramatisPersonae.md)
 
-
 - [序](chpt0.md)
 
 第一部分 心灵的重量
 
 - [第一章 赤基黄道仪（Torquetum）/特米卢查/明智地抉择](chpt1.md)
+  
 - [第二章 神谕/“妖怪”/诅咒](chpt2.md)
