@@ -145,4 +145,4 @@ https://www.builderdepot.co.uk/plascrete-20kg-plasflex-flexible-power-tile-adhes
 
 9. @鸦鸦 的弗里克斯简传：基多摩·弗里克斯 Kydomor Forrix，泰拉人，“破城者”，曾任钢铁勇士一连长、战争铁匠、三叉戟。在泰拉围城、围攻狮门太空港时期，被作为战略上的弃子部队前去送死，自此战生还后，心态一蹶不振。泰拉围城后，追随佩图拉博直到恐惧之眼。军团退至恐惧之眼后失去三叉戟职位，降职为普通战争铁匠。及至M41，已经潦倒到在洪索手下讨生活。M41围攻九头蛇之心时，弗里克斯最终死于守军的泰坦。
 
-    有的译本里Kydomor也作凯多摩。不过考虑到iw的希腊背景，y应该是念/i/的 作者：AntsiLynn https://www.bilibili.com/read/cv39916310/?spm_id_from=333.976.0.0&jump_opus=1 出处：bilibili
+    有的译本里Kydomor也作凯多摩。不过考虑到iw的希腊背景，y应该是念/i/的 作者：AntsiLynn https://www.bilibili.com/read/cv39916310/?jump_opus=1 出处：bilibili
