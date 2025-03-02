@@ -13,7 +13,7 @@ form.addEventListener("submit", (e) => {
     alert("Not really... Try again");
   	location.reload();
   } else {
-    console.log("right input")
-  	// hidden.style.opacity = 1;
+    console.log("right input");
+  	window.location.href = "SHChpt2Contents.html";
   }
 });
