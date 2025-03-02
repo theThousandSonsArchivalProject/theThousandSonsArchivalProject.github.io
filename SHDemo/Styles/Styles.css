@@ -2,3 +2,8 @@ body {
   text-align: center;
   background-color: #f0e8c5;
 }
+
+#hidden {
+  text-align: right;
+  opacity: 0;
+}
