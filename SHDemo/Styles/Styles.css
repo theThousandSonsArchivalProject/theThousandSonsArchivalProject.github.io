@@ -4,5 +4,6 @@ body {
 }
 
 #hidden {
+  text-align: left;
   opacity: 0;
 }
