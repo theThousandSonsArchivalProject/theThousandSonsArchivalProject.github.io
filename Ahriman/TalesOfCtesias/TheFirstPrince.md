@@ -428,7 +428,7 @@
 
 <a name="TheFirstPrince-12"></a> 12. Chieftain, 据 [lex](https://wh40k.lexicanum.com/wiki/Chieftain_(Sons_of_Horus))，是荷鲁斯之子中的低级军官 (junior officer) 头衔。源自克苏尼亚帮派文化中，对帮派最为忠诚小团体成员的称呼。可近似看作后世所谓“（战团）冠军”，常指挥掠夺者突击小队 (the Reaver Attack Squad)。由此推测the Death Sight Cohort这一只有本文提到的连队编制，可能也是某种突击连队。<sup>[\[^\]](#TheFirstPrince-12a)</sup>
 
-<a name="TheFirstPrince-13"></a> 13. 关于 Fatidicus 和 Temple of the Saviour Temple:
+<a name="TheFirstPrince-13"></a> 13. 关于 Fatidicus 和 Temple of the Saviour Emperor:
 
 Fatidicus, 真名未知，据修女 2e codex, 是“救世帝皇神殿” （亦作“帝皇圣殿派”）这一组织的早期领导者。后者是后日里帝国国教的前身。目前的一种推测是，根据此人经历（帝国军知名军官、参加过SOT皇宫保卫战），此人有可能是SOT里的克洋。<sup>[\[^\]](#TheFirstPrince-13a)</sup>
 
