@@ -12,7 +12,7 @@
 </div>
 
 <p align = center><i> “若非骄傲的枷锁桎梏着我们的灵魂，人的力量足以颠覆一切造物。”</i></p>
-<p align = right><i> -- 法提蒂库斯<sub> (Fatidicus)</sub>，救世帝皇神殿奠基圣人 </i></p> 
+<p align = right><i> -- 法提蒂库斯<sub> (Fatidicus)</sub>，“救世帝皇神殿”创始圣人 <sup><a href="#TheFirstPrince-13">[13]</a></sup><a name="TheFirstPrince-13a"></a> </i></p> 
 
  
 
@@ -427,6 +427,16 @@
 <a name="TheFirstPrince-11"></a> 11. 原文是dead blubber. blubber, 作名词讲，是（通常是海生哺乳动物，譬如鲸、海豹等的）脂肪；作形容词讲，是（通常形容嘴唇）肿胀之意。<sup>[\[^\]](#TheFirstPrince-11a)</sup>
 
 <a name="TheFirstPrince-12"></a> 12. Chieftain, 据 [lex](https://wh40k.lexicanum.com/wiki/Chieftain_(Sons_of_Horus))，是荷鲁斯之子中的低级军官 (junior officer) 头衔。源自克苏尼亚帮派文化中，对帮派最为忠诚小团体成员的称呼。可近似看作后世所谓“（战团）冠军”，常指挥掠夺者突击小队 (the Reaver Attack Squad)。由此推测the Death Sight Cohort这一只有本文提到的连队编制，可能也是某种突击连队。<sup>[\[^\]](#TheFirstPrince-12a)</sup>
+
+<a name="TheFirstPrince-13"></a> 13. 关于 Fatidicus 和 Temple of the Saviour Temple:
+
+Fatidicus, 真名未知，据修女 2e codex, 是“救世帝皇神殿” （亦作“帝皇圣殿派”）这一组织的早期领导者。后者是后日里帝国国教的前身。目前的一种推测是，根据此人经历（帝国军知名军官、参加过SOT皇宫保卫战），此人有可能是SOT里的克洋。<sup>[\[^\]](#TheFirstPrince-13a)</sup>
+
+更多关于二者的细节可参见如下两则Lex:
+
+https://wh40k.lexicanum.com/wiki/Fatidicus
+
+https://wh40k.lexicanum.com/wiki/Ecclesiarchy
 
  
 
