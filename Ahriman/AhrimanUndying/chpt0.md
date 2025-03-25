@@ -1,6 +1,6 @@
     ‘All history is prelude. All futures are postscript.’
 
-        “一切历史皆为序曲。一切未来皆为后记。”
+        “一切历史皆为序曲。一切未来尽是后记。”
 
 -- 古泰拉谚语，
 
