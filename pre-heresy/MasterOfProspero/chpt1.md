@@ -319,7 +319,7 @@ Ref: https://ifelix.net/sokar-pattern-stormbird-for-aeronautica-imperialis
 
         事故是远非少见的。那些事故里，绝望的飞行员不顾瓦诗缇的指令，冲上天空。大部分时候，他们很快便被以电磁缆索重新定向；或是 -- 在一场未经批准的起飞中 – 被星港的防御炮塔击落在海上，以避免致命的连环碰撞坠毁事故。
 
-        星港的中心，是瞬光号 (the Lux Ferem)*5，一艘泰坦巨人般雄伟的大型货船 (mass-conveyor)*6，来自于一段已然过去不复的、太空探索的时代。彼时，人们期计着这些在群星间远航的利维坦巨兽 *7 会着陆于地，成为新殖民星球的基础设施的一部分。失落科技的技艺为装嵌在千米船体中、功率强大的斥力发生器 (repulsor generator) 提供着能量，使得一艘本不可能自穿越大气层的旅程中幸存下来的舰船得以着陆、又归返群星。
+        星港的中心，是瞬光号 (the Lux Ferem)*5，一艘泰坦巨人般雄伟的大型货船 (mass-conveyor)*6，来自于一段已然过去不复的、太空探索的时代。彼时，人们期计着这些远航于群星之间的利维坦巨兽 *7 会着陆于地，成为新殖民星球的基础设施的一部分。失落科技的技艺为装嵌在千米船体中、功率强大的斥力发生器 (repulsor generator) 提供着能量，使得一艘本不可能自穿越大气层的旅程中幸存下来的舰船得以着陆、又归返群星。
 
         当宪兵与军团士兵们引导着惊恐的平民们走上它的登船坡道时，它庞然的船体向外喷吐着热量：六万人已经登上，还有五万尚待登船。
 
@@ -381,14 +381,14 @@ Ref: https://piktochart.com/tips/what-color-is-bottle-green
 
     Ref: https://en.wikipedia.org/wiki/Leviathan
 
-8. 原文Each was a glaring eyesore. Eyesore, a thing that is very ugly, especially a building that disfigures a landscape. 这种吐槽… 看得出来GM果然是本科学建筑的，而且大概不太欣赏工业之美…
+8. 原文Each was a glaring eyesore. Eyesore, a thing that is very ugly, especially a building that disfigures a landscape. 这种吐槽… 看得出来GM大概不太欣赏工业之美…
 
 9. Sharei Maveth, 目前查到有个音乐人叫Sha'arei Maveth… 考虑到GM确实喜欢在作品里塞奇怪的东西，好像真是neta的她也不是完全不可能… 我记得在reddit看到过人吐槽他往《千子》里塞摇滚乐歌词、往《猩红君王》里塞《钢之炼金术师》的台词。顺带《神盾局特工》Agent of Shield里有个荒凉的星球也叫Maveth.
 
 10. 原文 finial, 对饰于建筑顶部的装饰的统称。源自拉丁文的 finis, 即“末端、末尾”的意思。长这个样子：
 
 https://en.wikipedia.org/wiki/Finial
-11. 原文就是 carved with frescoes; fresco确切来说是湿壁画，趁着土还没干透的时候画的。别问我为什么这玩意儿可以雕刻…
+11. 原文就是 carved with frescoes; fresco确切来说是湿壁画，趁着土还没干透的时候画的。别问我为什么这玩意儿可以雕刻… 目测GM瞎卖弄结果露猴子屁股了
 
 12. 原文 My brother does so like to make a statement. Does和so都是表强调的。Make a statement, to express an idea or belief without using words. 但实际使用而言，大部分时候语境更接近于“嘴里一声不响，以实际行动提出抗议”。譬如说，某人支持lgbtq，而公司都是劳保，遂穿着彩虹旗进公司来make a statement...
 
