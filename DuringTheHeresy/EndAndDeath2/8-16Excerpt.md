@@ -6,7 +6,7 @@
 
         围拢在他们身周的黑暗在颤抖。一阵震颤透过地板传来。好几册老旧的书卷自附近的书架上跌落下来，如此地突然，以至于档案管理员恐惧得惊呼起来。
 
-        毛尔匆匆向辛德曼瞥了一眼。他们在彼此的眼中看到了焦虑。888号展厅 (Collection 888) 深埋冷厅 (the Hall of Leng)* 之下，帝国圣所 (the Sanctum Imperialis) 地基之中。倘若他们身处如此之深的地方都体会到了震感，那么，整个皇宫都一定在震动。
+        毛尔匆匆向辛德曼瞥了一眼。他们在彼此的眼中看到了焦虑。888号馆藏 (Collection 888) 深埋冷厅 (the Hall of Leng)* 之下，帝国圣所 (the Sanctum Imperialis) 地基之中。倘若他们身处如此之深的地方都体会到了震感，那么，整个皇宫都一定在震动。
 
          * 机仆注：有可能是在neta洛夫克拉特 (H.P. Lovecraft) 笔下的冷原 (the Plateau of Leng). 后者在小说中是不同现实汇聚之处，可能在亚洲中部、也可能在南极洲，总之地点不明。Ref: https://lovecraft.fandom.com/wiki/Plateau_of_Leng
 
