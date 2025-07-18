@@ -11,7 +11,7 @@
 <h2>V. 毁灭之门</h2>
 </div>
 
-<p align = center><i>        “不要怜悯迷途者。怜悯那些抵达尽头之人吧，他们终于看清他们到底在追寻何物。”</i></p>
+<p align = center><i>        “不要怜悯迷途者。怜悯那些抵达尽头之人吧，因他们终于看清他们到底在追寻何物。”</i></p>
 <p align = right><i> -- 掌印者马卡多<sub> (Malcador the Sigillite)</sub>，对太阳领主的训诫</i></p> 
 
  
