@@ -131,7 +131,7 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
 * [《恶魔学：一则求与黑暗的问题》Daemonologie: A Question Asked of Darkness](Ahriman/AhrimanEternal/Daemonologie/DaemonologieIndex.md)
 * [《阿里曼：永恒》Ahriman: Eternal](Ahriman/AhrimanEternal/AhrimanEternalIndex.md)
-* Ahriman: Undying
+* 《阿里曼：不灭》Ahriman: Undying
 * Players of Fate
 
 ### <a name="Ahriman40k"></a> 40k时期
@@ -149,7 +149,7 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《重生》Rebirth
 * 《伤疤》Scars 第17-20章
 * 《忠诚》Allegiance
-* 《天堂之路/通天之路》The Path of Heaven第26章
+* 《天堂之路/通天之路》The Path of Heaven
 * 《普罗斯佩罗的最后子嗣》The Last Son of Prospero
 
 <a name="Atharva"></a> 阿萨瓦 Atharva，千子的大远征军团代表 the Crusader Host
