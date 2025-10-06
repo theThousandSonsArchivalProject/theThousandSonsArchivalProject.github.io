@@ -187,7 +187,7 @@
 
         + 它在等待我们。+
 
-        我将视线从悬浮着的水晶球上收回。有人自武装炮艇那敞开舱门旁的烟雾蒸腾中显形。阿斯特罗斯<sup><a href="#TheDeadOracle-3">[3]</a></sup><a name="TheDeadOracle-3a"></a><sub>(Astraeos)</sub>，阿里曼收养的混种战斗灵能者，对我们而言毫无用处，就站在我的身后。他直率的脸上显现出既痛苦又沉重的表情。
+        我将视线从悬浮着的水晶球上收回。有人自武装炮艇那敞开舱门旁的烟雾蒸腾中显形。阿斯特罗斯<sup><a href="#TheDeadOracle-3">[3]</a></sup><a name="TheDeadOracle-3a"></a><sub>(Astraeos)</sub> -- 阿里曼出于不知什么无可理喻的原因收养的小杂种狗战斗灵能者，对我们而言毫无用处 -- 就站在我的身后。他直率的脸上显现出既痛苦又沉重的表情。
 
         + 我们曾经来过这里<sup><a href="#TheDeadOracle-4">[4]</a></sup><a name="TheDeadOracle-4a"></a>。+ 他再次传送道，+ 有什么正等着我们，彼时彼刻，一如此时此刻。+
 
