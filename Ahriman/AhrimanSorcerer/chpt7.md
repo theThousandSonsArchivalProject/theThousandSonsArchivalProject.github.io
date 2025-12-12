@@ -2,8 +2,9 @@
 
 #### 所有那些灰烬的孩子们 ALL THE SONS OF ASHES 
 
+<br/>
 
-<div align = "center">
+<div align="center">
 
 第七章
 
@@ -17,7 +18,7 @@
 
         那丛林曾将萨林纳<sub> (Sarlina) </sub>覆盖笼罩，一个在另一段不同的时代里、为千子所征服的世界。不过，彼时，那些光影是不同的；有什么他心灵之中的东西触碰上了它们，令它们生长不息、直至它们在他身周漫漫流动，好似乌黑的油。
 
-        他再次开始向前行去，感到淤泥在双脚周围漾溢。一只躯体扁平的昆虫自一片叶子下钻了出来，它的甲壳是荧荧着微光的蓝，它挥舞着的、流苏般的触角<sup><a href="Sorcerer07-1" /> [\[1\]](Sorcerer07-1a) </sup>轻轻拍打着被热意浸透的浓滞空气。阿里曼望着它爬过叶子。
+        他再次开始向前行去，感到淤泥在双脚周围漾溢。一只躯体扁平的昆虫自一片叶子下钻了出来，它的甲壳是荧荧着微光的蓝，它挥舞着的、流苏般的触角<sup><a href="#Sorcerer07-1" /> [\[1\]](#Sorcerer07-1a) </sup>轻轻拍打着被热意浸透的浓滞空气。阿里曼望着它爬过叶子。
 
         “你来这儿，是来找我的么？”
 
@@ -108,7 +109,7 @@
 
 * 机仆注：
 
-<a href="Sorcerer07-1a" /> 1. 原文its fringe of waving antennae, 可能指的是类似鳃金龟一类甲虫的触角。如下图右上Beetle例所示。[\[^\](Sorcerer07-1)]
+<a href="#Sorcerer07-1a" /> 1. 原文its fringe of waving antennae, 可能指的是类似鳃金龟一类甲虫的触角。如下图右上Beetle例所示。[\[^\](#Sorcerer07-1)]
 
 Ref: https://kids.britannica.com/students/assembly/view/53503
 Ref: http://www.kepu.gov.cn/newspaper/2024-11/08/content_255059.html
