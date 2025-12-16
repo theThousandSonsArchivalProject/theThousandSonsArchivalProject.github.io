@@ -300,13 +300,6 @@ https://www.warhammer.com/en-CA/shop/horus-heresy-thousand-sons-library-consul-2
 
 <sup>[\[^\]](#AhrimanExile-3-2a)</sup>
 
-<div align = "center">
-  
-![Pre-heresy Ahriman](pics/PreHeresyAhriman.png)
-
-Source: https://www.warhammer.com/en-CA/shop/hh-thousand-sons-azhek-ahriman-2022
-
-</div>
 
 <a name="AhrimanExile-3-3"></a> 3. 图贝克：lex参见 CV9010113，读音上可能更接近托尔贝克，此处为尽量与已知保持一致，取图贝克。
 <sup>[\[^\]](#AhrimanExile-3-3a)</sup>
