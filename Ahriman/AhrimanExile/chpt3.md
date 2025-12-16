@@ -294,7 +294,10 @@
 <sup>[\[^\]](#AhrimanExile-3-1a)</sup>
 
 
-<a name="AhrimanExile-3-2"></a> 2. 这里可能看起来大概类似阿里曼在荷鲁斯叛乱前的盔甲，但颜色略有不同，附图如下
+<a name="AhrimanExile-3-2"></a> 2. 或许可参照的一个棋子是hh的TSons librarian consul，但面甲和目镜颜色不同。
+
+https://www.warhammer.com/en-CA/shop/horus-heresy-thousand-sons-library-consul-2023
+
 <sup>[\[^\]](#AhrimanExile-3-2a)</sup>
 
 <div align = "center">
