@@ -1,8 +1,8 @@
 # The Thousand Sons Archival Project
 
-Thanks for visiting! This is the typewriting servitor, proudly serving the Thousand Sons since m30.823.
+Thanks for visiting! This is AL the typewriting servitor, proudly serving the Thousand Sons since m30.823.
 
-This site is a backup archive on the fan-based Chinese translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
+This site is a backup archive on the fan-based translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
 **Fan-based, non-official, non-profit, PROHIBITED FROM ANY COMMERCIAL USE.**
 
@@ -166,5 +166,4 @@ Please contact us through GitHub issues of this repository should you have furth
 一些关于千子的考据，现实生活中的、以及故事中的：
 
 - b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
-- [本站转载](BehindTheStories/BehindTheStoriesIndex.md)
 - 提兹卡地图：[双语熟肉](DuringTheHeresy/hh7/MapOfTizca-CN.jpg)/[英文生肉](DuringTheHeresy/hh7/MapOfTizca-EN.jpg)
