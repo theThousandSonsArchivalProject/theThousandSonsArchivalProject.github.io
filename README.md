@@ -1,6 +1,6 @@
 # The Thousand Sons Archival Project
 
-Thanks for visiting! This is AL the typewriting servitor, proudly serving the Thousand Sons since m30.823.
+Thanks for visiting! This is AL, the typewriting servitor, proudly serving the Thousand Sons since m30.823.
 
 This site is a backup archive on the fan-based translations of the Thouand Sons' stories. Magnus, Ahriman, Ctesias, Arvida, and more...
 
