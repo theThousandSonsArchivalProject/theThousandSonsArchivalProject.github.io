@@ -109,6 +109,8 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《黎明星》Morning Star
 * 《太阳战争》*第2、12、17-19章*
 * 《马格努斯之怒》Fury of Magnus
+* 《终结与死亡 2、3》The End and the Death, vol 2, 3
+* [《自书中》Ex Libris](DuringTheHeresy/EraOfRuin/ExLibris.md)
 
 ### <a name="AhrimanPostHeresy"></a> Post-Heresy 大叛乱之后：
 
