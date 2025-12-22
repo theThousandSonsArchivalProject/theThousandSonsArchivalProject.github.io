@@ -66,17 +66,17 @@ Please contact us through GitHub issues of this repository should you have furth
 * [《黎明星之战/普罗斯佩罗之主》Master of Prospero](pre-heresy/MasterOfProspero/MasterOfProsperoIndex.md)
 * 《深渊边境》The Abyssal Edge
 * 《被抹杀的第六学派》The Sixth Cult of the Denied
-* 《千子》A Thousand Sons
-* 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来*
+* 《千子》A Thousand Sons *官中已引进，h大译*
+* 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来。官中已引进，h大译*
   
 ### <a name="MagnusDuringHeresy"></a> During the Heresy 大叛乱之中：
 
-* 《伤疤》Scars 17、19、20章 *小马灵魂碎片与可汗的对话*
+* 《伤疤》Scars 17、19、20章 *小马灵魂碎片与可汗的对话。官中已引进，h大译*
 * 《尘埃》Dust
 * 《启示之贼》Thief of Revelations
     * 广播剧版
     * 小说版
-* [《猩红君王》The Crimson King](DuringTheHeresy/TheCrimsonKing/TheCrimsonKingIndex.md)
+* [《猩红君王》The Crimson King](DuringTheHeresy/TheCrimsonKing/TheCrimsonKingIndex.md) *官中已引进，h大译。本站收录的是Sticky的民间译本*
 * 《黎明星》Morning Star
 * 《马格努斯之怒》Fury of Magnus
 
@@ -149,9 +149,9 @@ Please contact us through GitHub issues of this repository should you have furth
 
 <a name="Arvida"></a> 阿维达 Rivuel Arvida，后世的第一任灰骑士大导师：
 * 《重生》Rebirth
-* 《伤疤》Scars 第17-20章
+* 《伤疤》Scars 第17-20章；*官中已引进，h大译*
 * 《忠诚》Allegiance
-* 《天堂之路/通天之路》The Path of Heaven
+* 《天堂之路/通天之路》The Path of Heaven *官中引进中，h大译*
 * 《普罗斯佩罗的最后子嗣》The Last Son of Prospero
 
 <a name="Atharva"></a> 阿萨瓦 Atharva，千子的大远征军团代表 the Crusader Host
