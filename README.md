@@ -9,7 +9,7 @@ This site is a backup archive on the fan-based translations of the Thouand Sons'
 All rights reserved by Games Workshop (GW) & the Black Library (BL).
 
 Please note that this site and all fan-based translations on it are intended **for fan discussions only**, 
-as BL's Chinese transtation partner doesn't have any plans on an official translation so far, particularly on Ahriman's stories. 
+as BL's Chinese transtation partner does not yet have any plans on an official translation of those stories, particularly Ahriman's tales.
 There are so many people in the Chinese Warhammer community who are interested in the Thousand Sons and the (rather tragic) path they tread through, 
 yet unfortunately were unable to read through the novels themselves due to limited English.
 This is why we, and this site, exist. 
