@@ -5,6 +5,8 @@
 千子码字机仆 自译，Ciel 校，
 原译文见b站专栏 rl723180
 
+很多东西还没来得及调整格式（主要是可跳转注解），暂时先只作为一个文字备份，正文上b站看吧... 
+
 <div align="center">
 <h1>目录</h1>
 </div>
@@ -18,6 +20,8 @@
 - [第3章](chpt3.md)
 - [第4章](chpt4.md)
 - [第5章](chpt5.md)
+- [第6章](chpt6.md)
+- [第7章](chpt7.md)
 
 
 上一部：[《克泰夏斯故事集》Tales of Ctesias](../TalesOfCtesias/TalesOfCtesiasIndex.md)
