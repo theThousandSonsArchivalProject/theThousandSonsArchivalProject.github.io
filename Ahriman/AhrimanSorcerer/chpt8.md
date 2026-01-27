@@ -1,10 +1,10 @@
-<div align = "center">
+<p align = "center">
 
 第八章 
 
 心灵空间 
 
-</div>
+</p>
 
 <br>
 
@@ -168,11 +168,17 @@
 <sup>[\[^\]](#AhrimanSorcerer-8-1a)</sup>
 
 
+<div align="center">
+
+<img src="pics/chpt8/Sarcophagus.png">
+
+</div>
+
 <a name="AhrimanSorcerer-8-2"></a> 2. 原文 I trust you to be what you are. 大白话说，大概类似于“我相信你会就是你”。
 <sup>[\[^\]](#AhrimanSorcerer-8-2a)</sup>
 
 <a name="AhrimanSorcerer-8-3"></a> 3. 一个大概有点年头的设定。被附魔之后 (卡丁被附身的剧情参见《放逐者》11-12章) ，灵魂残缺，剩下的部分会不再足够恶魔寄宿。这种灵魂的残缺会导致情感缺失，从此所有的感情都淡淡的了。具体扯淡参见
-<a href="AhrimanSorcerer-8-Appendix">【文末附录】</a>。
+[【文末附录】](#AhrimanSorcerer-8-Appendix)。
 <sup>[\[^\]](#AhrimanSorcerer-8-3a)</sup>
 
 <a name="AhrimanSorcerer-8-4"></a> 4. 原文set in motion. 即，start or trigger a process or series of events. 有一个“后面一系列的东西被推动后依靠惯性自我运行”的味道在。
@@ -190,6 +196,12 @@
 <sup>[\[^\]](#AhrimanSorcerer-8-7a)</sup>
 
 
-<a name="AhrimanSorcerer-8-Appendix"></a> 【文末附录】
+<a name="AhrimanSorcerer-8-Appendix"></a> **【文末附录】**
 
 关于附魔与其带来的影响 -- 感谢 @fatman 对这一设定的提及！
+
+<div align="center">
+
+<img src="pics/chpt8/onDaemonPossession.jpg">
+
+</div>
