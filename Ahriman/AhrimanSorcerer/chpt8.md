@@ -1,11 +1,11 @@
 ### [阿里曼：术士 Ahriman: Sorcerer](AhrimanSorcererIndex.md)
 
+<!-- part 1，https://www.bilibili.com/read/cv44726288 -->
+<a name="AhrimanSorcerer-8-Part1"></a>
+
 <div align = "center">
 <h4> 第八章 心灵空间 </h4>
 </div>
-
-<!-- part 1，https://www.bilibili.com/read/cv44726288 -->
-<a name="AhrimanSorcerer-8-Part1"></a>
 
         “任何人不得入内。”随着通向房间的大门打开，阿里曼转过身，看向卡丁。门锁机关那嘶嘶的气声与沉闷碰撞的咣啷声回荡在空荡的走廊里，响亮得刺耳。他的身后，玛罗斯背靠走廊壁蹲伏着，犬盔左右摆动，仿佛在倾听着什么不存于此的声音。赛拉博们已经清空了方圆一公里内、任何方向上的所有舱层。
 
