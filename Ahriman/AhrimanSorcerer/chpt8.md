@@ -198,7 +198,7 @@
 
 <br><br>
 
-<a name="AhrimanSorcerer-8-Appendix"></a> **【文末附录】**
+<a name="AhrimanSorcerer-8-Appendix"></a> **【文末附录】** <sup>[\[^\]](#AhrimanSorcerer-8-3)</sup>
 
 关于附魔与其带来的影响 -- 感谢 @fatman 对这一设定的提及！
 
