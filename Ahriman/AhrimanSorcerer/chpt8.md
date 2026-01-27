@@ -1,10 +1,10 @@
-<p align = "center">
+<div align = "center">
 
-第八章 
+<p> 第八章 </p>
 
-心灵空间 
+<p> 心灵空间 </p>
 
-</p>
+</div>
 
 <br>
 
