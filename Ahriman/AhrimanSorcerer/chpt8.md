@@ -6,6 +6,8 @@
 
 </div>
 
+<br>
+
         “任何人不得入内。”随着通向房间的大门打开，阿里曼转过身，看向卡丁。门锁机关那嘶嘶的气声与沉闷碰撞的咣啷声回荡在空荡的走廊里，响亮得刺耳。他的身后，玛罗斯背靠走廊壁蹲伏着，犬盔左右摆动，仿佛在倾听着什么不存于此的声音。赛拉博们已经清空了方圆一公里内、任何方向上的所有舱层。
 
         门后的舱室并不是卡丁所预期的模样。深埋西考拉克斯号机械甲板之间，那舱室或许曾是处弹药库、又或是储存易挥发物质的仓库。它很小，只有一扇防爆门可以进入，墙壁是一块块的塑钢板。干涸的锈迹布满了这舱室的边边角角。唯一的照明来自于天花板上一只黄铜笼中、一盏昏黄的灯。这地方给人的感觉，就仿佛它曾一次又一次落于不同的用途，直到它被彻底遗忘。
@@ -65,7 +67,7 @@
         “安静啊。”玛罗斯向着自己低语。卡丁没有回答。
 
 
-<br></br>
+<br><br>
 
 
         阿里曼望着那石棺，望了无比漫长的一瞬。他感觉到亚空间等待着，等待在他周围，它的潮汐被刻入地板的纹路塑出了形状。在他心灵的眼里，一方方金色的光之平面自那纹样中升起。一枚枚符文悬在空中，好似一只只小小的、意义与潜能的太阳，一些静着，另一些一簇簇围绕着彼此环行。罗网的中央，躺卧着那只石棺，沉眠其中一梦不醒的心灵荧荧着梦境的微光。他花费了数日来将这仪式构建。它的每一部分都好似一只庞大而精巧的，思绪、象徵、与以太力量的机器。它只在等待着他，等待他的心灵将它推动开启
@@ -76,7 +78,7 @@
 
 
 
-<br></br>
+<br><br>
 
 
 
@@ -156,7 +158,7 @@
 
         “会的。”他说道。
 
-<br></br>
+<br><br>
 
 
 
@@ -166,32 +168,28 @@
 <sup>[\[^\]](#AhrimanSorcerer-8-1a)</sup>
 
 
-<a name="AhrimanSorcerer-8-2"></a> 
-2. 原文 I trust you to be what you are. 大白话说，大概类似于“我相信你会就是你”。
+<a name="AhrimanSorcerer-8-2"></a> 2. 原文 I trust you to be what you are. 大白话说，大概类似于“我相信你会就是你”。
 <sup>[\[^\]](#AhrimanSorcerer-8-2a)</sup>
 
-<a name="AhrimanSorcerer-8-3"></a> 
-3. 一个大概有点年头的设定。被附魔之后 (卡丁被附身的剧情参见《放逐者》11-12章) ，灵魂残缺，剩下的部分会不再足够恶魔寄宿。这种灵魂的残缺会导致情感缺失，从此所有的感情都淡淡的了。具体扯淡参见【文末附录】。
+<a name="AhrimanSorcerer-8-3"></a> 3. 一个大概有点年头的设定。被附魔之后 (卡丁被附身的剧情参见《放逐者》11-12章) ，灵魂残缺，剩下的部分会不再足够恶魔寄宿。这种灵魂的残缺会导致情感缺失，从此所有的感情都淡淡的了。具体扯淡参见
+<a href="AhrimanSorcerer-8-Appendix">【文末附录】</a>。
 <sup>[\[^\]](#AhrimanSorcerer-8-3a)</sup>
 
-<a name="AhrimanSorcerer-8-4"></a> 
-4. 原文set in motion. 即，start or trigger a process or series of events. 有一个“后面一系列的东西被推动后依靠惯性自我运行”的味道在。
+<a name="AhrimanSorcerer-8-4"></a> 4. 原文set in motion. 即，start or trigger a process or series of events. 有一个“后面一系列的东西被推动后依靠惯性自我运行”的味道在。
 <sup>[\[^\]](#AhrimanSorcerer-8-4a)</sup>
 
-<a name="AhrimanSorcerer-8-5"></a> 
-5. the sign of Thothmes，千子用于隔绝内外信息来往的符文。初见于《千子》第三章 cv1871614，彼时小马以此符文屏蔽外界一切窥探。《放逐者》第16章 cv26244960 亦有提及，彼时阿教授以之反向隔绝外界察觉符文之内他们一行人的动静。顺便一提，这个符记是以第一任天枭圣堂讲师的名字命名的。Thothmes一名，可能是在neta古埃及神话里，白鹮头的智慧之神Thoth. 
+<a name="AhrimanSorcerer-8-5"></a> 5. the sign of Thothmes，千子用于隔绝内外信息来往的符文。初见于《千子》第三章 cv1871614，彼时小马以此符文屏蔽外界一切窥探。《放逐者》第16章 cv26244960 亦有提及，彼时阿教授以之反向隔绝外界察觉符文之内他们一行人的动静。顺便一提，这个符记是以第一任天枭圣堂讲师的名字命名的。Thothmes一名，可能是在neta古埃及神话里，白鹮头的智慧之神Thoth. 
 <sup>[\[^\]](#AhrimanSorcerer-8-5a)</sup>
 
-<a name="AhrimanSorcerer-8-6"></a> 
-6. Idris, 古兰经中的先知之一，一说亦名“以诺”Enoch -- 啊对，就是“以诺语”那个以诺。
+<a name="AhrimanSorcerer-8-6"></a> 6. Idris, 古兰经中的先知之一，一说亦名“以诺”Enoch -- 啊对，就是“以诺语”那个以诺。
 <sup>[\[^\]](#AhrimanSorcerer-8-6a)</sup>
 
     Ref: https://en.wikipedia.org/wiki/Idris_(prophet)
 
-<a name="AhrimanSorcerer-8-7"></a> 
-7. 同上文所用的betray不一样，这里用的是treachery. 叛国欺君的那种。
+<a name="AhrimanSorcerer-8-7"></a> 7. 同上文所用的betray不一样，这里用的是treachery. 叛国欺君的那种。
 <sup>[\[^\]](#AhrimanSorcerer-8-7a)</sup>
 
 
-【文末附录】关于附魔与其带来的影响
-感谢 @fatman 对这一设定的提及！
+<a name="AhrimanSorcerer-8-Appendix"></a> 【文末附录】
+
+关于附魔与其带来的影响 -- 感谢 @fatman 对这一设定的提及！
