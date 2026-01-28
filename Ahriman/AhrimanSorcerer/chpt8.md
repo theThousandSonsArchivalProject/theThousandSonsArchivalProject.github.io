@@ -243,7 +243,9 @@
 
 
 <br>
-    <div align="right">（第8章 未完待续）</div>
+
+<div align="right">（第8章 未完待续）</div>
+
 <br>
 
 
