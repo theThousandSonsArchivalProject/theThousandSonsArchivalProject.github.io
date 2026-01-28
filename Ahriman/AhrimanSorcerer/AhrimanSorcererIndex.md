@@ -1,6 +1,6 @@
 # 《阿里曼：术士》Ahriman: Sorcerer
 
-长篇。阿里曼**第二红字**三部曲的第二部。讲述阿里曼寻觅小马灵魂碎片 -- 神识之殿 the Athenaeum 的故事。
+长篇。阿里曼**第二红字**三部曲的第二部。讲述阿里曼寻觅神识之殿 the Athenaeum 的故事。
 
 千子机仆@AntsiLynn 自译，Ciel 校，
 原译文见b站专栏 [rl723180](https://www.bilibili.com/read/readlist/rl723180)
