@@ -219,7 +219,7 @@
 
         那男人忽然猛地抬起了头，皮肤一阵涟漪似的抖动。“普罗斯佩罗的孩子们。”他说，而那声音是一阵空洞的嘶哑喘息，“我看见普罗斯佩罗的城，而今倾覆如草被割下。它的孩子们呼唤着我。我们是他们的孩子，一如他们是它的孩子。我们即是他们的复仇。”最后的言语在这地下室里回荡，隆隆的，愈发地响亮。尘埃与碎石自地上升扬而起。他的脸鼓胀起来。爱奥贝尔有种隐约的感觉，仿佛看到有手指压迫在那绷紧的皮肤上。
 
-        她扣动了热熔枪的扳机。一道灼热的光线当胸击中了那男人的胸口中央。他躯体的脂肪与血肉汽化了那么一瞬，而后他扭曲得不成样子的骨骼爆炸开来。一声群鸟啁啾似的嘈杂尖啸划破了空气，愈发地尖锐高亢，好似一群食腐之鸟的声音
+        她扣动了热熔枪的扳机。一道灼热的光线当胸击中了那男人的胸口中央。他躯体的脂肪与血肉汽化了那么一瞬，而后他扭曲得不成样子的骨骼爆炸开来。一声群鸟啁啾似的嘈杂尖啸划破了空气，愈发地尖锐高亢，好似一群腐尸之鸟的声音
 <sup><a href="#AhrimanSorcerer-8-8">[8]</a></sup><a name="AhrimanSorcerer-8-8a"></a>
 。天花板上蓝色的火焰猛地一涨，火苗探展如伸出的手。然后，它消失了，将爱奥贝尔留在了半明的晦暗里。一秒钟后，废墟残骸开始噼里啪啦砸在外面的地上。那声音听上去仿佛冰雹落下。
 
@@ -289,7 +289,7 @@
 <a name="AhrimanSorcerer-8-7"></a> 7. 同上文所用的betray不一样，这里用的是treachery. 叛国欺君的那种。
 <sup>[\[^\]](#AhrimanSorcerer-8-7a)</sup>
 
-<a name="AhrimanSorcerer-8-8"></a> 8. 原文rising like a flock of carrion. A flock of carrion大约是a flock of carrion birds的省略，因为已经有个flock指向鸟群了。有意思的是，虽然carrion birds字面意义指的是食腐鸟类，但网上搜索 a flock of carrion 的结果大多情况下指向的是乌鸦。
+<a name="AhrimanSorcerer-8-8"></a> 8. 原文rising like a flock of carrion. 目前暂时取的直接意译，不过另有一说认为 flock of carrion 或许是a flock of carrion birds的省略，因为已经有个flock指向鸟群了。有意思的是，虽然carrion birds字面意义指的是食腐鸟类，但网上搜索的结果大多情况下指向的是乌鸦。
 <sup>[\[^\]](#AhrimanSorcerer-8-8a)</sup>
 
 <a name="AhrimanSorcerer-8-9"></a> 9. glaive. 单刃而长柄的冷兵器。
