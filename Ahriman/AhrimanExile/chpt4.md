@@ -260,6 +260,12 @@
 
 <br><br/>
 
+<div align="right">
+（第四章 完）
+</div>
+
+<br><br/>
+
 上一章：[第3章 探访](chpt3.md)
 
 [《阿里曼：放逐者》目录](AhrimanExileIndex.md)
@@ -273,4 +279,3 @@
 <a name="AhrimanExile-4-1"></a> 1. 工造士 enginseer 的各种翻译很多,亦见有引擎修士、引擎先知、科技牧师等等。大体上是机械教里负责现场维护维修的职业。可参考Lex: cv4527843；
 <sup>[\[^\]](#AhrimanExile-4-1a)</sup>
 
-（第四章 完）
