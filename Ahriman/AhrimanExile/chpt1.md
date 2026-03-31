@@ -266,10 +266,10 @@
 
 <a name="AhrimanExile-1-6"></a> 6. 锤世界观下，灵能活动常伴随寒霜。<sup>[\[^\]](#AhrimanExile-1-6a)</sup>
 
-<a name="AhrimanExile-1-7"></a> 7. 原文是"I am fate come rounded last." 有种命运终临回环的感觉，或许亦然可作“我是命运归临”。Shround君对此句翻译不一，有作“我是终临的命运”和“我是命运，终将驾临”的。但其实是同一句，并且在这本书里反复提及。这句话及其变体 (如fate come rounded at last) 后续第18章、第21章还会出现。 <sup>[\[^\]](#AhrimanExile-1-7a)</sup>
+<a name="AhrimanExile-1-7"></a> 7. 原文 "I am fate come rounded last." 有种命运终临回环的感觉，或许亦然可作“我是命运归临”。Shround君对此句翻译不一，有作“我是终临的命运”和“我是命运，终将驾临”的。但其实是同一句，并且在这本书里反复提及。这句话及其变体 (如fate come rounded at last) 后续第18章、第21章还会出现。 <sup>[\[^\]](#AhrimanExile-1-7a)</sup>
 
 <a name="AhrimanExile-1-8"></a> 8. melta-charge，热熔炸弹。这里charge是类似于炸药包 demilition charge的含义。<sup>[\[^\]](#AhrimanExile-1-8a)</sup>
 
-<a name="AhrimanExile-1-9"></a> 9. 原文是It will be done. Shroud君原翻译作“会办妥的”，在这个语境下是准确的。但是，It will be done是教授 -- 乃至千子们 -- 几乎口头禅一样经常说的一句，本体及变形 (如it has been done) 在后续剧情里还会常常出现。为了兼容后续剧情，刻意取了稍稍模糊一点的“会成的”。 <sup>[\[^\]](#AhrimanExile-1-9a)</sup>
+<a name="AhrimanExile-1-9"></a> 9. 原文 It will be done. Shroud君原翻译作“会办妥的”，在这个语境下是准确的。但是，It will be done是教授 -- 乃至千子们 -- 几乎口头禅一样经常说的一句，本体及变形 (如it has been done) 在后续剧情里还会常常出现。为了兼容后续剧情，刻意取了稍稍模糊一点的“会成的”。 <sup>[\[^\]](#AhrimanExile-1-9a)</sup>
 
 <a name="AhrimanExile-1-10"></a> 10. 这里描写的是智库们盔兜上的灵能增幅装置，psychic hood，详见https://wh40k.lexicanum.com/wiki/Psychic_Hood 。<sup>[\[^\]](#AhrimanExile-1-10a)</sup>
