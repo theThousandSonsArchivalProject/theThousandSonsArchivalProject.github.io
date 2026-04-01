@@ -49,5 +49,6 @@
 <sup>[\[^\]](#AhrimanSorcerer-0-1a)</sup>
 
 
-<a name="AhrimanSorcerer-0-2"></a> 2. 西方民俗传说认为巫师女巫这些习魔法之人大多是左撇子。英语里左手亦称sinister hand -- 乃至为何sinister有“同邪恶、魔法等相关”之释义 -- 亦与此相关；更多或可参见 https://www.merriam-webster.com/wordplay/sinister-left-dexter-right-history
+<a name="AhrimanSorcerer-0-2"></a> 2. 西方民俗传说认为巫师女巫这些习魔法之人大多是左撇子。英语里为何sinister有“同邪恶、魔法等相关”之释义，与此有所相关 -- 英语继承拉丁文，将左手亦称sinister hand，而随着“习魔法之人多是左撇子”一说在民间的流传，sinister一词也渐渐从“左侧”流变为如今的释义。
+更多或可参见 https://www.merriam-webster.com/wordplay/sinister-left-dexter-right-history
 <sup>[\[^\]](#AhrimanSorcerer-0-2a)</sup>
