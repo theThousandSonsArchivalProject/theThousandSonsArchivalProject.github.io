@@ -614,5 +614,5 @@
 
 <a name="TheDeadOracle-10"></a> 10. 原文很美。It was something else, a scrap of unfinished time resolving itself, a conversation that needed to play out for fate to be satisfied.<sup>[\[^\]](#TheDeadOracle-10a)</sup>
 
-<a name="TheDeadOracle-11"></a> 11. 是《阿里曼：放逐者》第7章的事情。那时候，阿里曼以回答门卡乌拉“为什么你在被放逐的这些年间从不许自己死去”为代价，换取门卡乌拉回答他的问题。这个代价似乎时至如今仍旧有效。<sup>[\[^\]](#TheDeadOracle-11a)</sup>
+<a name="TheDeadOracle-11"></a> 11. 是《阿里曼：放逐者》第7章的事情。那时候，阿里曼以回答门卡乌拉“为什么你在被放逐的这些年间从不许自己死去”为代价，换取门卡乌拉回答他的问题。这个代价似乎时至如今仍旧有效。克泰夏斯不知阿教授此前这次拜访，误以为自己提问却没有支付代价。<sup>[\[^\]](#TheDeadOracle-11a)</sup>
 
