@@ -42,9 +42,9 @@ Seconds later, the vehicles opened fire.
 
 ……
 
-He dropped Konrad Vargha as the supplicants surrounding him scattered in screaming panic. High-calibre shells from sponson-mounted assault weapons raked them, cutting down a score of people almost immediately and wounding dozens more.
+He dropped Konrad Vargha as the supplicants surrounding him scattered in screaming panic. High-calibre *shells* from sponson-mounted assault weapons raked them, cutting *down* a score of people almost immediately and wounding *dozens more*.
 
-The Red Dragons were slaughtering their own people.
+The Red Dragons were slaughtering their own *people*.
 
 试译：随着那坦克的庞然身躯为其身后更小型的车辆 – “犀牛”运兵车、“奇美拉”步战车、与“处刑者”坦克 \*1的混合 – 清出一条道来，一堆碎石雪崩般倾泻而下，冲上了街道。所有的车辆都涂装着红龙部队 \*2的色彩，而马格努斯自顾自点了点头。至少，聚集在他周围的幸存者们，现在有个逃生的途径了。
 
@@ -58,9 +58,9 @@ The Red Dragons were slaughtering their own people.
 
 ……
 
-他（注：指马格努斯）丢下康拉德·瓦尔加（注：行星领导人），周围的求救者们惊恐尖叫着，四散奔逃。侧炮架上的突击炮发射的大口径炮弹扫射而来，几乎瞬间就炸死了二十多人，并导致数十人受伤。
+他（注：指马格努斯）丢下康拉德·瓦尔加（注：行星领导人），周围的求救者们惊恐尖叫着，四散奔逃。侧炮架上的突击炮发射的大口径*炮弹*扫射而来，几乎瞬间就*炸死了*二十多人，并导致*数十人*受伤。
 
-红龙部队正在屠杀他们自己的人民啊。】
+红龙部队正在屠杀他们自己的*人民*啊。】
 
 1. 均为本世界观下的军用车辆型号。后文“毒刃”坦克亦然。
 
