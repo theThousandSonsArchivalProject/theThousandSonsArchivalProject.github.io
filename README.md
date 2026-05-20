@@ -68,11 +68,11 @@ Please contact us through GitHub issues of this repository should you have furth
 * 《深渊边境》The Abyssal Edge
 * 《被抹杀的第六学派》The Sixth Cult of the Denied
 * 《千子》A Thousand Sons *官中已引进，h大译*
-* 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第七章尼凯亚会议处与剧情主线衔接起来。官中已引进，h大译*
+* 《普罗斯佩罗之焚》Prospero Burns *狼团视角，大致在第10章尼凯亚会议处与剧情主线衔接起来。官中已引进，h大译*
   
 ### <a name="MagnusDuringHeresy"></a> During the Heresy 大叛乱之中：
 
-* 《伤疤》Scars 17、19、20章 *小马灵魂碎片与可汗的对话。官中已引进，h大译*
+* 《伤疤》Scars 16、18、19章 *小马灵魂碎片与可汗的对话。官中已引进，h大译*
 * 《尘埃》Dust
 * 《启示之贼》Thief of Revelations
     * 广播剧版
