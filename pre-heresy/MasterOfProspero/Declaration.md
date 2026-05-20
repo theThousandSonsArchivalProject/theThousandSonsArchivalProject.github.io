@@ -80,7 +80,7 @@ The Red Dragons were slaughtering their own *people*.
 
 【He held out the slate upon which the Mechanicum's data indicating Mount Kailash's inevitable fate was clearly displayed. 】
 
-然而，该词历史复杂，如今多为藏独及支持藏独的部分西方NGO组织对冈底斯山主峰的特殊称呼，与涉藏主权问题有着脱不开的联系。
+然而，该词历史复杂，如今多为藏独及支持藏独的部分西方NGO组织对冈底斯山主峰（即冈仁波齐峰）的特殊称呼，与涉藏主权问题有着脱不开的联系。
 
 更为令人忧虑的是，该词在小说中确实是有实际剧情意义指向的。小说中足花费了半章的文字，讲述当地人视Mount Kailash为圣山，并在此地即将毁灭时，宁愿随山毁灭也不肯随部队离开。这一情节，同部分西方媒体于约08-15年期间，伙同藏独势力炮制的“藏民自焚”抹黑叙事是十分相似的。无独有偶地是，本书恰好成书于约13-15年。
 
