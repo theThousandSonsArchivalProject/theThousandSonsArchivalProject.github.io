@@ -18,7 +18,7 @@
 
 【“Yes. When the eastern ethnarchs fell, the Thousand Sons marched across the cindered remains of the Dragon Nations, preserving and learning all we could of that land's ancient history and culture. Much had already been lost in the fires of self-immolation, but in the ruins of Ba-Shu, we found the remains of a storage facility for rockets intended to bear atomic warheads. However, that did not appear to be its original designation -its true purpose was a launch station for trans-orbital craft, perhaps the first to breach the solar system. Some of the walls had a faded versions of this symbol painted on them.”
 
-试译：“是啊。当东方的那些族国（ethnarchs）陷落时，千子们一路开拨过神龙国度（the Dragon Nations）那灰烬的废墟，尽我们一切所能地去保存、去了解关于那片土地古老历史文化的一切。大部分都已经失落在自焚（self-immolation）\*1的大火里了，可是，在巴蜀（Ba-Shu）的废墟里，我们找到了一座导弹储存设施的遗存，其中的导弹本计划要用于携带核弹头的。然而，那似乎并不是它原本被定于的用途-它真正的目的，是一座发射站，用于发射跨轨道飞行器的-或许是第一个突破太阳系的飞行器呢。那里的一些墙壁上，有这符号褪淡的版本涂画其上\*2。”】
+试译：“是啊。当东方的那些族国（ethnarchs）陷落时，千子们一路开拨过神龙国度（the Dragon Nations）那灰烬的废墟，尽我们一切所能地去保存、去了解关于那片土地古老历史文化的一切。大部分都已经失落在自焚（self-immolation）\*1 的大火里了，可是，在巴蜀（Ba-Shu）的废墟里，我们找到了一座导弹储存设施的遗存，其中的导弹本计划要用于携带核弹头的。然而，那似乎并不是它原本被定于的用途-它真正的目的，是一座发射站，用于发射跨轨道飞行器的-或许是第一个突破太阳系的飞行器呢。那里的一些墙壁上，有这符号褪淡的版本涂画其上\*2。”】
 
 1. Self-immolation-这个词有着非常强的指向性，指的是通过宗教化自杀的方式表达抗议。
 
@@ -46,7 +46,7 @@ He dropped Konrad Vargha as the supplicants surrounding him scattered in screami
 
 The Red Dragons were slaughtering their own *people*.
 
-试译：随着那坦克的庞然身躯为其身后更小型的车辆 – “犀牛”运兵车、“奇美拉”步战车、与“处刑者”坦克 \*1的混合 – 清出一条道来，一堆碎石雪崩般倾泻而下，冲上了街道。所有的车辆都涂装着红龙部队 \*2的色彩，而马格努斯自顾自点了点头。至少，聚集在他周围的幸存者们，现在有个逃生的途径了。
+试译：随着那坦克的庞然身躯为其身后更小型的车辆 – “犀牛”运兵车、“奇美拉”步战车、与“处刑者”坦克 \*1 的混合 – 清出一条道来，一堆碎石雪崩般倾泻而下，冲上了街道。所有的车辆都涂装着红龙部队 \*2 的色彩，而马格努斯自顾自点了点头。至少，聚集在他周围的幸存者们，现在有个逃生的途径了。
 
 那辆毒刃坦克猛地停了下来，顶部的穹顶舱盖打开了。一位身着粗帆布与皮革的坦克手军服的士兵从中现了出来，他的面容遮隐在有着护面的头盔、还有循环呼吸装置之下。一枚金色的领章，上绘着“一颗被环绕的星”这一该星球的行星徽记，在他的翻领上闪闪发光。
 
