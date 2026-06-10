@@ -112,11 +112,9 @@
 
 2015年1月26日，《马格努斯》一书正式发售前、大概率仍在创作期间的时候，麦克尼尔曾如此在社交媒体上转发：
 
-<br>
 <div align="center">
   <img src="pics/GMSocialMedia2.png">
 </div>
-<br> 
 
 此文系波士顿环球报发布的一篇社论，“为何言论自由至关重要”。原社论见于以下链接：
 https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html
@@ -126,11 +124,9 @@ https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opi
 
 这篇社论中，可想而知地，对我国所谓“言论不自由”进行了大量论断。而更为危险的，则是此文中明文将我国与纳粹相提并论、归为一类，明确指控我国疑似种族灭绝。
 
-<br>
 <div align="center">
   <img src="pics/BostonGlobe1.png">
 </div>
-<br> 
  
 鉴于麦克尼尔本人常年在社交媒体上的表现，他对这样一篇社论进行了转发、且并没有进行任何批判，我们有理由怀疑麦克尼尔本人对这篇社论的内容哪怕不说支持，至少是不反对的。尤其值得忧虑的是，按照麦克尼尔本人在其《猩红君王》的作者后记中、对《马格努斯》与《猩红君王》两本书创作过程的记述，这篇社论的时间大概率出现在《马格努斯》的筹备或创作期间，因而我们格外忧虑《马格努斯》一书可能在创作过程中，受到了这类对华抹黑报道的影响，乃至写作过程中有意或无意地将相关材料用在了故事构建当中。
 
