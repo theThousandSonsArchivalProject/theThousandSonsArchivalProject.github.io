@@ -47,7 +47,7 @@
 
 <br>
 
-目前能够确定的是，格雷厄姆·麦克尼尔 (Graham McNeill)本人长期来往并支持的自媒体及媒体从业者中，不止一位有反华倾向；且麦克尼尔本人为其中部分人直接站台背书过。此外，麦克尼尔本人亦曾对某些反华社论进行过直接转发。现将其中部分言论截图整理如下：
+目前能够确定的是，格雷厄姆·麦克尼尔 (Graham McNeill) 本人长期来往并支持的自媒体及媒体从业者中，不止一位有反华倾向；且麦克尼尔本人为其中部分人直接站台背书过。此外，麦克尼尔本人亦曾对某些反华社论进行过直接转发。现将其中部分言论截图整理如下：
 
 <br>
 
@@ -65,6 +65,7 @@
 </div>
 
 
+<br>
 <div align="center">
   <img src="pics/Sarah1.jpg">
   <img src="pics/Sarah2.png">
@@ -72,6 +73,8 @@
   <p>图：麦克尼尔频繁互动的媒体从业者Sarah Kendzior部分对华、对藏言论节选</p>
 </div>
 
+
+<br>
 <div align="center">
   <img src="pics/GM&SarahOnChina.jpg">
   <p>图：麦克尼尔与上述作者就其涉华书籍的直接互动</p>
@@ -79,12 +82,28 @@
 
 
 <br>
+<div align="center">
+  <img src="pics/Andrea1.png">
+  <img src="pics/Andrea2.png">
+  <img src="pics/Andrea3.png">
+  <p>图：麦克尼尔频繁互动的媒体从业者Andrea Chalupa部分涉华、对华言论节选</p>
+</div>
 
-图：麦克尼尔频繁互动的媒体从业者Andrea Chalupa部分涉华、对华言论节选
+
+<br>
+<div align="center">
+  <img src="pics/GaslitNation1.png">
+  <p>图：麦克尼尔频繁表达支持的自媒体账号@gaslitnation部分涉华言论节选</p>
+</div>
+
+
+<br>
+<div align="center">
+  <img src="pics/Eric1.png">
+  <p>图：麦克尼尔于其社交媒体上时常表达对“人权”等话题的高度关注</p>
+</div>
  
-图：麦克尼尔频繁表达支持的自媒体账号@gaslitnation部分涉华言论节选
- 
-图：麦克尼尔于其社交媒体上时常表达对“人权”等话题的高度关注
+
 
 <br>
 <br>
@@ -93,7 +112,12 @@
 
 2015年1月26日，《马格努斯》一书正式发售前、大概率仍在创作期间的时候，麦克尼尔曾如此在社交媒体上转发：
 
- 
+<br>
+<div align="center">
+  <img src="pics/GMSocialMedia2.png">
+</div>
+<br> 
+
 此文系波士顿环球报发布的一篇社论，“为何言论自由至关重要”。原社论见于以下链接：
 https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html。
 
@@ -101,6 +125,12 @@ https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWV
 https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf
 
 这篇社论中，可想而知地，对我国所谓“言论不自由”进行了大量论断。而更为危险的，则是此文中明文将我国与纳粹相提并论、归为一类，明确指控我国疑似种族灭绝。
+
+<br>
+<div align="center">
+  <img src="pics/BostonGlobe1.png">
+</div>
+<br> 
  
 鉴于麦克尼尔本人常年在社交媒体上的表现，他对这样一篇社论进行了转发、且并没有进行任何批判，我们有理由怀疑麦克尼尔本人对这篇社论的内容哪怕不说支持，至少是不反对的。尤其值得忧虑的是，按照麦克尼尔本人在其《猩红君王》的作者后记中、对《马格努斯》与《猩红君王》两本书创作过程的记述，这篇社论的时间大概率出现在《马格努斯》的筹备或创作期间，因而我们格外忧虑《马格努斯》一书可能在创作过程中，受到了这类对华抹黑报道的影响，乃至写作过程中有意或无意地将相关材料用在了故事构建当中。
 
