@@ -119,7 +119,7 @@
 <br> 
 
 此文系波士顿环球报发布的一篇社论，“为何言论自由至关重要”。原社论见于以下链接：
-https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html。
+https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html
 
 该社论的作者, Steven Pinker, 也在其个人主页上对此进行了备份：
 https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf
