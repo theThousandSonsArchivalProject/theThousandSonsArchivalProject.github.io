@@ -24,11 +24,9 @@
   浙江科学技术出版社总编办
 </div>
 
-<br>
 
 ---
 
-<br>
 
 尊敬的浙江科学技术出版社总编室、尊敬的吕老师：
 
@@ -38,6 +36,7 @@
 
 敬礼！
 
+<br>
 <br>
 
 
@@ -117,10 +116,10 @@
 </div>
 
 此文系波士顿环球报发布的一篇社论，“为何言论自由至关重要”。原社论见于以下链接：
-https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html
+[https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html](https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html)
 
 该社论的作者, Steven Pinker, 也在其个人主页上对此进行了备份：
-https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf
+[https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf](https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf)
 
 这篇社论中，可想而知地，对我国所谓“言论不自由”进行了大量论断。而更为危险的，则是此文中明文将我国与纳粹相提并论、归为一类，明确指控我国疑似种族灭绝。
 
