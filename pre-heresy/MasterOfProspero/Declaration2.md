@@ -120,10 +120,13 @@
 [https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html](https://www.bostonglobe.com/opinion/2015/01/26/why-free-speech-fundamental/aaAWVYFscrhFCC4ye9FVjN/story.html)
 
 该社论的作者, Steven Pinker, 也在其个人主页上对此进行了备份：
-<a href="https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf">
-  https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf
-</a>
+<p>
+  <a href="https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf">
+    https://stevenpinker.com/files/pinker/files/why_free_speech_is_fundamental_-_opinion_-_the_boston_globe.pdf
+  </a>
+</p>
 
+<br>
 
 这篇社论中，可想而知地，对我国所谓“言论不自由”进行了大量论断。而更为危险的，则是此文中明文将我国与纳粹相提并论、归为一类，明确指控我国疑似种族灭绝。
 
