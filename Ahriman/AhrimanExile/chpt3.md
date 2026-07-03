@@ -1,3 +1,8 @@
+千子机仆@AntsiLynn 译，@ciel 校；
+
+初发布于b站cv22290777、cv22369224
+
+---
 <div align="center">
 <h4>
 第三章 探访 
