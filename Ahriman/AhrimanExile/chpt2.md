@@ -1,3 +1,9 @@
+千子机仆@AntsiLynn 译，@ciel 校；
+
+初发布于b站cv35288915、cv36188627
+
+---
+
 <div align="center"><h4>
 第二章 泰坦之子
 </h4></div>
