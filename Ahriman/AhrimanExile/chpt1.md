@@ -1,6 +1,6 @@
-千子机仆@AntsiLynn 译，@ciel 校；@ShroudofEventide 对本节亦有部分贡献。
+千子机仆@AntsiLynn 译，@Ciel 校；@ShroudofEventide 对本节亦有部分贡献。
 
-初发布于b站cv33325011、cv34409783
+初发布于b站 cv33325011、cv34409783
 
 ---
 
