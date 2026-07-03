@@ -1,4 +1,13 @@
-作者：Azkaellon https://www.bilibili.com/read/cv23825817/?spm_id_from=333.976.0.0&jump_opus=1 出处：bilibili
+##  重生
+
+本文译自**Rebirth**，原收录于HH短篇集Age of Darkness。Chris Wraight著，@Azkaellon 译。
+
+译本初发布于b站[cv23825817](https://www.bilibili.com/read/cv23825817)、[cv24876319](https://www.bilibili.com/read/cv24876319)
+
+[已获译者转载备份许可](ArvidaAuthorization.png)
+
+---
+
 
  我不知道自己离开了多久。我本该知道的——我那强化记忆和神经节机理本应保留些蛛丝马迹，可脑海里却是一干二净。
 
@@ -772,4 +781,3 @@
 
     继而，他化作一道暗影，隐没在阴翳之中。 
     
-    作者：Azkaellon https://www.bilibili.com/read/cv24876319/?spm_id_from=333.976.0.0&jump_opus=1 出处：bilibili
