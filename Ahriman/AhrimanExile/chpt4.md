@@ -1,3 +1,9 @@
+千子机仆@AntsiLynn 译，@ciel 校；
+
+初发布于b站 cv22437328、cv22583204
+
+---
+
 <div align="center"><h4>
 第四章 誓言
 </h4></div>
