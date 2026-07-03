@@ -272,6 +272,12 @@
 
 图左即为最早版本的hh阿教授涂装。Ref: https://www.warhammer-community.com/2016/11/19/new-ahriman-model/
 
+
+![](pics/hhAhri2004.jpg)
+
+Warlords of the Dark Millenium: Ahriman (2013), p.14. 原图据推测绘制于04年。具体详见 cv36074004 相关部分。
+
+
 ![Pre-heresy Ahriman](pics/PreHeresyAhriman.png)
 
 现行官网涂装
