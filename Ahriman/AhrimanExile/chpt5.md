@@ -419,5 +419,4 @@
 **机仆注：**
 
 <a name="AhrimanExile-5-1"></a> 1. 这里阿里曼看到的红字的记忆，可参见《皆为尘土》的第一段“我记得”，cv34740837
-
-<sup>[\[^\]](#AhrimanExile-1-1a)</sup>
+<sup>[\[^\]](#AhrimanExile-5-1a)</sup>
