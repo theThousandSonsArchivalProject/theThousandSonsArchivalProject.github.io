@@ -1,3 +1,5 @@
+https://www.bilibili.com/read/cv43962950
+        
         本文为JF为阿里曼第二红字三部曲限定套装所作的作者序之一，随该套装中《阿里曼：放逐者》一书放出。版权归GW所有，本文仅供学习交流。由衷感谢 @Yith 提供生肉源！千子机仆@AntsiLynn 译，@Ciel 校。
 
         又：本文或许同JF于16年的两则 "Who is Ahriman" 访谈一起食用更佳：
@@ -45,4 +47,4 @@ John French
 
 \1. 原文hubris. 和arrogance不一样，这是那种极致的傲慢，本是指古希腊悲剧里凡人对诸神的傲慢 – 极致的骄傲与违逆，招致诸神神罚与复仇的那种。潜台词里有一种“对诸神、对命运”的狂妄 (?) 意味在里面。
 
-\2. 原文wisdom. 类似“人生智慧”的那种大智慧。 作者：AntsiLynn https://www.bilibili.com/read/cv43962950/?jump_opus=1 出处：bilibili
+\2. 原文wisdom. 类似“人生智慧”的那种大智慧。
