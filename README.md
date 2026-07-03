@@ -148,9 +148,9 @@ Please contact us through GitHub issues of this repository should you have furth
 ### During the Heresy 大叛乱期间：
 
 <a name="Arvida"></a> 阿维达 Rivuel Arvida，后世的第一任灰骑士大导师：
-* 《重生》Rebirth
+* [《重生》Rebirth](Arvida/Rebirth.md)
 * 《伤疤》Scars 第17-20章；*官中已引进，h大译*
-* 《忠诚》Allegiance
+* [《忠诚》Allegiance](Arvida/Allegiance.md)
 * 《天堂之路/通天之路》The Path of Heaven *官中引进中，h大译*
 * 《普罗斯佩罗的最后子嗣》The Last Son of Prospero
 
