@@ -1,4 +1,4 @@
-千子机仆@AntsiLynn 译，@ciel 校；
+千子机仆@AntsiLynn 译，@Ciel 校；
 
 初发布于b站cv22290777、cv22369224
 
