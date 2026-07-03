@@ -1,4 +1,13 @@
-作者：Azkaellon https://www.bilibili.com/read/cv16492299/?spm_id_from=333.976.0.0&jump_opus=1 出处：bilibili
+##  忠诚
+
+本文译自**Allegiance**，原收录于HH短篇集War without End。Chris Wraight著，@Azkaellon 译。
+
+译本初发布于b站[cv16492299](https://www.bilibili.com/read/cv16492299)、[cv17147934](https://www.bilibili.com/read/cv17147934)
+
+[已获译者转载备份许可](ArvidaAuthorization.png)
+
+---
+
 
 
 每天他醒来时，都觉得自己还在普罗斯佩罗（Prospero）上。
