@@ -322,7 +322,7 @@ https://www.warhammer.com/en-CA/shop/horus-heresy-thousand-sons-library-consul-2
 <a name="AhrimanExile-3-5"></a> 5. cabal, a secret political clique or faction. 目前见过的译本里亦有作阿里曼阴谋团，但这个词本意只是有(政治)秘密的小团体。期待正式官方译名。
 <sup>[\[^\]](#AhrimanExile-3-5a)</sup>
 
-<a name="AhrimanExile-3-6"></a> 6. 原文To what end, 约等于what end result are you trying to make happen. 除了字面意思，还有一层隐含的“你要我同你一起走向什么样的终局”的意思。
+<a name="AhrimanExile-3-6"></a> 6. 原文 To what end, 约等于what end result are you trying to make happen. 除了字面意思，还有一层隐含的“你要我同你一起走向什么样的终局”的意思。
 <sup>[\[^\]](#AhrimanExile-3-6a)</sup>
 
 <a name="AhrimanExile-3-7"></a> 7. 这段描写里说的人看起来似乎是阿蒙。那顶有角头盔后来在阿蒙死后被教授继承。
