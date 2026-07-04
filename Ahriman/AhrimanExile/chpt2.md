@@ -262,7 +262,7 @@
 
 **机仆注：**
 
-<a name="AhrimanExile-2-1"></a> 1. 原文是revelation. 偏向圣经《启示录》那种风格的启示。
+<a name="AhrimanExile-2-1"></a> 1. 原文revelation. 偏向圣经《启示录》那种风格的启示。
 <sup>[\[^\]](#AhrimanExile-2-1a)</sup>
 
 <a name="AhrimanExile-2-2"></a> 2. 这些是阿教授hh时期铠甲的残片。法杖、胸前的圣甲虫、奥尔穆兹德的银橡树叶，还有彼时的盔。不过官网上现行的hh阿教授涂装和这篇小说所描述的有些许不同。古早版本 -- 也即本文中所描述的那个版本 -- 里，hh时期阿教授的头盔面甲是铜金色的。更多关于hh阿教授涂装的变迁可参见[cv36074004](https://www.bilibili.com/read/cv36074004)
