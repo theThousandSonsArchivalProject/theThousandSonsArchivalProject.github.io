@@ -457,6 +457,8 @@ https://en.wikipedia.org/wiki/Menkaure
 Ref: 
 https://wh40k.lexicanum.com/wiki/Epistolary
 
+> Librarian: Acolytum - Lexicanium — Codicier — Epistolary — Chief Librarian
+>
 > Epistolary is the third rank of Space Marine Librarians.
 >
 > Their primary role is chief communications officer, both on the battlefield and beyond. They are able to use their powers to project their mind through the warp, similar to the Astropaths of the Adeptus Astra Telepathica, but without the need to endure the torturous ritual of soul binding that is otherwise required. More commonly, their abilities are used over shorter distances, coordinating attacks and battle orders.
