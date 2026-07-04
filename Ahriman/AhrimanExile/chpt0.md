@@ -129,6 +129,8 @@
 
 下一章：[第一章 劫难者](chpt1.md)
 
+<br>
+
 **机仆注：**
 
 <a name="AhrimanExile-0-1"></a> 1. the Eye, 即恐惧之眼的别称。
