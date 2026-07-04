@@ -153,6 +153,16 @@
 
         “谢谢你。”她说，只留阿里曼困惑地望着她远去的身影。
 
+<br><br>
 
+<div align="right">
+（第八章 完）
+</div>
 
-（第八章 完） 作者：AntsiLynn https://www.bilibili.com/read/cv23558552/ 出处：bilibili
+<br><br>
+
+上一章：[第7章 神谕](chpt7.md)
+
+[《阿里曼：放逐者》目录](AhrimanExileIndex.md)
+
+下一章：[第9章 死亡空间](chpt9.md)
