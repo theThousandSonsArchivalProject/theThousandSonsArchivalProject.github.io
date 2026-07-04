@@ -1,6 +1,5 @@
-https://www.bilibili.com/read/cv43962950
-        
-        本文为JF为阿里曼第二红字三部曲限定套装所作的作者序之一，随该套装中《阿里曼：放逐者》一书放出。版权归GW所有，本文仅供学习交流。由衷感谢 @Yith 提供生肉源！千子机仆@AntsiLynn 译，@Ciel 校。
+
+        本文为JF为阿里曼第二红字三部曲限定套装所作的作者序之一，随该套装中《阿里曼：放逐者》一书放出。版权归GW所有，本文仅供学习交流。由衷感谢 @Yith 提供生肉源！千子机仆@AntsiLynn 译，@Ciel 校。本文初发布于b站 [cv43962950](https://www.bilibili.com/read/cv43962950)
 
         又：本文或许同JF于16年的两则 "Who is Ahriman" 访谈一起食用更佳：
 
@@ -8,13 +7,10 @@ https://www.bilibili.com/read/cv43962950
 
         - www.warhammer-community.com/2016/11/17/who-is-ahriman-part-2-by-john-french
 
-        原文已经被GW冲水了，好在wayback machine有副本留存。完整的该访谈本站 cv9094815 有译。
+        原文已经被GW冲水了，好在wayback machine有副本留存。完整的该访谈 cv9094815 有译。
 
-<br>
 
 ---
-
-<br>
 
 <div align="center">
   <h4> 作者序 </h4>
