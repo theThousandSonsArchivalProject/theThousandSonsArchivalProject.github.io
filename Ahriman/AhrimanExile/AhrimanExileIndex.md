@@ -1,13 +1,18 @@
-# 《阿里曼：放逐者》Ahriman: Exile
+# 阿里曼：放逐者
 
 长篇。阿里曼**第二红字**三部曲的第一部。讲述阿里曼自因第一次红字被马格努斯放逐后、到继承阿蒙战帮的故事。
 
+**请在看完 [《皆为尘土》](../VoicesOfFate/AllIsDust.md) 后阅读本书**
 
-千子机仆@AntsiLynn 自译，Ciel 校。序、第一章、第二章 ShroudofEventide君亦有部分贡献。
+本书译自 Ahriman: Exile, John French 著，千子机仆@AntsiLynn 译，Ciel 校。翻译时间 2023.3-2024.7
 
-原译文见b站专栏 rl685950
+序、第一章、第二章 ShroudofEventide君亦有部分贡献。
+
+原译文见b站专栏 [rl685950](https://www.bilibili.com/read/readlist/rl685950)
 
 **格式目前只做到第5章，再往后很多东西还没来得及调整格式（主要是可跳转注解）**。暂时先只作为一个文字备份，正文上b站看吧...
+
+---
 
 <div align="center">
 <h1>目录</h1>
