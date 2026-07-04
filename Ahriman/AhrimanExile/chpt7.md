@@ -431,6 +431,14 @@
 
 <br><br>
 
+上一章：[第6章 记忆之烬](chpt6.md)
+
+[《阿里曼：放逐者》目录](AhrimanExileIndex.md)
+
+下一章：[第8章 红字](chpt8.md)
+
+<br><br>
+
 **机仆注：**
 
 <a name="AhrimanExile-7-1"></a> 1. 原文 My Apologies. 相对sorry 比较正式一点。
