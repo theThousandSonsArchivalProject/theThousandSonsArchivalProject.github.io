@@ -63,7 +63,7 @@ Please contact us through GitHub issues of this repository should you have furth
 
 ### <a name="MagnusPreHeresy"></a> Pre-Heresy 大叛乱之前：
 
-* [《黎明星之战/普罗斯佩罗之主》Master of Prospero](pre-heresy/MasterOfProspero/MasterOfProsperoIndex.md)
+<!-- * [《黎明星之战/普罗斯佩罗之主》Master of Prospero](pre-heresy/MasterOfProspero/MasterOfProsperoIndex.md) -->
 * 《深渊边境》The Abyssal Edge
 * 《被抹杀的第六学派》The Sixth Cult of the Denied
 * 《千子》A Thousand Sons *官中已引进，h大译*
@@ -128,7 +128,7 @@ Please contact us through GitHub issues of this repository should you have furth
 * [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md)
 * [《尘之手》Hand of Dust](Ahriman/VoicesOfFate/HandOfDust.md)
 * [《灰之王》King of Ashes](Ahriman/VoicesOfFate/KingOfAshes.md)
-* 《阿里曼：不变之人》Ahriman: Unchanged（本书亦有译作《阿里曼：不曾改变》的）
+* 《阿里曼：不变之人》Ahriman: Unchanged
 * 《掠尸者的钱币》A Coin for the Carrion Thieves
 * 《阿里曼：无限之钥》Ahriman: Key of Infinity
 * [《恶魔学：一则求与黑暗的问题》Daemonologie: A Question Asked of Darkness](Ahriman/AhrimanEternal/Daemonologie/DaemonologieIndex.md)
