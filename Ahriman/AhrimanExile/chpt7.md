@@ -425,40 +425,9 @@
 
         “等你从这儿出来，我想，就该是时候给出一些答案了。”
 
-
+<br><br>
 
 （第7章  完）
-
-下一章阿教授就要回忆第一次红字了！
-
-* 机仆注：
-
-1. 原文a crooked smile, 指的是不甚对称、往往嘴角一边比另一边高的笑容。
-
-
-2. 原文美极了。He thought of the lifetimes he had spent on the edge of the Eye of Terror, never allowing himself to be as he was, always waiting for death that never came but never running to meet it.
-
-3. 次元爪棋子如下
-
-Ref: https://www.warhammer.com/en-CA/shop/Warp-Talons-2018
-4. 做了个简单的受力分析，隐约怀疑这里作者gw物理了，阿教授应该是感觉到有力把他向地板压去才对。极度简化的受力分析见文末附录。
-
-
-附录：关于GW物理的吐槽：
-
-        简单的受力分析：从穿梭机船头的方向看，做一个径向的剖面图（反正我们不关心穿梭机航行方向上的运动）。
-
-        假设正在做着翻滚运动的穿梭机在径向上做的是匀速圆周运动，圆心在船舱截面中心橙色点处。
-
-        只算合力的话，那么现在被恶魔钉在穿梭机地板上的阿教授需要受到蓝色的Fn才能提供这一运动状态的向心加速度。这个力是由穿梭机地板提供的，换言之，需要地板挤压阿教授才会有。因此需要阿教授被拉向地板，而非如文中所描述的被拉离地板。
-
-
-        当然理论上阿教授感到他被拉离地板似乎也不是不可行，但这种情况下，需要匀速圆周运动的圆心在阿教授后背那个方向上，大概率这个圆心会在穿梭机之外，如下图灰色部分所示。这时候提供Fn的是那只压着阿教授的恶魔。
-
-
-        不过，考虑到这是个很小且简陋的单舱穿梭机，彼时还有三只恶魔扒在船舱外面；外加原文写的是the shuttle spun而非spiralled (第四章里卡尔门塔击沉图贝克的船时，确实是用spiralled这个词来描述图贝克的船的)，机仆表示对这个可能有点怀疑…
-
- 作者：AntsiLynn https://www.bilibili.com/read/cv23458858/?opus_fallback=1 出处：bilibili
 
 <br><br>
 
@@ -488,8 +457,27 @@ https://wh40k.lexicanum.com/wiki/Epistolary
 <sup>[\[^\]](#AhrimanExile-7-5a)</sup>
 
 
----
+<a name="AhrimanExile-7-6"></a> 6. 原文a crooked smile, 指的是不甚对称、往往嘴角一边比另一边高的笑容。
+<sup>[\[^\]](#AhrimanExile-7-6a)</sup>
 
+![](Pictures/CrookedSmile.png)
+
+
+<a name="AhrimanExile-7-7"></a> 7. 原文美极了。He thought of the lifetimes he had spent on the edge of the Eye of Terror, never allowing himself to be as he was, always waiting for death that never came but never running to meet it.
+<sup>[\[^\]](#AhrimanExile-7-7a)</sup>
+
+<a name="AhrimanExile-7-8"></a> 8. 次元爪棋子如下
+<sup>[\[^\]](#AhrimanExile-7-8a)</sup>
+
+![](Pictures/WarpTalons.png)
+
+Ref: https://www.warhammer.com/en-CA/shop/Warp-Talons-2018
+
+
+<a name="AhrimanExile-7-9"></a> 9. 做了个简单的受力分析，隐约怀疑这里作者gw物理了，阿教授应该是感觉到有力把他向地板压去才对。极度简化的受力分析见文末附录。
+<sup>[\[^\]](#AhrimanExile-7-9a)</sup>
+
+---
 
 **文末附录：关于GW物理的吐槽** 
 
@@ -499,8 +487,10 @@ https://wh40k.lexicanum.com/wiki/Epistolary
 
 只算合力的话，那么现在被恶魔钉在穿梭机地板上的阿教授需要受到蓝色的Fn才能提供这一运动状态的向心加速度。这个力是由穿梭机地板提供的，换言之，需要地板挤压阿教授才会有。因此需要阿教授被拉向地板，而非如文中所描述的被拉离地板。
 
+![](Pictures/ForceAnalysis1.png)
 
 当然理论上阿教授感到他被拉离地板似乎也不是不可行，但这种情况下，需要匀速圆周运动的圆心在阿教授后背那个方向上，大概率这个圆心会在穿梭机之外，如下图灰色部分所示。这时候提供Fn的是那只压着阿教授的恶魔。
 
+![](Pictures/ForceAnalysis2.png)
 
 不过，考虑到这是个很小且简陋的单舱穿梭机，彼时还有三只恶魔扒在船舱外面；外加原文写的是the shuttle spun而非spiralled (第四章里卡尔门塔击沉图贝克的船时，确实是用spiralled这个词来描述图贝克的船的)，机仆表示对这个可能有点怀疑…
