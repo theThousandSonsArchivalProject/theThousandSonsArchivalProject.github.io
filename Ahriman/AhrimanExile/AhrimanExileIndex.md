@@ -6,8 +6,6 @@
 
 本书译自 Ahriman: Exile, John French 著，千子机仆@AntsiLynn 译，Ciel 校。翻译时间 2023.3-2024.7
 
-序、第一章、第二章 ShroudofEventide君亦有部分贡献。
-
 原译文见b站专栏 [rl685950](https://www.bilibili.com/read/readlist/rl685950)
 
 **格式目前只做到第6章，再往后很多东西还没来得及调整格式（主要是可跳转注解）**。暂时先只作为一个文字备份，正文上b站看吧...
