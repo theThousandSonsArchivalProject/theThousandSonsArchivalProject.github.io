@@ -1,3 +1,9 @@
+千子机仆@AntsiLynn 译，@Ciel 校；
+
+初发布于b站 cv23558552
+
+---
+
 <div align="center"><h4>
 第八章 红字
 </h4></div>
