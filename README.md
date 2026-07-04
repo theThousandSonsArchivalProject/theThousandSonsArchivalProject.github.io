@@ -116,7 +116,7 @@ Please contact us through GitHub issues of this repository should you have furth
 
 * [《皆为尘土》All is Dust](Ahriman/VoicesOfFate/AllIsDust.md)
 * [《阿里曼：放逐者》Ahriman: Exile](Ahriman/AhrimanExile/AhrimanExileIndex.md)
-* <a name="Ctesias"></a>[《克泰夏斯故事集》The Tale of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman:Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
+* <a name="Ctesias"></a>[《克泰夏斯故事集》The Tale of Ctesias](Ahriman/TalesOfCtesias/TalesOfCtesiasIndex.md) <sub>克泰夏斯眼中的阿里曼。亦收录于[《阿里曼：出奔记》Ahriman: Exodus](Ahriman/AhrimanExodusIndex.md)中。</sub>
 
     <sub>《阿里曼：出奔记》epub版本[点此下载](Ahriman/Ahriman_Exodus-Unofficial_CN_Translation.epub)</sub>
     
@@ -125,7 +125,7 @@ Please contact us through GitHub issues of this repository should you have furth
     * [《忿怒猎犬》Hounds of Wrath](Ahriman/TalesOfCtesias/HoundsOfWrath.md)
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
-* <!-- [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md)-->
+<!-- * [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md) -->
 * 《阿里曼：术士》Ahriman: Sorcerer
 * [《尘之手》Hand of Dust](Ahriman/VoicesOfFate/HandOfDust.md)
 * [《灰之王》King of Ashes](Ahriman/VoicesOfFate/KingOfAshes.md)
