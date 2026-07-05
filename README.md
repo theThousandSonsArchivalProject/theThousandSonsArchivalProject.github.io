@@ -170,3 +170,11 @@ Please contact us through GitHub issues of this repository should you have furth
 
 - b站专栏 [rl700604](https://www.bilibili.com/read/readlist/rl700604)
 - 提兹卡地图：[双语熟肉](DuringTheHeresy/hh7/MapOfTizca-CN.jpg)/[英文生肉](DuringTheHeresy/hh7/MapOfTizca-EN.jpg)
+
+
+
+<!--
+note to self:
+  df4b0ab3153c0bcaef26af4f83e196c9e4b3cddd 后因为试图清exodus epub的log触发了redeploy, 有大概一个月的deploy时间异常，所有的deploy time被压到2026.07.05了。
+  但原始结果没有丢，在commit d9d71586871916ef914a762129984154614a64b4 依然可以看到
+-->
