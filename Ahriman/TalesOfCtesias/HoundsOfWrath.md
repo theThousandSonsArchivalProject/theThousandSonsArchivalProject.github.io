@@ -1,6 +1,6 @@
 # 忿怒猎犬 Hounds of Wrath
 
-本文译自**Hounds of Wrath**, John French 著，千子码字机仆 自译，Ciel 校；
+本文译自**Hounds of Wrath**, John French 著，千子机仆@AntsiLynn 译，@Ciel 校；
 
 收录于[《克泰夏斯故事集》Tales of Ctesias](TalesOfCtesiasIndex.md) 中。
 
