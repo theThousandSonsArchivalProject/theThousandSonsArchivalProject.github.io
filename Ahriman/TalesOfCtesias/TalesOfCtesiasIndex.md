@@ -7,7 +7,8 @@
 和《命运之声》Voices of Fate一并收录于阿教授的短篇合集[《阿里曼：出奔记》Ahriman: Exodus](../AhrimanExodusIndex.md)中。
 
 原译文汇总见b站专栏《阿里曼：出奔记》rl724148；
-译者不一，各自标注。
+
+千子机仆@AntsiLynn 译，@Ciel 校
 
 <div align="center">
 <h1>目录</h1>
