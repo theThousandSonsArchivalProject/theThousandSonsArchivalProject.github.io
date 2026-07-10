@@ -111,7 +111,9 @@
 
         “来吧，我的兄弟们。”我说，“是时候了。”
 
- 
+
+<br>
+ 
 (尘之手 完)
 
 上一篇：[《阿里曼：术士》Ahriman: Sorcerer](../AhrimanSorcerer/AhrimanSorcererIndex.md)
