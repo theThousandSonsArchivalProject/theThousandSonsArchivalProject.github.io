@@ -36,10 +36,11 @@ Please contact us through GitHub issues of this repository should you have furth
 - [阿里曼](#Ahriman)
 - [克泰夏斯](#Ctesias)
 - [阿维达](#Arvida)
+- [卡杨](#Khayon)
 - [一些零散的其他...](#OtherThousandSons)
 - 以及[大量考据](#BehindTheScenes)...
 
-<sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub>
+<s><sub>* 机仆对卡杨不很感兴趣，暂时不打算收录。不过如果哪位想要收录他的故事，欢迎提交pull request :P</sub></s>
 
 <sub>* 有中文官方出版的内容就不收录了，咱们还是支持一下下正版... </sub>
 
@@ -125,8 +126,8 @@ Please contact us through GitHub issues of this repository should you have furth
     * [《忿怒猎犬》Hounds of Wrath](Ahriman/TalesOfCtesias/HoundsOfWrath.md)
     * [《第一亲王》The First Prince](Ahriman/TalesOfCtesias/TheFirstPrince.md)
     * [《毁灭之门》Gates of Ruin](Ahriman/TalesOfCtesias/GatesOfRuin.md)
-<!-- * [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md) -->
-* 《阿里曼：术士》Ahriman: Sorcerer
+* [《阿里曼：术士》Ahriman: Sorcerer](Ahriman/AhrimanSorcerer/AhrimanSorcererIndex.md) 
+<!-- * 《阿里曼：术士》Ahriman: Sorcerer-->
 * [《尘之手》Hand of Dust](Ahriman/VoicesOfFate/HandOfDust.md)
 * [《灰之王》King of Ashes](Ahriman/VoicesOfFate/KingOfAshes.md)
 * 《阿里曼：不变之人》Ahriman: Unchanged
@@ -164,6 +165,11 @@ Please contact us through GitHub issues of this repository should you have furth
 ### 40k:
 <a name="SomeUnluckyGuy"></a> 某个时光密教的巫师：
 * 《圣贤之旅》Journey of the Magi
+
+卡杨 Khayon:
+<a name="Khayon"></a>
+* 《荷鲁斯之爪》Talon of Horus
+* [《黑军团》Black Legion](Khayon/BlackLegion/BlackLegionIndex.md)
 
 ## <a name="BehindTheScenes"></a> 千子考据集
 一些关于千子的考据，现实生活中的、以及故事中的：
